@@ -1,0 +1,10 @@
+{
+  "Python": ["Data Analyst", "Machine Learning Engineer", "AI Researcher"],
+  "JavaScript": ["Frontend Developer", "React Developer", "Full Stack Engineer"],
+  "SQL": ["Database Administrator", "Data Engineer"],
+  "Communication": ["Project Manager", "Business Analyst", "Product Owner"],
+  "Leadership": ["Team Lead", "Operations Manager", "Scrum Master"],
+  "Creativity": ["UI/UX Designer", "Graphic Designer", "Game Designer"],
+  "Research": ["Data Scientist", "Academic Researcher", "R&D Analyst"],
+  "Problem Solving": ["Software Engineer", "Systems Architect", "DevOps Engineer"]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Junior Software Engineer",
+    "description": "Develop and maintain web applications using Python and Django. Collaborate with teams to design scalable systems.",
+    "skills": ["python", "django", "sql", "problem solving"],
+    "company": "TechCorp"
+  },
+  {
+    "title": "Data Analyst",
+    "description": "Analyze datasets, create dashboards and derive insights using SQL and visualization tools.",
+    "skills": ["sql", "data analysis", "excel", "visualization"],
+    "company": "AnalyticsHub"
+  },
+  {
+    "title": "Project Coordinator",
+    "description": "Coordinate project activities, track milestones, communicate with stakeholders and ensure timely delivery.",
+    "skills": ["communication", "project management", "organization", "leadership"],
+    "company": "BuildIt"
+  }
+]

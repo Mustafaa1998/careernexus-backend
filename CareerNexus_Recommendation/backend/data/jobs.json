@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Python Developer",
+    "company": "TechLabs",
+    "skills": "python, flask, fastapi, sql",
+    "location": "Karachi",
+    "salary": "PKR 120000+"
+  },
+  {
+    "title": "Frontend Engineer",
+    "company": "DevNest",
+    "skills": "react, javascript, html, css",
+    "location": "Lahore",
+    "salary": "PKR 100000+"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Insight Analytics",
+    "skills": "python, pandas, numpy, scikit-learn, machine learning",
+    "location": "Islamabad",
+    "salary": "PKR 150000+"
+  },
+  {
+    "title": "Backend Developer",
+    "company": "CodeWorks",
+    "skills": "nodejs, express, mongodb, api",
+    "location": "Karachi",
+    "salary": "PKR 110000+"
+  },
+  {
+    "title": "AI Engineer",
+    "company": "AI Vision Labs",
+    "skills": "deep learning, pytorch, tensorflow, computer vision",
+    "location": "Lahore",
+    "salary": "PKR 180000+"
+  }
+]

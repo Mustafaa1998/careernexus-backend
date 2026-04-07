@@ -1,0 +1,13 @@
+{
+  "skills": [
+    "Python", "Java", "C++", "JavaScript", "TypeScript", "Node.js", "React",
+    "Django", "Flask", "FastAPI", "SQL", "PostgreSQL", "MySQL", "MongoDB",
+    "Pandas", "NumPy", "scikit-learn", "TensorFlow", "PyTorch",
+    "Docker", "Kubernetes", "Git", "GitHub", "CI/CD", "Linux",
+    "REST", "GraphQL", "AWS", "Azure", "GCP",
+    "HTML", "CSS", "Tailwind", "Bootstrap",
+    "NLP", "spaCy", "NLTK", "OpenCV",
+    "Project Management", "Agile", "Scrum",
+    "Communication", "Leadership", "Problem Solving", "Teamwork"
+  ]
+}

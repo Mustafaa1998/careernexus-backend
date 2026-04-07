@@ -1,0 +1,2637 @@
+[
+  {
+    "id": "CS-BS-001",
+    "domain": "CS",
+    "level": "Intermediate",
+    "topic": "Data Structures",
+    "question": "Which data structure follows the LIFO principle?",
+    "choices": ["Queue", "Stack", "Linked List", "Heap"],
+    "answer_idx": 1,
+    "difficulty": 1
+  },
+  {
+    "id": "CS-BS-002",
+    "domain": "CS",
+    "level": "Intermediate",
+    "topic": "Algorithms",
+    "question": "What is the time complexity of binary search on a sorted array?",
+    "choices": ["O(n)", "O(n log n)", "O(log n)", "O(1)"],
+    "answer_idx": 2,
+    "difficulty": 2
+  },
+  {
+    "id": "CS-BS-003",
+    "domain": "CS",
+    "level": "Intermediate",
+    "topic": "Databases",
+    "question": "Which normal form primarily eliminates transitive dependencies?",
+    "choices": ["1NF", "2NF", "3NF", "BCNF"],
+    "answer_idx": 2,
+    "difficulty": 2
+  },
+  {
+    "id": "CS-BS-004",
+    "domain": "CS",
+    "level": "Intermediate",
+    "topic": "Operating Systems",
+    "question": "Which of the following is NOT a CPU scheduling algorithm?",
+    "choices": [
+      "Round Robin",
+      "Shortest Job First",
+      "First-Come First-Served",
+      "Least Recently Used"
+    ],
+    "answer_idx": 3,
+    "difficulty": 2
+  },
+  {
+    "id": "CS-BS-005",
+    "domain": "CS",
+    "level": "Intermediate",
+    "topic": "Computer Networks",
+    "question": "TCP and UDP operate at which layer of the OSI model?",
+    "choices": ["Application", "Transport", "Network", "Data Link"],
+    "answer_idx": 1,
+    "difficulty": 1
+  },
+  {
+    "id": "CS-BS-006",
+    "domain": "CS",
+    "level": "Intermediate",
+    "topic": "Programming",
+    "question": "In Java, which keyword is used to create a new object?",
+    "choices": ["class", "new", "this", "extends"],
+    "answer_idx": 1,
+    "difficulty": 1
+  },
+  {
+    "id": "CS-MS-001",
+    "domain": "CS",
+    "level": "Masters",
+    "topic": "Algorithms",
+    "question": "Dijkstra’s shortest path algorithm fails to compute correct paths when:",
+    "choices": [
+      "There are negative edge weights",
+      "The graph is directed",
+      "The graph is disconnected",
+      "There are multiple edges between nodes"
+    ],
+    "answer_idx": 0,
+    "difficulty": 3
+  },
+  {
+    "id": "CS-MS-002",
+    "domain": "CS",
+    "level": "Masters",
+    "topic": "Data Structures",
+    "question": "An in-order traversal of a Binary Search Tree yields nodes in:",
+    "choices": [
+      "Preorder list",
+      "Reverse order",
+      "Sorted (non-decreasing) order",
+      "Random order"
+    ],
+    "answer_idx": 2,
+    "difficulty": 3
+  },
+  {
+    "id": "CS-MS-003",
+    "domain": "CS",
+    "level": "Masters",
+    "topic": "Databases",
+    "question": "In ACID properties of transactions, the letter 'I' stands for:",
+    "choices": ["Integrity", "Isolation", "Idempotence", "Iteration"],
+    "answer_idx": 1,
+    "difficulty": 3
+  },
+  {
+    "id": "CS-MS-004",
+    "domain": "CS",
+    "level": "Masters",
+    "topic": "Operating Systems",
+    "question": "A binary semaphore is typically used for:",
+    "choices": [
+      "Deadlock detection",
+      "Mutual exclusion",
+      "CPU scheduling",
+      "I/O buffering"
+    ],
+    "answer_idx": 1,
+    "difficulty": 3
+  },
+  {
+    "id": "CS-MS-005",
+    "domain": "CS",
+    "level": "Masters",
+    "topic": "Computer Networks",
+    "question": "How many usable host addresses are available in the IPv4 subnet 192.168.1.0/24?",
+    "choices": ["256", "254", "253", "255"],
+    "answer_idx": 1,
+    "difficulty": 4
+  },
+  {
+    "id": "CS-MS-006",
+    "domain": "CS",
+    "level": "Masters",
+    "topic": "Compilers",
+    "question": "Which compiler phase typically builds the symbol table and performs type checking?",
+    "choices": [
+      "Lexical analysis",
+      "Syntax analysis",
+      "Semantic analysis",
+      "Code generation"
+    ],
+    "answer_idx": 2,
+    "difficulty": 4
+  },
+  {
+    "id": "CS-PGR-001",
+    "domain": "CS",
+    "level": "Masters",
+    "topic": "Complexity Theory",
+    "question": "Which of the following is a canonical NP-complete problem?",
+    "choices": [
+      "Minimum Spanning Tree",
+      "2-SAT",
+      "CNF-SAT",
+      "All-Pairs Shortest Path"
+    ],
+    "answer_idx": 2,
+    "difficulty": 5
+  },
+  {
+    "id": "CS-PGR-002",
+    "domain": "CS",
+    "level": "Masters",
+    "topic": "Machine Learning",
+    "question": "In the bias–variance trade-off, high variance typically leads to:",
+    "choices": [
+      "Underfitting",
+      "Overfitting",
+      "Perfect generalization",
+      "No effect on generalization"
+    ],
+    "answer_idx": 1,
+    "difficulty": 4
+  },
+  {
+    "id": "CS-PGR-003",
+    "domain": "CS",
+    "level": "Masters",
+    "topic": "Distributed Systems",
+    "question": "According to the CAP theorem, in the presence of partitions a system cannot simultaneously guarantee:",
+    "choices": [
+      "Consistency and Availability",
+      "Consistency and Partition Tolerance",
+      "Availability and Partition Tolerance",
+      "Scalability and Reliability"
+    ],
+    "answer_idx": 0,
+    "difficulty": 5
+  },
+  {
+    "id": "CS-PGR-004",
+    "domain": "CS",
+    "level": "Masters",
+    "topic": "Databases",
+    "question": "A schedule is conflict-serializable if and only if its precedence graph is:",
+    "choices": ["Connected", "Acyclic", "Complete", "Bipartite"],
+    "answer_idx": 1,
+    "difficulty": 4
+  },
+  {
+    "id": "CS-PGR-005",
+    "domain": "CS",
+    "level": "Masters",
+    "topic": "Operating Systems",
+    "question": "The compare-and-swap (CAS) primitive is primarily used to implement:",
+    "choices": [
+      "Round-robin scheduling",
+      "Lock-free synchronization",
+      "Virtual memory",
+      "Process creation"
+    ],
+    "answer_idx": 1,
+    "difficulty": 5
+  },
+  {
+    "id": "CS-PGR-006",
+    "domain": "CS",
+    "level": "Masters",
+    "topic": "Computer Networks",
+    "question": "Border Gateway Protocol (BGP) is best classified as a:",
+    "choices": [
+      "Distance-vector protocol",
+      "Link-state protocol",
+      "Path-vector protocol",
+      "Hybrid protocol"
+    ],
+    "answer_idx": 2,
+    "difficulty": 4
+  },
+
+  {
+    "id": "AI-INT-001",
+    "domain": "AI",
+    "level": "Intermediate",
+    "topic": "AI Basics",
+    "difficulty": 1,
+    "question": "Which of the following is considered the father of Artificial Intelligence?",
+    "choices": ["Alan Turing", "John McCarthy", "Geoffrey Hinton", "Elon Musk"],
+    "answer_idx": 1,
+    "explanation": "John McCarthy coined the term 'Artificial Intelligence' in 1956."
+  },
+  {
+    "id": "AI-INT-002",
+    "domain": "AI",
+    "level": "Intermediate",
+    "topic": "Logic",
+    "difficulty": 1,
+    "question": "Which symbol is used for AND operation in Boolean logic?",
+    "choices": ["+", "-", "×", "∧"],
+    "answer_idx": 3,
+    "explanation": "Logical AND is represented by ∧."
+  },
+  {
+    "id": "AI-INT-003",
+    "domain": "AI",
+    "level": "Intermediate",
+    "topic": "Robotics",
+    "difficulty": 2,
+    "question": "Which sensor is commonly used in obstacle detection robots?",
+    "choices": [
+      "Ultrasonic Sensor",
+      "Temperature Sensor",
+      "Gyroscope",
+      "Barometer"
+    ],
+    "answer_idx": 0,
+    "explanation": "Ultrasonic sensors detect objects by sending sound waves and measuring reflection."
+  },
+  {
+    "id": "AI-INT-004",
+    "domain": "AI",
+    "level": "Intermediate",
+    "topic": "Math",
+    "difficulty": 2,
+    "question": "Which of the following is a probability value?",
+    "choices": ["-0.5", "1.2", "0.75", "2"],
+    "answer_idx": 2,
+    "explanation": "Probabilities always lie between 0 and 1."
+  },
+  {
+    "id": "AI-INT-005",
+    "domain": "AI",
+    "level": "Intermediate",
+    "topic": "Applications",
+    "difficulty": 1,
+    "question": "Which of these is an example of AI in daily life?",
+    "choices": ["Google Maps Navigation", "Pencil", "Bicycle", "Calculator"],
+    "answer_idx": 0,
+    "explanation": "Google Maps uses AI for route optimization and traffic prediction."
+  },
+  {
+    "id": "AI-INT-006",
+    "domain": "AI",
+    "level": "Intermediate",
+    "topic": "AI Types",
+    "difficulty": 2,
+    "question": "Which type of AI is limited to specific tasks?",
+    "choices": [
+      "Artificial General Intelligence",
+      "Artificial Narrow Intelligence",
+      "Superintelligence",
+      "Human Intelligence"
+    ],
+    "answer_idx": 1,
+    "explanation": "Narrow AI (ANI) is designed for specific tasks, like chatbots or recommendation systems."
+  },
+  {
+    "id": "AI-BS-001",
+    "domain": "AI",
+    "level": "Bachelors",
+    "topic": "Search Algorithms",
+    "difficulty": 2,
+    "question": "Which algorithm is used to find the shortest path in graphs?",
+    "choices": ["DFS", "BFS", "Dijkstra's Algorithm", "Merge Sort"],
+    "answer_idx": 2,
+    "explanation": "Dijkstra's algorithm finds shortest paths in weighted graphs."
+  },
+  {
+    "id": "AI-BS-002",
+    "domain": "AI",
+    "level": "Bachelors",
+    "topic": "Machine Learning",
+    "difficulty": 2,
+    "question": "Overfitting in machine learning means:",
+    "choices": [
+      "Model is too simple",
+      "Model memorizes training data",
+      "Model ignores data",
+      "Model works on all data"
+    ],
+    "answer_idx": 1,
+    "explanation": "Overfitting occurs when a model learns training data too well, failing on new data."
+  },
+  {
+    "id": "AI-BS-003",
+    "domain": "AI",
+    "level": "Bachelors",
+    "topic": "Neural Networks",
+    "difficulty": 2,
+    "question": "Which activation function is most commonly used in hidden layers?",
+    "choices": ["Sigmoid", "ReLU", "Softmax", "Linear"],
+    "answer_idx": 1,
+    "explanation": "ReLU is widely used because it helps reduce vanishing gradient problems."
+  },
+  {
+    "id": "AI-BS-004",
+    "domain": "AI",
+    "level": "Bachelors",
+    "topic": "Learning Types",
+    "difficulty": 1,
+    "question": "Which is an example of unsupervised learning?",
+    "choices": [
+      "Linear Regression",
+      "K-Means Clustering",
+      "Logistic Regression",
+      "Naive Bayes"
+    ],
+    "answer_idx": 1,
+    "explanation": "K-Means is an unsupervised clustering algorithm."
+  },
+  {
+    "id": "AI-BS-005",
+    "domain": "AI",
+    "level": "Bachelors",
+    "topic": "Natural Language Processing",
+    "difficulty": 2,
+    "question": "Which task is part of NLP?",
+    "choices": [
+      "Text Sentiment Analysis",
+      "Sorting Numbers",
+      "Solving Equations",
+      "Image Filtering"
+    ],
+    "answer_idx": 0,
+    "explanation": "Sentiment analysis is a common NLP application."
+  },
+  {
+    "id": "AI-BS-006",
+    "domain": "AI",
+    "level": "Bachelors",
+    "topic": "AI Ethics",
+    "difficulty": 3,
+    "question": "Which is a key ethical concern in AI?",
+    "choices": [
+      "Color of UI",
+      "Data Privacy",
+      "Battery Usage",
+      "Screen Resolution"
+    ],
+    "answer_idx": 1,
+    "explanation": "Data privacy and bias are major ethical issues in AI applications."
+  },
+  {
+    "id": "AI-MS-001",
+    "domain": "AI",
+    "level": "Masters",
+    "topic": "Optimization",
+    "difficulty": 3,
+    "question": "Gradient Descent is primarily used for:",
+    "choices": [
+      "Sorting Data",
+      "Minimizing Cost Function",
+      "Maximizing Accuracy",
+      "Encrypting Data"
+    ],
+    "answer_idx": 1,
+    "explanation": "Gradient descent minimizes cost/loss functions in ML models."
+  },
+  {
+    "id": "AI-MS-002",
+    "domain": "AI",
+    "level": "Masters",
+    "topic": "Deep Learning",
+    "difficulty": 3,
+    "question": "Vanishing gradient problem occurs mainly with:",
+    "choices": ["ReLU", "Sigmoid", "MaxPooling", "Softmax"],
+    "answer_idx": 1,
+    "explanation": "Sigmoid activation compresses values, leading to small gradients during backpropagation."
+  },
+  {
+    "id": "AI-MS-003",
+    "domain": "AI",
+    "level": "Masters",
+    "topic": "Reinforcement Learning",
+    "difficulty": 3,
+    "question": "In RL, the term 'policy' refers to:",
+    "choices": [
+      "Sequence of states",
+      "Mapping of states to actions",
+      "Future reward",
+      "Learning rate"
+    ],
+    "answer_idx": 1,
+    "explanation": "A policy defines how an agent chooses actions based on states."
+  },
+  {
+    "id": "AI-MS-004",
+    "domain": "AI",
+    "level": "Masters",
+    "topic": "Probabilistic Models",
+    "difficulty": 3,
+    "question": "Naive Bayes assumes:",
+    "choices": [
+      "Features are dependent",
+      "Features are independent",
+      "Data is clustered",
+      "Model is deep"
+    ],
+    "answer_idx": 1,
+    "explanation": "Naive Bayes assumes conditional independence between features."
+  },
+  {
+    "id": "AI-MS-005",
+    "domain": "AI",
+    "level": "Masters",
+    "topic": "Transformers",
+    "difficulty": 3,
+    "question": "In transformers, self-attention is used to:",
+    "choices": [
+      "Reduce dataset size",
+      "Focus on important words",
+      "Increase randomness",
+      "Replace CNN filters"
+    ],
+    "answer_idx": 1,
+    "explanation": "Self-attention assigns weights to words depending on their importance in context."
+  },
+  {
+    "id": "AI-MS-006",
+    "domain": "AI",
+    "level": "Masters",
+    "topic": "Evaluation",
+    "difficulty": 3,
+    "question": "Which metric is best for imbalanced classification?",
+    "choices": ["Accuracy", "Precision", "Recall", "F1-Score"],
+    "answer_idx": 3,
+    "explanation": "F1-score balances precision and recall, making it suitable for imbalanced datasets."
+  },
+  {
+    "id": "CE-INT-001",
+    "domain": "CE",
+    "level": "Intermediate",
+    "topic": "Logic Gates",
+    "difficulty": 1,
+    "question": "Which logic gate outputs 1 only when all inputs are 1?",
+    "choices": ["OR", "AND", "NAND", "XOR"],
+    "answer_idx": 1,
+    "explanation": "The AND gate outputs 1 only when all its inputs are 1."
+  },
+  {
+    "id": "CE-INT-002",
+    "domain": "CE",
+    "level": "Intermediate",
+    "topic": "Number Systems",
+    "difficulty": 1,
+    "question": "What is the binary equivalent of decimal 10?",
+    "choices": ["1000", "1010", "1100", "1110"],
+    "answer_idx": 1,
+    "explanation": "Decimal 10 in binary is 1010."
+  },
+  {
+    "id": "CE-INT-003",
+    "domain": "CE",
+    "level": "Intermediate",
+    "topic": "Electronics",
+    "difficulty": 2,
+    "question": "Which component stores electric charge?",
+    "choices": ["Resistor", "Capacitor", "Inductor", "Diode"],
+    "answer_idx": 1,
+    "explanation": "A capacitor stores electric charge."
+  },
+  {
+    "id": "CE-INT-004",
+    "domain": "CE",
+    "level": "Intermediate",
+    "topic": "Digital Systems",
+    "difficulty": 2,
+    "question": "In digital systems, 1 usually represents:",
+    "choices": ["Low Voltage", "High Voltage", "No Signal", "Ground"],
+    "answer_idx": 1,
+    "explanation": "A binary 1 represents a high voltage level."
+  },
+  {
+    "id": "CE-INT-005",
+    "domain": "CE",
+    "level": "Intermediate",
+    "topic": "Boolean Algebra",
+    "difficulty": 2,
+    "question": "The complement of A (A') is:",
+    "choices": ["0", "1", "NOT A", "A+1"],
+    "answer_idx": 2,
+    "explanation": "The complement of A is represented as NOT A."
+  },
+  {
+    "id": "CE-INT-006",
+    "domain": "CE",
+    "level": "Intermediate",
+    "topic": "Computer Hardware",
+    "difficulty": 1,
+    "question": "Which of these is the brain of a computer?",
+    "choices": ["RAM", "CPU", "Hard Disk", "GPU"],
+    "answer_idx": 1,
+    "explanation": "The CPU (Central Processing Unit) is considered the brain of a computer."
+  },
+  {
+    "id": "CE-BS-001",
+    "domain": "CE",
+    "level": "Bachelors",
+    "topic": "Microprocessors",
+    "difficulty": 2,
+    "question": "Which register holds the address of the next instruction?",
+    "choices": [
+      "Accumulator",
+      "Program Counter",
+      "Instruction Register",
+      "Stack Pointer"
+    ],
+    "answer_idx": 1,
+    "explanation": "The Program Counter (PC) stores the address of the next instruction to be executed."
+  },
+  {
+    "id": "CE-BS-002",
+    "domain": "CE",
+    "level": "Bachelors",
+    "topic": "Assembly Language",
+    "difficulty": 2,
+    "question": "In assembly, MOV AX, BX means:",
+    "choices": [
+      "Move AX to BX",
+      "Move BX to AX",
+      "Add AX and BX",
+      "Subtract BX from AX"
+    ],
+    "answer_idx": 1,
+    "explanation": "MOV AX, BX copies the contents of BX into AX."
+  },
+  {
+    "id": "CE-BS-003",
+    "domain": "CE",
+    "level": "Bachelors",
+    "topic": "Digital Circuits",
+    "difficulty": 2,
+    "question": "A flip-flop is used for:",
+    "choices": [
+      "Addition",
+      "Storing 1 bit",
+      "Multiplication",
+      "Signal Amplification"
+    ],
+    "answer_idx": 1,
+    "explanation": "Flip-flops are basic memory elements that store 1 bit of data."
+  },
+  {
+    "id": "CE-BS-004",
+    "domain": "CE",
+    "level": "Bachelors",
+    "topic": "Computer Architecture",
+    "difficulty": 2,
+    "question": "Which type of memory is fastest?",
+    "choices": ["Cache", "RAM", "Hard Disk", "ROM"],
+    "answer_idx": 0,
+    "explanation": "Cache memory is the fastest because it is located close to the CPU."
+  },
+  {
+    "id": "CE-BS-005",
+    "domain": "CE",
+    "level": "Bachelors",
+    "topic": "Logic Design",
+    "difficulty": 2,
+    "question": "The output of XOR is 1 when:",
+    "choices": [
+      "Both inputs are 1",
+      "Both inputs are 0",
+      "Inputs are different",
+      "Inputs are same"
+    ],
+    "answer_idx": 2,
+    "explanation": "XOR outputs 1 only when inputs are different."
+  },
+  {
+    "id": "CE-BS-006",
+    "domain": "CE",
+    "level": "Bachelors",
+    "topic": "Networking Basics",
+    "difficulty": 2,
+    "question": "In networking, which layer is responsible for logical addressing?",
+    "choices": ["Physical", "Data Link", "Network", "Transport"],
+    "answer_idx": 2,
+    "explanation": "The Network layer handles logical addressing (e.g., IP addresses)."
+  },
+  {
+    "id": "CE-MS-001",
+    "domain": "CE",
+    "level": "Masters",
+    "topic": "VLSI",
+    "difficulty": 3,
+    "question": "Moore’s Law predicts that the number of transistors on a chip doubles approximately every:",
+    "choices": ["6 months", "12 months", "18 months", "24 months"],
+    "answer_idx": 2,
+    "explanation": "Moore’s Law states transistor density doubles roughly every 18 months."
+  },
+  {
+    "id": "CE-MS-002",
+    "domain": "CE",
+    "level": "Masters",
+    "topic": "Computer Architecture",
+    "difficulty": 3,
+    "question": "Pipelining in processors improves:",
+    "choices": [
+      "Instruction latency",
+      "Instruction throughput",
+      "Memory size",
+      "Cache replacement"
+    ],
+    "answer_idx": 1,
+    "explanation": "Pipelining increases throughput by executing multiple instructions simultaneously."
+  },
+  {
+    "id": "CE-MS-003",
+    "domain": "CE",
+    "level": "Masters",
+    "topic": "Parallel Computing",
+    "difficulty": 3,
+    "question": "Amdahl’s Law relates to:",
+    "choices": [
+      "Database indexing",
+      "Parallel speedup",
+      "Memory allocation",
+      "Logic minimization"
+    ],
+    "answer_idx": 1,
+    "explanation": "Amdahl’s Law shows the theoretical speedup of parallel processing."
+  },
+  {
+    "id": "CE-MS-004",
+    "domain": "CE",
+    "level": "Masters",
+    "topic": "Computer Systems",
+    "difficulty": 3,
+    "question": "In RISC architectures, the main principle is:",
+    "choices": [
+      "Complex instructions",
+      "Simple instructions",
+      "Variable-length instructions",
+      "Multiple clocks"
+    ],
+    "answer_idx": 1,
+    "explanation": "RISC (Reduced Instruction Set Computer) uses simple, fast instructions."
+  },
+  {
+    "id": "CE-MS-005",
+    "domain": "CE",
+    "level": "Masters",
+    "topic": "Networking",
+    "difficulty": 3,
+    "question": "Which protocol is used for reliable transmission in TCP/IP?",
+    "choices": ["UDP", "IP", "TCP", "ICMP"],
+    "answer_idx": 2,
+    "explanation": "TCP (Transmission Control Protocol) ensures reliable, ordered transmission."
+  },
+  {
+    "id": "CE-MS-006",
+    "domain": "CE",
+    "level": "Masters",
+    "topic": "Embedded Systems",
+    "difficulty": 3,
+    "question": "Real-time operating systems (RTOS) are designed to:",
+    "choices": [
+      "Provide maximum throughput",
+      "Guarantee task deadlines",
+      "Support multitasking only",
+      "Reduce memory size"
+    ],
+    "answer_idx": 1,
+    "explanation": "RTOS ensures tasks are executed within strict timing constraints."
+  },
+  {
+    "id": "CYB-INT-001",
+    "domain": "CYB",
+    "level": "Intermediate",
+    "topic": "Basics",
+    "difficulty": 1,
+    "question": "The process of converting plain text into unreadable text is called?",
+    "choices": ["Decryption", "Encryption", "Hashing", "Encoding"],
+    "answer_idx": 1,
+    "explanation": "Encryption makes plain text unreadable for unauthorized users."
+  },
+  {
+    "id": "CYB-INT-002",
+    "domain": "CYB",
+    "level": "Intermediate",
+    "topic": "Threats",
+    "difficulty": 1,
+    "question": "A program that replicates itself to spread across computers is called?",
+    "choices": ["Trojan", "Worm", "Spyware", "Ransomware"],
+    "answer_idx": 1,
+    "explanation": "Worms are self-replicating malware."
+  },
+  {
+    "id": "CYB-INT-003",
+    "domain": "CYB",
+    "level": "Intermediate",
+    "topic": "Authentication",
+    "difficulty": 1,
+    "question": "Which is an example of two-factor authentication?",
+    "choices": [
+      "Password only",
+      "Password + OTP",
+      "Fingerprint only",
+      "Username + Password"
+    ],
+    "answer_idx": 1,
+    "explanation": "Two-factor authentication requires two distinct methods."
+  },
+  {
+    "id": "CYB-INT-004",
+    "domain": "CYB",
+    "level": "Intermediate",
+    "topic": "Networks",
+    "difficulty": 2,
+    "question": "HTTPS is more secure than HTTP because it uses…",
+    "choices": ["Cookies", "SSL/TLS", "JavaScript", "Firewalls"],
+    "answer_idx": 1,
+    "explanation": "HTTPS uses SSL/TLS encryption to secure communication."
+  },
+  {
+    "id": "CYB-INT-005",
+    "domain": "CYB",
+    "level": "Intermediate",
+    "topic": "Attacks",
+    "difficulty": 2,
+    "question": "Which type of attack floods a system with traffic to make it unavailable?",
+    "choices": ["Phishing", "DoS", "SQL Injection", "Brute Force"],
+    "answer_idx": 1,
+    "explanation": "Denial of Service (DoS) overloads systems with traffic."
+  },
+  {
+    "id": "CYB-INT-006",
+    "domain": "CYB",
+    "level": "Intermediate",
+    "topic": "Malware",
+    "difficulty": 2,
+    "question": "Which malware disguises itself as legitimate software?",
+    "choices": ["Trojan", "Virus", "Worm", "Rootkit"],
+    "answer_idx": 0,
+    "explanation": "Trojans look legitimate but perform malicious actions."
+  },
+  {
+    "id": "CYB-BSC-001",
+    "domain": "CYB",
+    "level": "Bachelors",
+    "topic": "Cryptography",
+    "difficulty": 2,
+    "question": "Which encryption method uses the same key for encryption and decryption?",
+    "choices": ["Asymmetric", "Symmetric", "Hashing", "Steganography"],
+    "answer_idx": 1,
+    "explanation": "Symmetric encryption uses one key for both processes."
+  },
+  {
+    "id": "CYB-BSC-002",
+    "domain": "CYB",
+    "level": "Bachelors",
+    "topic": "Network Security",
+    "difficulty": 2,
+    "question": "A firewall operates primarily at which OSI layer?",
+    "choices": ["Physical", "Data Link", "Network", "Application"],
+    "answer_idx": 2,
+    "explanation": "Firewalls inspect packets mainly at the network and transport layers."
+  },
+  {
+    "id": "CYB-BSC-003",
+    "domain": "CYB",
+    "level": "Bachelors",
+    "topic": "Vulnerabilities",
+    "difficulty": 2,
+    "question": "SQL Injection is an attack on…",
+    "choices": ["Databases", "Operating Systems", "Networks", "Hardware"],
+    "answer_idx": 0,
+    "explanation": "SQL injection targets databases through insecure queries."
+  },
+  {
+    "id": "CYB-BSC-004",
+    "domain": "CYB",
+    "level": "Bachelors",
+    "topic": "Security Models",
+    "difficulty": 3,
+    "question": "Which model enforces 'no read up, no write down'?",
+    "choices": ["Bell-LaPadula", "Biba", "Clark-Wilson", "Chinese Wall"],
+    "answer_idx": 0,
+    "explanation": "Bell-LaPadula focuses on confidentiality."
+  },
+  {
+    "id": "CYB-BSC-005",
+    "domain": "CYB",
+    "level": "Bachelors",
+    "topic": "Intrusion Detection",
+    "difficulty": 3,
+    "question": "Which system monitors traffic for malicious activities?",
+    "choices": ["Firewall", "IDS", "VPN", "Proxy"],
+    "answer_idx": 1,
+    "explanation": "IDS (Intrusion Detection System) detects suspicious activities."
+  },
+  {
+    "id": "CYB-BSC-006",
+    "domain": "CYB",
+    "level": "Bachelors",
+    "topic": "Ethical Hacking",
+    "difficulty": 3,
+    "question": "The first phase of ethical hacking is…",
+    "choices": [
+      "Scanning",
+      "Exploitation",
+      "Reconnaissance",
+      "Covering Tracks"
+    ],
+    "answer_idx": 2,
+    "explanation": "Reconnaissance involves gathering information."
+  },
+  {
+    "id": "CYB-MSC-001",
+    "domain": "CYB",
+    "level": "Masters",
+    "topic": "Advanced Cryptography",
+    "difficulty": 3,
+    "question": "Elliptic Curve Cryptography (ECC) is preferred over RSA because…",
+    "choices": [
+      "It is older",
+      "It uses larger keys",
+      "It provides same security with smaller keys",
+      "It is symmetric"
+    ],
+    "answer_idx": 2,
+    "explanation": "ECC is efficient as it achieves high security with smaller key sizes."
+  },
+  {
+    "id": "CYB-MSC-002",
+    "domain": "CYB",
+    "level": "Masters",
+    "topic": "Security Protocols",
+    "difficulty": 3,
+    "question": "Kerberos protocol uses…",
+    "choices": [
+      "Public Key Encryption",
+      "Symmetric Keys",
+      "Hash Functions",
+      "Steganography"
+    ],
+    "answer_idx": 1,
+    "explanation": "Kerberos uses symmetric key cryptography with a trusted server."
+  },
+  {
+    "id": "CYB-MSC-003",
+    "domain": "CYB",
+    "level": "Masters",
+    "topic": "Advanced Threats",
+    "difficulty": 3,
+    "question": "APT stands for…",
+    "choices": [
+      "Advanced Phishing Threat",
+      "Application Process Tracking",
+      "Advanced Persistent Threat",
+      "Access Permission Table"
+    ],
+    "answer_idx": 2,
+    "explanation": "APT = Advanced Persistent Threat, a long-term targeted attack."
+  },
+  {
+    "id": "CYB-MSC-004",
+    "domain": "CYB",
+    "level": "Masters",
+    "topic": "Blockchain Security",
+    "difficulty": 3,
+    "question": "Which consensus algorithm is used in Bitcoin?",
+    "choices": [
+      "Proof of Stake",
+      "Proof of Work",
+      "Byzantine Fault Tolerance",
+      "Raft"
+    ],
+    "answer_idx": 1,
+    "explanation": "Bitcoin uses Proof of Work for block validation."
+  },
+  {
+    "id": "CYB-MSC-005",
+    "domain": "CYB",
+    "level": "Masters",
+    "topic": "Incident Response",
+    "difficulty": 3,
+    "question": "The first step in an incident response plan is…",
+    "choices": ["Containment", "Eradication", "Preparation", "Recovery"],
+    "answer_idx": 2,
+    "explanation": "Preparation is the initial step in incident response lifecycle."
+  },
+  {
+    "id": "CYB-MSC-006",
+    "domain": "CYB",
+    "level": "Masters",
+    "topic": "Forensics",
+    "difficulty": 3,
+    "question": "Chain of custody in digital forensics ensures…",
+    "choices": [
+      "Data backup",
+      "Legal integrity of evidence",
+      "Faster analysis",
+      "Malware removal"
+    ],
+    "answer_idx": 1,
+    "explanation": "Chain of custody maintains the legal integrity of collected evidence."
+  },
+  {
+    "id": "DS-INT-001",
+    "domain": "DS",
+    "level": "Intermediate",
+    "topic": "Basics",
+    "difficulty": 1,
+    "question": "Data Science is primarily the combination of…",
+    "choices": [
+      "Biology and Physics",
+      "Statistics, Programming, Domain Knowledge",
+      "History and Geography",
+      "Art and Design"
+    ],
+    "answer_idx": 1,
+    "explanation": "Data Science combines statistics, programming, and domain expertise."
+  },
+  {
+    "id": "DS-INT-002",
+    "domain": "DS",
+    "level": "Intermediate",
+    "topic": "Statistics",
+    "difficulty": 1,
+    "question": "Which measure of central tendency is most affected by outliers?",
+    "choices": ["Mean", "Median", "Mode", "Range"],
+    "answer_idx": 0,
+    "explanation": "The mean is sensitive to extreme values."
+  },
+  {
+    "id": "DS-INT-003",
+    "domain": "DS",
+    "level": "Intermediate",
+    "topic": "Data Types",
+    "difficulty": 1,
+    "question": "Categorical data refers to…",
+    "choices": [
+      "Numbers only",
+      "Labels or categories",
+      "Continuous values",
+      "Random variables"
+    ],
+    "answer_idx": 1,
+    "explanation": "Categorical data represents labels, like gender or color."
+  },
+  {
+    "id": "DS-INT-004",
+    "domain": "DS",
+    "level": "Intermediate",
+    "topic": "Visualization",
+    "difficulty": 2,
+    "question": "Which chart is best for showing proportions?",
+    "choices": ["Line Chart", "Pie Chart", "Histogram", "Scatter Plot"],
+    "answer_idx": 1,
+    "explanation": "Pie charts show proportions of a whole."
+  },
+  {
+    "id": "DS-INT-005",
+    "domain": "DS",
+    "level": "Intermediate",
+    "topic": "Machine Learning Basics",
+    "difficulty": 2,
+    "question": "Spam email detection is an example of…",
+    "choices": [
+      "Unsupervised Learning",
+      "Supervised Learning",
+      "Reinforcement Learning",
+      "Clustering"
+    ],
+    "answer_idx": 1,
+    "explanation": "Labeled data (spam or not spam) makes it supervised learning."
+  },
+  {
+    "id": "DS-INT-006",
+    "domain": "DS",
+    "level": "Intermediate",
+    "topic": "Data Handling",
+    "difficulty": 2,
+    "question": "Which tool is widely used for data analysis in Python?",
+    "choices": ["NumPy", "Pandas", "Matplotlib", "TensorFlow"],
+    "answer_idx": 1,
+    "explanation": "Pandas is the primary library for data manipulation and analysis."
+  },
+  {
+    "id": "DS-BSC-001",
+    "domain": "DS",
+    "level": "Bachelors",
+    "topic": "Probability",
+    "difficulty": 2,
+    "question": "If you toss a fair coin, the probability of getting heads is…",
+    "choices": ["0", "0.25", "0.5", "1"],
+    "answer_idx": 2,
+    "explanation": "In a fair coin toss, the probability of heads = 0.5."
+  },
+  {
+    "id": "DS-BSC-002",
+    "domain": "DS",
+    "level": "Bachelors",
+    "topic": "Regression",
+    "difficulty": 2,
+    "question": "Linear regression predicts…",
+    "choices": ["Categories", "Continuous values", "Clusters", "Outliers"],
+    "answer_idx": 1,
+    "explanation": "Linear regression predicts continuous numeric outcomes."
+  },
+  {
+    "id": "DS-BSC-003",
+    "domain": "DS",
+    "level": "Bachelors",
+    "topic": "Classification",
+    "difficulty": 2,
+    "question": "Which algorithm is commonly used for classification tasks?",
+    "choices": ["KNN", "K-Means", "Apriori", "DBSCAN"],
+    "answer_idx": 0,
+    "explanation": "K-Nearest Neighbors (KNN) is popular for classification."
+  },
+  {
+    "id": "DS-BSC-004",
+    "domain": "DS",
+    "level": "Bachelors",
+    "topic": "Big Data",
+    "difficulty": 3,
+    "question": "Which framework is widely used for distributed data processing?",
+    "choices": ["NumPy", "Pandas", "Hadoop", "Scikit-learn"],
+    "answer_idx": 2,
+    "explanation": "Hadoop is a major framework for distributed storage and processing."
+  },
+  {
+    "id": "DS-BSC-005",
+    "domain": "DS",
+    "level": "Bachelors",
+    "topic": "Evaluation",
+    "difficulty": 3,
+    "question": "Which metric is best for imbalanced classification problems?",
+    "choices": ["Accuracy", "Precision", "Recall", "F1 Score"],
+    "answer_idx": 3,
+    "explanation": "F1 score balances precision and recall, useful for imbalance."
+  },
+  {
+    "id": "DS-BSC-006",
+    "domain": "DS",
+    "level": "Bachelors",
+    "topic": "Feature Engineering",
+    "difficulty": 3,
+    "question": "The process of reducing the number of features while keeping important information is called…",
+    "choices": [
+      "Overfitting",
+      "Normalization",
+      "Dimensionality Reduction",
+      "Regularization"
+    ],
+    "answer_idx": 2,
+    "explanation": "Dimensionality reduction techniques like PCA reduce features."
+  },
+  {
+    "id": "DS-MSC-001",
+    "domain": "DS",
+    "level": "Masters",
+    "topic": "Deep Learning",
+    "difficulty": 3,
+    "question": "Which type of neural network is best for image recognition?",
+    "choices": ["RNN", "CNN", "GAN", "Transformer"],
+    "answer_idx": 1,
+    "explanation": "CNNs (Convolutional Neural Networks) excel in image tasks."
+  },
+  {
+    "id": "DS-MSC-002",
+    "domain": "DS",
+    "level": "Masters",
+    "topic": "Unsupervised Learning",
+    "difficulty": 3,
+    "question": "K-Means clustering requires the user to specify…",
+    "choices": [
+      "Distance Metric",
+      "Number of Clusters (k)",
+      "Centroid Initialization Method",
+      "All of the above"
+    ],
+    "answer_idx": 3,
+    "explanation": "K-Means needs k, distance, and initialization method."
+  },
+  {
+    "id": "DS-MSC-003",
+    "domain": "DS",
+    "level": "Masters",
+    "topic": "Reinforcement Learning",
+    "difficulty": 3,
+    "question": "The trade-off in reinforcement learning is between…",
+    "choices": [
+      "Precision and Recall",
+      "Exploration and Exploitation",
+      "Bias and Variance",
+      "Speed and Accuracy"
+    ],
+    "answer_idx": 1,
+    "explanation": "Reinforcement learning balances exploration and exploitation."
+  },
+  {
+    "id": "DS-MSC-004",
+    "domain": "DS",
+    "level": "Masters",
+    "topic": "Advanced Statistics",
+    "difficulty": 3,
+    "question": "p-value in hypothesis testing represents…",
+    "choices": [
+      "Probability null hypothesis is true",
+      "Significance level",
+      "Probability of observing data if null is true",
+      "Test statistic"
+    ],
+    "answer_idx": 2,
+    "explanation": "p-value = probability of observed results assuming null hypothesis."
+  },
+  {
+    "id": "DS-MSC-005",
+    "domain": "DS",
+    "level": "Masters",
+    "topic": "Model Deployment",
+    "difficulty": 3,
+    "question": "Which tool is widely used for deploying ML models as APIs?",
+    "choices": ["TensorFlow", "Flask", "NumPy", "Hadoop"],
+    "answer_idx": 1,
+    "explanation": "Flask is lightweight for serving ML models as web APIs."
+  },
+  {
+    "id": "DS-MSC-006",
+    "domain": "DS",
+    "level": "Masters",
+    "topic": "NLP",
+    "difficulty": 3,
+    "question": "Word2Vec is a technique for…",
+    "choices": [
+      "Image Processing",
+      "Word Embeddings",
+      "Data Cleaning",
+      "Dimensionality Reduction"
+    ],
+    "answer_idx": 1,
+    "explanation": "Word2Vec converts words into dense vector representations."
+  },
+  {
+    "id": "ISM-INT-001",
+    "domain": "ISM",
+    "level": "Intermediate",
+    "topic": "Governance",
+    "difficulty": 1,
+    "question": "The CIA triad stands for…",
+    "choices": [
+      "Control, Inspect, Access",
+      "Confidentiality, Integrity, Availability",
+      "Cloud, IoT, AI",
+      "Code, Iterate, Automate"
+    ],
+    "answer_idx": 1,
+    "explanation": "CIA = Confidentiality, Integrity, Availability."
+  },
+  {
+    "id": "ISM-INT-002",
+    "domain": "ISM",
+    "level": "Intermediate",
+    "topic": "Risk",
+    "difficulty": 1,
+    "question": "What is the main goal of risk management?",
+    "choices": [
+      "To eliminate all risks",
+      "To identify and mitigate risks",
+      "To ignore minor risks",
+      "To create new risks"
+    ],
+    "answer_idx": 1,
+    "explanation": "Risk management reduces risks to acceptable levels."
+  },
+  {
+    "id": "ISM-INT-003",
+    "domain": "ISM",
+    "level": "Intermediate",
+    "topic": "Policies",
+    "difficulty": 1,
+    "question": "An acceptable use policy defines…",
+    "choices": [
+      "How employees can use IT resources",
+      "Company financial policies",
+      "Only physical security measures",
+      "Salary structures"
+    ],
+    "answer_idx": 0,
+    "explanation": "It ensures safe and responsible IT usage."
+  },
+  {
+    "id": "ISM-INT-004",
+    "domain": "ISM",
+    "level": "Intermediate",
+    "topic": "Standards",
+    "difficulty": 2,
+    "question": "ISO/IEC 27001 is related to…",
+    "choices": [
+      "Software Engineering",
+      "Information Security Management",
+      "Robotics",
+      "Cloud Computing"
+    ],
+    "answer_idx": 1,
+    "explanation": "ISO/IEC 27001 is the standard for ISMS."
+  },
+  {
+    "id": "ISM-INT-005",
+    "domain": "ISM",
+    "level": "Intermediate",
+    "topic": "Threats",
+    "difficulty": 2,
+    "question": "Phishing is an example of…",
+    "choices": [
+      "Physical attack",
+      "Social engineering",
+      "Malware infection",
+      "Cryptography"
+    ],
+    "answer_idx": 1,
+    "explanation": "Phishing tricks users through fake emails/messages."
+  },
+  {
+    "id": "ISM-INT-006",
+    "domain": "ISM",
+    "level": "Intermediate",
+    "topic": "Compliance",
+    "difficulty": 2,
+    "question": "Which law in Pakistan deals with cybercrime?",
+    "choices": ["PECA 2016", "ISO 9001", "HIPAA", "GDPR"],
+    "answer_idx": 0,
+    "explanation": "PECA 2016 = Prevention of Electronic Crimes Act."
+  },
+  {
+    "id": "ISM-BSC-001",
+    "domain": "ISM",
+    "level": "Bachelors",
+    "topic": "Frameworks",
+    "difficulty": 2,
+    "question": "COBIT is primarily used for…",
+    "choices": [
+      "Data mining",
+      "IT Governance",
+      "Network design",
+      "Malware analysis"
+    ],
+    "answer_idx": 1,
+    "explanation": "COBIT is a framework for IT governance and management."
+  },
+  {
+    "id": "ISM-BSC-002",
+    "domain": "ISM",
+    "level": "Bachelors",
+    "topic": "Controls",
+    "difficulty": 2,
+    "question": "Firewalls are an example of…",
+    "choices": [
+      "Administrative control",
+      "Physical control",
+      "Technical control",
+      "Policy control"
+    ],
+    "answer_idx": 2,
+    "explanation": "Firewalls are technical controls that filter traffic."
+  },
+  {
+    "id": "ISM-BSC-003",
+    "domain": "ISM",
+    "level": "Bachelors",
+    "topic": "Auditing",
+    "difficulty": 2,
+    "question": "The primary purpose of an IS audit is to…",
+    "choices": [
+      "Find hackers",
+      "Evaluate controls and compliance",
+      "Develop apps",
+      "Create passwords"
+    ],
+    "answer_idx": 1,
+    "explanation": "IS audits check effectiveness of security controls."
+  },
+  {
+    "id": "ISM-BSC-004",
+    "domain": "ISM",
+    "level": "Bachelors",
+    "topic": "Risk",
+    "difficulty": 2,
+    "question": "Residual risk is the risk that…",
+    "choices": [
+      "Cannot be identified",
+      "Remains after controls are applied",
+      "Is created by hackers",
+      "Is purely financial"
+    ],
+    "answer_idx": 1,
+    "explanation": "Residual risk is what remains even after mitigation."
+  },
+  {
+    "id": "ISM-BSC-005",
+    "domain": "ISM",
+    "level": "Bachelors",
+    "topic": "Compliance",
+    "difficulty": 3,
+    "question": "GDPR is a regulation of…",
+    "choices": ["United States", "Pakistan", "European Union", "China"],
+    "answer_idx": 2,
+    "explanation": "GDPR governs data protection in the EU."
+  },
+  {
+    "id": "ISM-BSC-006",
+    "domain": "ISM",
+    "level": "Bachelors",
+    "topic": "Security Culture",
+    "difficulty": 3,
+    "question": "The weakest link in information security is usually…",
+    "choices": [
+      "Software bugs",
+      "Network cables",
+      "Humans",
+      "Encryption algorithms"
+    ],
+    "answer_idx": 2,
+    "explanation": "Humans are often exploited via social engineering."
+  },
+  {
+    "id": "ISM-MSC-001",
+    "domain": "ISM",
+    "level": "Masters",
+    "topic": "Governance",
+    "difficulty": 3,
+    "question": "In ISMS, the 'Plan-Do-Check-Act' cycle is used for…",
+    "choices": [
+      "Incident response",
+      "Continuous improvement",
+      "User authentication",
+      "Firewall setup"
+    ],
+    "answer_idx": 1,
+    "explanation": "PDCA ensures continuous improvement in ISMS."
+  },
+  {
+    "id": "ISM-MSC-002",
+    "domain": "ISM",
+    "level": "Masters",
+    "topic": "Risk Analysis",
+    "difficulty": 3,
+    "question": "Quantitative risk analysis typically uses…",
+    "choices": [
+      "Numbers and probabilities",
+      "Expert judgment only",
+      "No data",
+      "Random estimates"
+    ],
+    "answer_idx": 0,
+    "explanation": "Quantitative risk = measurable data like ALE, SLE."
+  },
+  {
+    "id": "ISM-MSC-003",
+    "domain": "ISM",
+    "level": "Masters",
+    "topic": "Incident Management",
+    "difficulty": 3,
+    "question": "The first step in incident response is…",
+    "choices": [
+      "Containment",
+      "Detection and identification",
+      "Eradication",
+      "Recovery"
+    ],
+    "answer_idx": 1,
+    "explanation": "You must first detect/identify before acting."
+  },
+  {
+    "id": "ISM-MSC-004",
+    "domain": "ISM",
+    "level": "Masters",
+    "topic": "Compliance",
+    "difficulty": 3,
+    "question": "HIPAA primarily applies to…",
+    "choices": [
+      "Healthcare data",
+      "Banking systems",
+      "Social media",
+      "Cloud providers only"
+    ],
+    "answer_idx": 0,
+    "explanation": "HIPAA protects patient health information in the U.S."
+  },
+  {
+    "id": "ISM-MSC-005",
+    "domain": "ISM",
+    "level": "Masters",
+    "topic": "Frameworks",
+    "difficulty": 3,
+    "question": "Which framework is specifically designed for cybersecurity maturity assessment?",
+    "choices": ["ISO 27001", "NIST CSF", "PMBOK", "COBIT"],
+    "answer_idx": 1,
+    "explanation": "NIST Cybersecurity Framework assesses maturity and risk."
+  },
+  {
+    "id": "ISM-MSC-006",
+    "domain": "ISM",
+    "level": "Masters",
+    "topic": "Business Continuity",
+    "difficulty": 3,
+    "question": "RTO in disaster recovery planning stands for…",
+    "choices": [
+      "Recovery Time Objective",
+      "Risk Threat Operation",
+      "Response Testing Option",
+      "Regional Test Outcome"
+    ],
+    "answer_idx": 0,
+    "explanation": "RTO = maximum time to restore after disruption."
+  },
+  {
+    "id": "IT-INT-001",
+    "domain": "IT",
+    "level": "Intermediate",
+    "topic": "Basics",
+    "difficulty": 1,
+    "question": "Which of the following is an example of an input device?",
+    "choices": ["Printer", "Monitor", "Keyboard", "Projector"],
+    "answer_idx": 2,
+    "explanation": "Keyboard is used to input data into a computer."
+  },
+  {
+    "id": "IT-INT-002",
+    "domain": "IT",
+    "level": "Intermediate",
+    "topic": "Networking",
+    "difficulty": 1,
+    "question": "LAN stands for…",
+    "choices": [
+      "Large Area Network",
+      "Local Area Network",
+      "Long Access Node",
+      "Linked Application Network"
+    ],
+    "answer_idx": 1,
+    "explanation": "LAN is a Local Area Network used in small areas like offices."
+  },
+  {
+    "id": "IT-INT-003",
+    "domain": "IT",
+    "level": "Intermediate",
+    "topic": "Storage",
+    "difficulty": 1,
+    "question": "Which storage device is permanent?",
+    "choices": ["RAM", "ROM", "Cache", "Registers"],
+    "answer_idx": 1,
+    "explanation": "ROM stores data permanently, unlike RAM."
+  },
+  {
+    "id": "IT-INT-004",
+    "domain": "IT",
+    "level": "Intermediate",
+    "topic": "Software",
+    "difficulty": 2,
+    "question": "MS Word is an example of…",
+    "choices": [
+      "System software",
+      "Application software",
+      "Utility software",
+      "Firmware"
+    ],
+    "answer_idx": 1,
+    "explanation": "MS Word is an application software used for documents."
+  },
+  {
+    "id": "IT-INT-005",
+    "domain": "IT",
+    "level": "Intermediate",
+    "topic": "Internet",
+    "difficulty": 2,
+    "question": "Which protocol is commonly used for browsing websites?",
+    "choices": ["HTTP/HTTPS", "FTP", "SMTP", "SSH"],
+    "answer_idx": 0,
+    "explanation": "HTTP/HTTPS are protocols for accessing web pages."
+  },
+  {
+    "id": "IT-INT-006",
+    "domain": "IT",
+    "level": "Intermediate",
+    "topic": "Hardware",
+    "difficulty": 2,
+    "question": "Which part of the computer processes instructions?",
+    "choices": ["Hard Drive", "RAM", "CPU", "GPU"],
+    "answer_idx": 2,
+    "explanation": "CPU is the 'brain' of the computer that processes instructions."
+  },
+  {
+    "id": "IT-BSC-001",
+    "domain": "IT",
+    "level": "Bachelors",
+    "topic": "Networking",
+    "difficulty": 2,
+    "question": "Which device connects multiple networks together?",
+    "choices": ["Hub", "Switch", "Router", "Repeater"],
+    "answer_idx": 2,
+    "explanation": "Routers connect different networks, e.g., LAN to the internet."
+  },
+  {
+    "id": "IT-BSC-002",
+    "domain": "IT",
+    "level": "Bachelors",
+    "topic": "Databases",
+    "difficulty": 2,
+    "question": "Which SQL command is used to retrieve data?",
+    "choices": ["INSERT", "UPDATE", "SELECT", "DELETE"],
+    "answer_idx": 2,
+    "explanation": "SELECT is used to fetch data from a database."
+  },
+  {
+    "id": "IT-BSC-003",
+    "domain": "IT",
+    "level": "Bachelors",
+    "topic": "Cloud",
+    "difficulty": 2,
+    "question": "Which of the following is a cloud computing service model?",
+    "choices": [
+      "IaaS, PaaS, SaaS",
+      "LAN, WAN, MAN",
+      "HTML, CSS, JS",
+      "IP, TCP, UDP"
+    ],
+    "answer_idx": 0,
+    "explanation": "IaaS, PaaS, and SaaS are service models of cloud computing."
+  },
+  {
+    "id": "IT-BSC-004",
+    "domain": "IT",
+    "level": "Bachelors",
+    "topic": "Security",
+    "difficulty": 2,
+    "question": "Two-factor authentication adds…",
+    "choices": [
+      "A backup internet connection",
+      "An additional password layer",
+      "A physical security guard",
+      "A new email address"
+    ],
+    "answer_idx": 1,
+    "explanation": "2FA adds a second layer, e.g., OTP, fingerprint."
+  },
+  {
+    "id": "IT-BSC-005",
+    "domain": "IT",
+    "level": "Bachelors",
+    "topic": "Software Engineering",
+    "difficulty": 3,
+    "question": "The SDLC phase where requirements are gathered is…",
+    "choices": ["Design", "Implementation", "Analysis", "Testing"],
+    "answer_idx": 2,
+    "explanation": "Requirement analysis is the phase where user needs are collected."
+  },
+  {
+    "id": "IT-BSC-006",
+    "domain": "IT",
+    "level": "Bachelors",
+    "topic": "Virtualization",
+    "difficulty": 3,
+    "question": "VMware and VirtualBox are tools for…",
+    "choices": [
+      "Networking",
+      "Virtualization",
+      "Programming",
+      "Database design"
+    ],
+    "answer_idx": 1,
+    "explanation": "They allow running virtual machines on a host system."
+  },
+  {
+    "id": "IT-MSC-001",
+    "domain": "IT",
+    "level": "Masters",
+    "topic": "Networks",
+    "difficulty": 3,
+    "question": "In networking, CIDR is used for…",
+    "choices": [
+      "Defining IP address ranges",
+      "Encrypting passwords",
+      "Creating databases",
+      "Writing programs"
+    ],
+    "answer_idx": 0,
+    "explanation": "CIDR (Classless Inter-Domain Routing) specifies IP ranges."
+  },
+  {
+    "id": "IT-MSC-002",
+    "domain": "IT",
+    "level": "Masters",
+    "topic": "Databases",
+    "difficulty": 3,
+    "question": "A transaction in a database must follow ACID properties. 'I' stands for…",
+    "choices": ["Integrity", "Isolation", "Indexing", "Iteration"],
+    "answer_idx": 1,
+    "explanation": "I = Isolation, meaning transactions don’t interfere with each other."
+  },
+  {
+    "id": "IT-MSC-003",
+    "domain": "IT",
+    "level": "Masters",
+    "topic": "Cloud",
+    "difficulty": 3,
+    "question": "Which cloud deployment model offers resources for a single organization only?",
+    "choices": [
+      "Public Cloud",
+      "Hybrid Cloud",
+      "Private Cloud",
+      "Community Cloud"
+    ],
+    "answer_idx": 2,
+    "explanation": "Private Cloud is dedicated to a single organization."
+  },
+  {
+    "id": "IT-MSC-004",
+    "domain": "IT",
+    "level": "Masters",
+    "topic": "IT Management",
+    "difficulty": 3,
+    "question": "ITIL is primarily used for…",
+    "choices": [
+      "IT service management",
+      "Machine learning",
+      "Web design",
+      "Cyber attacks"
+    ],
+    "answer_idx": 0,
+    "explanation": "ITIL provides best practices for IT service management."
+  },
+  {
+    "id": "IT-MSC-005",
+    "domain": "IT",
+    "level": "Masters",
+    "topic": "Security",
+    "difficulty": 3,
+    "question": "Which encryption algorithm is symmetric?",
+    "choices": ["RSA", "ECC", "AES", "DSA"],
+    "answer_idx": 2,
+    "explanation": "AES is a symmetric key encryption algorithm."
+  },
+  {
+    "id": "IT-MSC-006",
+    "domain": "IT",
+    "level": "Masters",
+    "topic": "Emerging Tech",
+    "difficulty": 3,
+    "question": "Edge computing mainly focuses on…",
+    "choices": [
+      "Processing data closer to the source",
+      "Storing data only in cloud",
+      "Creating 3D models",
+      "Encrypting network traffic"
+    ],
+    "answer_idx": 0,
+    "explanation": "Edge computing reduces latency by processing data near the user/device."
+  },
+  {
+    "id": "RA-INT-001",
+    "domain": "RA",
+    "level": "Intermediate",
+    "topic": "Basics",
+    "difficulty": 1,
+    "question": "A robot is best defined as…",
+    "choices": [
+      "A machine that only moves",
+      "A programmable machine capable of performing tasks",
+      "A human with artificial intelligence",
+      "Any electronic device"
+    ],
+    "answer_idx": 1,
+    "explanation": "Robots are programmable machines designed to perform tasks."
+  },
+  {
+    "id": "RA-INT-002",
+    "domain": "RA",
+    "level": "Intermediate",
+    "topic": "Automation",
+    "difficulty": 1,
+    "question": "Which of the following is an example of home automation?",
+    "choices": [
+      "Washing machine",
+      "Light sensors controlling lamps",
+      "Ceiling fan",
+      "Vacuum flask"
+    ],
+    "answer_idx": 1,
+    "explanation": "Smart lighting controlled by sensors is home automation."
+  },
+  {
+    "id": "RA-INT-003",
+    "domain": "RA",
+    "level": "Intermediate",
+    "topic": "Sensors",
+    "difficulty": 1,
+    "question": "Which sensor is commonly used for detecting distance?",
+    "choices": [
+      "Ultrasonic sensor",
+      "Thermal sensor",
+      "Gas sensor",
+      "Light sensor"
+    ],
+    "answer_idx": 0,
+    "explanation": "Ultrasonic sensors detect distance using sound waves."
+  },
+  {
+    "id": "RA-INT-004",
+    "domain": "RA",
+    "level": "Intermediate",
+    "topic": "History",
+    "difficulty": 2,
+    "question": "The word 'robot' was first introduced in…",
+    "choices": [
+      "1921 play R.U.R.",
+      "1956 AI conference",
+      "1990s automation era",
+      "Greek mythology"
+    ],
+    "answer_idx": 0,
+    "explanation": "The word 'robot' was introduced in the play 'R.U.R.' (Rossum’s Universal Robots)."
+  },
+  {
+    "id": "RA-INT-005",
+    "domain": "RA",
+    "level": "Intermediate",
+    "topic": "Components",
+    "difficulty": 2,
+    "question": "Which component acts as the 'brain' of a robot?",
+    "choices": ["Motor", "Sensor", "Microcontroller", "Battery"],
+    "answer_idx": 2,
+    "explanation": "Microcontrollers process data and control robot actions."
+  },
+  {
+    "id": "RA-INT-006",
+    "domain": "RA",
+    "level": "Intermediate",
+    "topic": "Automation",
+    "difficulty": 2,
+    "question": "Which industry first adopted automation on a large scale?",
+    "choices": [
+      "Healthcare",
+      "Automobile manufacturing",
+      "Agriculture",
+      "Banking"
+    ],
+    "answer_idx": 1,
+    "explanation": "The automobile industry used assembly line automation early on."
+  },
+  {
+    "id": "RA-BSC-001",
+    "domain": "RA",
+    "level": "Bachelors",
+    "topic": "Control Systems",
+    "difficulty": 2,
+    "question": "A closed-loop control system uses…",
+    "choices": [
+      "No feedback",
+      "Feedback for correction",
+      "Random inputs",
+      "Only manual control"
+    ],
+    "answer_idx": 1,
+    "explanation": "Closed-loop systems adjust performance using feedback."
+  },
+  {
+    "id": "RA-BSC-002",
+    "domain": "RA",
+    "level": "Bachelors",
+    "topic": "Kinematics",
+    "difficulty": 2,
+    "question": "The study of motion without considering forces is…",
+    "choices": ["Dynamics", "Kinematics", "Mechanics", "Robotics"],
+    "answer_idx": 1,
+    "explanation": "Kinematics focuses only on movement, not forces."
+  },
+  {
+    "id": "RA-BSC-003",
+    "domain": "RA",
+    "level": "Bachelors",
+    "topic": "Actuators",
+    "difficulty": 2,
+    "question": "Which actuator is commonly used in robotic arms?",
+    "choices": [
+      "Hydraulic actuators",
+      "Gas cylinders",
+      "Thermal coils",
+      "Vacuum tubes"
+    ],
+    "answer_idx": 0,
+    "explanation": "Hydraulic actuators provide high power for robotic arms."
+  },
+  {
+    "id": "RA-BSC-004",
+    "domain": "RA",
+    "level": "Bachelors",
+    "topic": "Programming",
+    "difficulty": 3,
+    "question": "Which language is widely used in robotics programming?",
+    "choices": ["C++", "Python", "Both C++ and Python", "Ruby"],
+    "answer_idx": 2,
+    "explanation": "C++ and Python are popular in robotics due to performance and flexibility."
+  },
+  {
+    "id": "RA-BSC-005",
+    "domain": "RA",
+    "level": "Bachelors",
+    "topic": "Automation",
+    "difficulty": 3,
+    "question": "PLC in automation stands for…",
+    "choices": [
+      "Process Logic Calculator",
+      "Programmable Logic Controller",
+      "Power Line Communication",
+      "Performance Level Control"
+    ],
+    "answer_idx": 1,
+    "explanation": "PLC = Programmable Logic Controller, widely used in automation."
+  },
+  {
+    "id": "RA-BSC-006",
+    "domain": "RA",
+    "level": "Bachelors",
+    "topic": "Vision",
+    "difficulty": 3,
+    "question": "Which technology allows robots to 'see' their environment?",
+    "choices": ["Infrared", "Computer Vision", "Bluetooth", "GPS"],
+    "answer_idx": 1,
+    "explanation": "Computer vision enables robots to interpret visual input."
+  },
+  {
+    "id": "RA-MSC-001",
+    "domain": "RA",
+    "level": "Masters",
+    "topic": "AI in Robotics",
+    "difficulty": 3,
+    "question": "SLAM in robotics refers to…",
+    "choices": [
+      "Simultaneous Localization and Mapping",
+      "Smart Location Automation Method",
+      "Software Layer Access Module",
+      "System Learning Algorithm Model"
+    ],
+    "answer_idx": 0,
+    "explanation": "SLAM helps robots build maps and track their location."
+  },
+  {
+    "id": "RA-MSC-002",
+    "domain": "RA",
+    "level": "Masters",
+    "topic": "Control",
+    "difficulty": 3,
+    "question": "PID controllers are used to…",
+    "choices": [
+      "Encrypt data",
+      "Stabilize and control systems",
+      "Design software",
+      "Reduce power consumption"
+    ],
+    "answer_idx": 1,
+    "explanation": "PID = Proportional, Integral, Derivative controllers used for precise control."
+  },
+  {
+    "id": "RA-MSC-003",
+    "domain": "RA",
+    "level": "Masters",
+    "topic": "Machine Learning",
+    "difficulty": 3,
+    "question": "Reinforcement learning in robotics is used for…",
+    "choices": [
+      "Learning by trial and error",
+      "Only supervised tasks",
+      "Storing static rules",
+      "Encrypting control signals"
+    ],
+    "answer_idx": 0,
+    "explanation": "Reinforcement learning trains robots through feedback and rewards."
+  },
+  {
+    "id": "RA-MSC-004",
+    "domain": "RA",
+    "level": "Masters",
+    "topic": "Automation",
+    "difficulty": 3,
+    "question": "Industry 4.0 mainly focuses on…",
+    "choices": [
+      "Manual production",
+      "Smart factories with IoT and automation",
+      "Traditional assembly lines",
+      "Handmade production"
+    ],
+    "answer_idx": 1,
+    "explanation": "Industry 4.0 integrates IoT, AI, and robotics into manufacturing."
+  },
+  {
+    "id": "RA-MSC-005",
+    "domain": "RA",
+    "level": "Masters",
+    "topic": "Sensors",
+    "difficulty": 3,
+    "question": "LIDAR is mainly used in robotics for…",
+    "choices": [
+      "Measuring temperature",
+      "Detecting distance and mapping",
+      "Encrypting signals",
+      "Storing data"
+    ],
+    "answer_idx": 1,
+    "explanation": "LIDAR uses lasers to measure distances and create maps."
+  },
+  {
+    "id": "RA-MSC-006",
+    "domain": "RA",
+    "level": "Masters",
+    "topic": "Future Trends",
+    "difficulty": 3,
+    "question": "Cobots are…",
+    "choices": [
+      "Collaborative robots working with humans",
+      "Combat robots",
+      "Completely autonomous robots",
+      "Cloud-based robots only"
+    ],
+    "answer_idx": 0,
+    "explanation": "Cobots are designed to safely work alongside humans."
+  },
+  {
+    "id": "SE-INT-001",
+    "domain": "SE",
+    "level": "Intermediate",
+    "topic": "Basics of SE",
+    "difficulty": 1,
+    "question": "Software Engineering is primarily concerned with…",
+    "choices": [
+      "Writing poems",
+      "Building physical machines",
+      "Developing and maintaining software systematically",
+      "Drawing cartoons"
+    ],
+    "answer_idx": 2,
+    "explanation": "Software Engineering is about systematic development and maintenance of software."
+  },
+  {
+    "id": "SE-INT-002",
+    "domain": "SE",
+    "level": "Intermediate",
+    "topic": "Development",
+    "difficulty": 1,
+    "question": "Which of the following is a software development model?",
+    "choices": ["Waterfall", "Pyramid", "Circular", "Hexagonal"],
+    "answer_idx": 0,
+    "explanation": "Waterfall is one of the earliest software development models."
+  },
+  {
+    "id": "SE-INT-003",
+    "domain": "SE",
+    "level": "Intermediate",
+    "topic": "Testing",
+    "difficulty": 1,
+    "question": "Which phase ensures the software works as intended?",
+    "choices": ["Testing", "Coding", "Deployment", "Requirement Analysis"],
+    "answer_idx": 0,
+    "explanation": "Testing validates that the software meets its requirements."
+  },
+  {
+    "id": "SE-INT-004",
+    "domain": "SE",
+    "level": "Intermediate",
+    "topic": "Teamwork",
+    "difficulty": 2,
+    "question": "Which role in a software team is responsible for requirements gathering?",
+    "choices": ["Tester", "Business Analyst", "Developer", "UI Designer"],
+    "answer_idx": 1,
+    "explanation": "Business Analysts gather and document requirements."
+  },
+  {
+    "id": "SE-INT-005",
+    "domain": "SE",
+    "level": "Intermediate",
+    "topic": "Documentation",
+    "difficulty": 2,
+    "question": "A Software Requirement Specification (SRS) is written during which phase?",
+    "choices": ["Design", "Analysis", "Implementation", "Testing"],
+    "answer_idx": 1,
+    "explanation": "SRS is created during the requirement analysis phase."
+  },
+  {
+    "id": "SE-INT-006",
+    "domain": "SE",
+    "level": "Intermediate",
+    "topic": "Life Cycle",
+    "difficulty": 2,
+    "question": "The abbreviation SDLC stands for…",
+    "choices": [
+      "System Development Life Cycle",
+      "Software Data Logical Chart",
+      "Simple Design Level Code",
+      "System Database Linking Concept"
+    ],
+    "answer_idx": 0,
+    "explanation": "SDLC = System/Software Development Life Cycle."
+  },
+  {
+    "id": "SE-BSC-001",
+    "domain": "SE",
+    "level": "Bachelors",
+    "topic": "Design Models",
+    "difficulty": 1,
+    "question": "Which diagram is commonly used in UML for system design?",
+    "choices": ["Flowchart", "Use Case Diagram", "Gantt Chart", "Histogram"],
+    "answer_idx": 1,
+    "explanation": "Use Case Diagrams represent system interactions in UML."
+  },
+  {
+    "id": "SE-BSC-002",
+    "domain": "SE",
+    "level": "Bachelors",
+    "topic": "Agile",
+    "difficulty": 2,
+    "question": "Which Agile framework divides development into sprints?",
+    "choices": ["Scrum", "Kanban", "XP", "RAD"],
+    "answer_idx": 0,
+    "explanation": "Scrum organizes work into short iterations called sprints."
+  },
+  {
+    "id": "SE-BSC-003",
+    "domain": "SE",
+    "level": "Bachelors",
+    "topic": "Project Planning",
+    "difficulty": 2,
+    "question": "Which chart is used to visualize project timelines?",
+    "choices": ["ER Diagram", "Class Diagram", "Gantt Chart", "Flowchart"],
+    "answer_idx": 2,
+    "explanation": "Gantt Charts show project schedules and timelines."
+  },
+  {
+    "id": "SE-BSC-004",
+    "domain": "SE",
+    "level": "Bachelors",
+    "topic": "Software Quality",
+    "difficulty": 2,
+    "question": "ISO 25010 is related to…",
+    "choices": [
+      "Programming Languages",
+      "Software Quality Standards",
+      "Database Models",
+      "Operating Systems"
+    ],
+    "answer_idx": 1,
+    "explanation": "ISO 25010 defines software quality models and characteristics."
+  },
+  {
+    "id": "SE-BSC-005",
+    "domain": "SE",
+    "level": "Bachelors",
+    "topic": "Maintenance",
+    "difficulty": 2,
+    "question": "Which type of maintenance involves adapting software to new environments?",
+    "choices": ["Corrective", "Adaptive", "Perfective", "Preventive"],
+    "answer_idx": 1,
+    "explanation": "Adaptive maintenance ensures software works in changing environments."
+  },
+  {
+    "id": "SE-BSC-006",
+    "domain": "SE",
+    "level": "Bachelors",
+    "topic": "Cost Estimation",
+    "difficulty": 3,
+    "question": "COCOMO is a model used for…",
+    "choices": ["Testing", "Cost Estimation", "Debugging", "Database Design"],
+    "answer_idx": 1,
+    "explanation": "COCOMO (Constructive Cost Model) estimates software development cost."
+  },
+  {
+    "id": "SE-MSC-001",
+    "domain": "SE",
+    "level": "Masters",
+    "topic": "Architecture",
+    "difficulty": 2,
+    "question": "Which software architecture style is used in microservices?",
+    "choices": ["Monolithic", "Layered", "Service-Oriented", "Pipeline"],
+    "answer_idx": 2,
+    "explanation": "Microservices architecture is based on service-oriented principles."
+  },
+  {
+    "id": "SE-MSC-002",
+    "domain": "SE",
+    "level": "Masters",
+    "topic": "Process Models",
+    "difficulty": 2,
+    "question": "Spiral model emphasizes…",
+    "choices": [
+      "Quick delivery",
+      "Risk analysis",
+      "Linear process",
+      "Lack of documentation"
+    ],
+    "answer_idx": 1,
+    "explanation": "The Spiral Model focuses on iterative development with risk analysis."
+  },
+  {
+    "id": "SE-MSC-003",
+    "domain": "SE",
+    "level": "Masters",
+    "topic": "Advanced Testing",
+    "difficulty": 3,
+    "question": "Mutation testing is used to…",
+    "choices": [
+      "Check syntax",
+      "Evaluate test effectiveness",
+      "Improve speed",
+      "Compile programs"
+    ],
+    "answer_idx": 1,
+    "explanation": "Mutation testing evaluates the effectiveness of test cases."
+  },
+  {
+    "id": "SE-MSC-004",
+    "domain": "SE",
+    "level": "Masters",
+    "topic": "DevOps",
+    "difficulty": 3,
+    "question": "CI/CD in DevOps stands for…",
+    "choices": [
+      "Continuous Integration / Continuous Deployment",
+      "Centralized Information / Code Development",
+      "Critical Issues / Code Debugging",
+      "Continuous Iteration / Code Documentation"
+    ],
+    "answer_idx": 0,
+    "explanation": "CI/CD automates integration and deployment of software."
+  },
+  {
+    "id": "SE-MSC-005",
+    "domain": "SE",
+    "level": "Masters",
+    "topic": "Software Metrics",
+    "difficulty": 3,
+    "question": "Cyclomatic complexity measures…",
+    "choices": [
+      "Execution speed",
+      "Code readability",
+      "Number of independent paths",
+      "Number of classes"
+    ],
+    "answer_idx": 2,
+    "explanation": "Cyclomatic complexity calculates independent paths in the code."
+  },
+  {
+    "id": "SE-MSC-006",
+    "domain": "SE",
+    "level": "Masters",
+    "topic": "Formal Methods",
+    "difficulty": 3,
+    "question": "Z notation is used for…",
+    "choices": [
+      "Database design",
+      "Formal specification",
+      "Testing",
+      "Cost estimation"
+    ],
+    "answer_idx": 1,
+    "explanation": "Z notation is a formal specification language in SE."
+  },
+  {
+    "id": "SPM-INT-001",
+    "domain": "SPM",
+    "level": "Intermediate",
+    "topic": "Basics",
+    "difficulty": 1,
+    "question": "Software Project Management is mainly concerned with…",
+    "choices": [
+      "Cooking recipes",
+      "Planning, executing, and controlling software projects",
+      "Testing only",
+      "Drawing UML diagrams only"
+    ],
+    "answer_idx": 1,
+    "explanation": "SPM focuses on planning, execution, and control of software projects."
+  },
+  {
+    "id": "SPM-INT-002",
+    "domain": "SPM",
+    "level": "Intermediate",
+    "topic": "Roles",
+    "difficulty": 1,
+    "question": "Who is responsible for ensuring project goals are met?",
+    "choices": ["Client", "Developer", "Project Manager", "Tester"],
+    "answer_idx": 2,
+    "explanation": "The Project Manager ensures goals, scope, and timelines are achieved."
+  },
+  {
+    "id": "SPM-INT-003",
+    "domain": "SPM",
+    "level": "Intermediate",
+    "topic": "Project Phases",
+    "difficulty": 1,
+    "question": "Which is the first phase of project management?",
+    "choices": ["Execution", "Planning", "Initiation", "Closure"],
+    "answer_idx": 2,
+    "explanation": "Initiation comes first to define the project and objectives."
+  },
+  {
+    "id": "SPM-INT-004",
+    "domain": "SPM",
+    "level": "Intermediate",
+    "topic": "Time Management",
+    "difficulty": 2,
+    "question": "Which tool is commonly used to represent project schedules?",
+    "choices": ["Flowchart", "Histogram", "Gantt Chart", "Pie Chart"],
+    "answer_idx": 2,
+    "explanation": "Gantt Charts show activities and timelines in project scheduling."
+  },
+  {
+    "id": "SPM-INT-005",
+    "domain": "SPM",
+    "level": "Intermediate",
+    "topic": "Risk",
+    "difficulty": 2,
+    "question": "In project management, risk means…",
+    "choices": [
+      "A guaranteed problem",
+      "An uncertain event affecting project outcome",
+      "Always a failure",
+      "A type of test"
+    ],
+    "answer_idx": 1,
+    "explanation": "Risk is an uncertain event that can impact objectives positively or negatively."
+  },
+  {
+    "id": "SPM-INT-006",
+    "domain": "SPM",
+    "level": "Intermediate",
+    "topic": "Quality",
+    "difficulty": 2,
+    "question": "Which activity ensures the project deliverables meet standards?",
+    "choices": ["Coding", "Quality Assurance", "Initiation", "Deployment"],
+    "answer_idx": 1,
+    "explanation": "QA ensures deliverables meet quality standards."
+  },
+  {
+    "id": "SPM-BSC-001",
+    "domain": "SPM",
+    "level": "Bachelors",
+    "topic": "Planning",
+    "difficulty": 1,
+    "question": "The triple constraint of project management includes…",
+    "choices": [
+      "Scope, Time, Cost",
+      "Design, Testing, Deployment",
+      "Client, Manager, Team",
+      "Plan, Execute, Control"
+    ],
+    "answer_idx": 0,
+    "explanation": "Scope, Time, and Cost form the classic triple constraint."
+  },
+  {
+    "id": "SPM-BSC-002",
+    "domain": "SPM",
+    "level": "Bachelors",
+    "topic": "Team Management",
+    "difficulty": 2,
+    "question": "RACI matrix defines…",
+    "choices": [
+      "Roles and responsibilities",
+      "Coding standards",
+      "Testing tools",
+      "Database design"
+    ],
+    "answer_idx": 0,
+    "explanation": "RACI = Responsible, Accountable, Consulted, Informed."
+  },
+  {
+    "id": "SPM-BSC-003",
+    "domain": "SPM",
+    "level": "Bachelors",
+    "topic": "Scheduling",
+    "difficulty": 2,
+    "question": "Critical Path Method (CPM) is used for…",
+    "choices": [
+      "Designing software",
+      "Finding minimum project duration",
+      "Testing programs",
+      "Debugging errors"
+    ],
+    "answer_idx": 1,
+    "explanation": "CPM identifies the longest sequence of dependent tasks to minimize duration."
+  },
+  {
+    "id": "SPM-BSC-004",
+    "domain": "SPM",
+    "level": "Bachelors",
+    "topic": "Cost Estimation",
+    "difficulty": 2,
+    "question": "Which model is used for software cost estimation?",
+    "choices": ["ER Model", "COCOMO", "DFD", "Agile Model"],
+    "answer_idx": 1,
+    "explanation": "COCOMO estimates project effort and cost."
+  },
+  {
+    "id": "SPM-BSC-005",
+    "domain": "SPM",
+    "level": "Bachelors",
+    "topic": "Monitoring",
+    "difficulty": 2,
+    "question": "Earned Value Management (EVM) is used to…",
+    "choices": [
+      "Test software",
+      "Control and track project performance",
+      "Estimate risk only",
+      "Develop UML diagrams"
+    ],
+    "answer_idx": 1,
+    "explanation": "EVM integrates scope, cost, and schedule to track performance."
+  },
+  {
+    "id": "SPM-BSC-006",
+    "domain": "SPM",
+    "level": "Bachelors",
+    "topic": "Agile",
+    "difficulty": 3,
+    "question": "In Agile, the product backlog is maintained by…",
+    "choices": [
+      "Scrum Master",
+      "Project Sponsor",
+      "Product Owner",
+      "Development Team"
+    ],
+    "answer_idx": 2,
+    "explanation": "The Product Owner maintains and prioritizes the backlog."
+  },
+  {
+    "id": "UIUX-INT-001",
+    "domain": "UIUX",
+    "level": "Intermediate",
+    "topic": "Basics",
+    "difficulty": 1,
+    "question": "What does UI stand for in design?",
+    "choices": [
+      "User Input",
+      "User Interaction",
+      "User Interface",
+      "Unified Internet"
+    ],
+    "answer_idx": 2,
+    "explanation": "UI = User Interface, the visual layer users interact with."
+  },
+  {
+    "id": "UIUX-INT-002",
+    "domain": "UIUX",
+    "level": "Intermediate",
+    "topic": "Basics",
+    "difficulty": 1,
+    "question": "UX focuses primarily on…",
+    "choices": [
+      "User's overall experience and satisfaction",
+      "Only colors and fonts",
+      "Backend coding",
+      "Hardware design"
+    ],
+    "answer_idx": 0,
+    "explanation": "UX = User Experience, which emphasizes usability and satisfaction."
+  },
+  {
+    "id": "UIUX-INT-003",
+    "domain": "UIUX",
+    "level": "Intermediate",
+    "topic": "Design Principles",
+    "difficulty": 1,
+    "question": "Which principle suggests that design should be consistent across the system?",
+    "choices": ["Flexibility", "Consistency", "Aesthetics", "Minimalism"],
+    "answer_idx": 1,
+    "explanation": "Consistency makes interfaces predictable and easier to learn."
+  },
+  {
+    "id": "UIUX-INT-004",
+    "domain": "UIUX",
+    "level": "Intermediate",
+    "topic": "Color Theory",
+    "difficulty": 2,
+    "question": "Which color is commonly associated with errors or warnings in UI?",
+    "choices": ["Blue", "Green", "Red", "Yellow"],
+    "answer_idx": 2,
+    "explanation": "Red is commonly used for errors or warnings."
+  },
+  {
+    "id": "UIUX-INT-005",
+    "domain": "UIUX",
+    "level": "Intermediate",
+    "topic": "Typography",
+    "difficulty": 2,
+    "question": "Sans-serif fonts are often preferred in UI because…",
+    "choices": [
+      "They look more traditional",
+      "They are easier to read on screens",
+      "They are only used in books",
+      "They use decorative strokes"
+    ],
+    "answer_idx": 1,
+    "explanation": "Sans-serif fonts are clean and easier to read on digital displays."
+  },
+  {
+    "id": "UIUX-INT-006",
+    "domain": "UIUX",
+    "level": "Intermediate",
+    "topic": "Usability",
+    "difficulty": 2,
+    "question": "A button that looks clickable but is not functional is an example of…",
+    "choices": ["Affordance", "Feedback", "False Affordance", "Consistency"],
+    "answer_idx": 2,
+    "explanation": "False affordance misleads users into thinking an action is possible."
+  },
+  {
+    "id": "UIUX-BSC-001",
+    "domain": "UIUX",
+    "level": "Bachelors",
+    "topic": "Prototyping",
+    "difficulty": 1,
+    "question": "Which tool is widely used for UI/UX prototyping?",
+    "choices": ["Photoshop", "Figma", "C++", "Excel"],
+    "answer_idx": 1,
+    "explanation": "Figma is a popular cloud-based UI/UX prototyping tool."
+  },
+  {
+    "id": "UIUX-BSC-002",
+    "domain": "UIUX",
+    "level": "Bachelors",
+    "topic": "User Research",
+    "difficulty": 2,
+    "question": "Persona in UX design represents…",
+    "choices": [
+      "A real user profile",
+      "An imaginary user archetype",
+      "A developer’s experience",
+      "A software license"
+    ],
+    "answer_idx": 1,
+    "explanation": "Persona is a fictional character representing target users."
+  },
+  {
+    "id": "UIUX-BSC-003",
+    "domain": "UIUX",
+    "level": "Bachelors",
+    "topic": "Interaction Design",
+    "difficulty": 2,
+    "question": "Which principle ensures users understand system status?",
+    "choices": ["Aesthetic Design", "Feedback", "Minimalism", "Scalability"],
+    "answer_idx": 1,
+    "explanation": "Feedback informs users of the current state or result of their actions."
+  },
+  {
+    "id": "UIUX-BSC-004",
+    "domain": "UIUX",
+    "level": "Bachelors",
+    "topic": "Heuristics",
+    "difficulty": 2,
+    "question": "Jakob Nielsen’s heuristics are related to…",
+    "choices": [
+      "Programming efficiency",
+      "Database optimization",
+      "Usability evaluation",
+      "Network security"
+    ],
+    "answer_idx": 2,
+    "explanation": "Nielsen’s 10 heuristics are widely used for usability testing."
+  },
+  {
+    "id": "UIUX-BSC-005",
+    "domain": "UIUX",
+    "level": "Bachelors",
+    "topic": "Accessibility",
+    "difficulty": 2,
+    "question": "WCAG guidelines are for…",
+    "choices": [
+      "Web accessibility",
+      "Software debugging",
+      "Graphic design aesthetics",
+      "Database normalization"
+    ],
+    "answer_idx": 0,
+    "explanation": "WCAG = Web Content Accessibility Guidelines."
+  },
+  {
+    "id": "UIUX-BSC-006",
+    "domain": "UIUX",
+    "level": "Bachelors",
+    "topic": "Wireframing",
+    "difficulty": 3,
+    "question": "A wireframe in UI/UX design is…",
+    "choices": [
+      "A final design",
+      "A rough layout showing structure and elements",
+      "A code snippet",
+      "A database schema"
+    ],
+    "answer_idx": 1,
+    "explanation": "Wireframes represent the skeleton layout of interfaces."
+  },
+  {
+    "id": "UIUX-MSC-001",
+    "domain": "UIUX",
+    "level": "Masters",
+    "topic": "Advanced UX",
+    "difficulty": 2,
+    "question": "Eye-tracking studies in UX are used to…",
+    "choices": [
+      "Track bugs in code",
+      "Understand user attention patterns",
+      "Measure network speed",
+      "Analyze system security"
+    ],
+    "answer_idx": 1,
+    "explanation": "Eye-tracking helps analyze how users visually interact with interfaces."
+  },
+  {
+    "id": "UIUX-MSC-002",
+    "domain": "UIUX",
+    "level": "Masters",
+    "topic": "Cognitive Load",
+    "difficulty": 2,
+    "question": "Minimizing cognitive load in design helps…",
+    "choices": [
+      "Improve system security",
+      "Make interfaces easier to use",
+      "Reduce database size",
+      "Speed up servers"
+    ],
+    "answer_idx": 1,
+    "explanation": "Lower cognitive load ensures users don’t feel overwhelmed."
+  },
+  {
+    "id": "UIUX-MSC-003",
+    "domain": "UIUX",
+    "level": "Masters",
+    "topic": "Design Systems",
+    "difficulty": 3,
+    "question": "Material Design was introduced by…",
+    "choices": ["Apple", "Microsoft", "Google", "IBM"],
+    "answer_idx": 2,
+    "explanation": "Google created Material Design as a design language."
+  },
+  {
+    "id": "UIUX-MSC-004",
+    "domain": "UIUX",
+    "level": "Masters",
+    "topic": "Usability Testing",
+    "difficulty": 3,
+    "question": "A/B testing in UX is used to…",
+    "choices": [
+      "Compare two design versions",
+      "Debug user code",
+      "Check server response",
+      "Reduce storage"
+    ],
+    "answer_idx": 0,
+    "explanation": "A/B testing compares two design versions to see which performs better."
+  },
+  {
+    "id": "UIUX-MSC-005",
+    "domain": "UIUX",
+    "level": "Masters",
+    "topic": "Emotional Design",
+    "difficulty": 3,
+    "question": "Don Norman’s three levels of emotional design are…",
+    "choices": [
+      "Visual, Technical, Logical",
+      "Visceral, Behavioral, Reflective",
+      "Interactive, Responsive, Adaptive",
+      "Primary, Secondary, Tertiary"
+    ],
+    "answer_idx": 1,
+    "explanation": "Norman identified visceral, behavioral, and reflective design levels."
+  },
+  {
+    "id": "UIUX-MSC-006",
+    "domain": "UIUX",
+    "level": "Masters",
+    "topic": "Human Factors",
+    "difficulty": 3,
+    "question": "Fitts’s Law in UX relates to…",
+    "choices": [
+      "Database optimization",
+      "Predicting time to move to a target area",
+      "Software engineering models",
+      "Agile frameworks"
+    ],
+    "answer_idx": 1,
+    "explanation": "Fitts’s Law predicts movement time based on distance and target size."
+  }
+]

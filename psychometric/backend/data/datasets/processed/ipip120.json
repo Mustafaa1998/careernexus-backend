@@ -1,0 +1,37 @@
+{
+  "traits": [
+    "O",
+    "C",
+    "E",
+    "A",
+    "N"
+  ],
+  "likert": [
+    {
+      "id": "a",
+      "label": "Strongly disagree",
+      "score": 1
+    },
+    {
+      "id": "b",
+      "label": "Disagree",
+      "score": 2
+    },
+    {
+      "id": "c",
+      "label": "Neutral",
+      "score": 3
+    },
+    {
+      "id": "d",
+      "label": "Agree",
+      "score": 4
+    },
+    {
+      "id": "e",
+      "label": "Strongly agree",
+      "score": 5
+    }
+  ],
+  "questions": []
+}

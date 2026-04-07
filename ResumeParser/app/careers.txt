@@ -1,0 +1,41 @@
+# app/career_model.py
+from __future__ import annotations
+from pathlib import Path
+
+from sentence_transformers import SentenceTransformer
+from typing import List
+
+# 1) Load model (small, fast)
+model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+
+# 2) Load career titles (either inline or from data/careers.txt)
+CAREERS_TXT = Path(__file__).resolve().parents[1] / "data" / "careers.txt"
+if CAREERS_TXT.exists():
+    career_titles: List[str] = [line.strip() for line in CAREERS_TXT.read_text(encoding="utf-8").splitlines() if line.strip()]
+else:
+    # Fallback list (edit as you like)
+    career_titles = [
+        "Data Scientist",
+        "Machine Learning Engineer",
+        "AI Researcher",
+        "Data Analyst",
+        "Business Analyst",
+        "Backend Developer",
+        "Frontend Developer",
+        "Full Stack Engineer",
+        "DevOps Engineer",
+        "Cloud Engineer",
+        "Database Administrator",
+        "Cybersecurity Analyst",
+        "UI/UX Designer",
+        "Product Manager",
+        "Project Manager",
+        "QA Engineer",
+        "Mobile App Developer",
+        "Systems Architect",
+        "Network Engineer",
+        "Research Scientist"
+    ]
+
+# 3) Precompute embeddings (tensor)
+career_embeddings = model.encode(career_titles, convert_to_tensor=True, normalize_embeddings=True)

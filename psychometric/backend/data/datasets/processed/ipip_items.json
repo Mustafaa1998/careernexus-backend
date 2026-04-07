@@ -1,0 +1,1838 @@
+{
+  "traits": [
+    "O",
+    "C",
+    "E",
+    "A",
+    "N"
+  ],
+  "likert": [
+    {
+      "id": "a",
+      "label": "Strongly disagree",
+      "score": 1
+    },
+    {
+      "id": "b",
+      "label": "Disagree",
+      "score": 2
+    },
+    {
+      "id": "c",
+      "label": "Neutral",
+      "score": 3
+    },
+    {
+      "id": "d",
+      "label": "Agree",
+      "score": 4
+    },
+    {
+      "id": "e",
+      "label": "Strongly agree",
+      "score": 5
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "text": "Worry about things.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 2,
+      "text": "Make friends easily.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 3,
+      "text": "Have a vivid imagination.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 4,
+      "text": "Trust others.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 5,
+      "text": "Complete tasks successfully.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 6,
+      "text": "Get angry easily.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 7,
+      "text": "Love large parties.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 8,
+      "text": "Believe in the importance of art.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 9,
+      "text": "Use others for my own ends.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 10,
+      "text": "Like to tidy up.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 11,
+      "text": "Often feel blue.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 12,
+      "text": "Take charge.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 13,
+      "text": "Experience my emotions intensely.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 14,
+      "text": "Love to help others.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 15,
+      "text": "Keep my promises.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 16,
+      "text": "Find it difficult to approach others.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 17,
+      "text": "Am always busy.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 18,
+      "text": "Prefer variety to routine.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 19,
+      "text": "Love a good fight.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 20,
+      "text": "Work hard.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 21,
+      "text": "Go on binges.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 22,
+      "text": "Love excitement.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 23,
+      "text": "Love to read challenging material.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 24,
+      "text": "Believe that I am better than others.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 25,
+      "text": "Am always prepared.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 26,
+      "text": "Panic easily.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 27,
+      "text": "Radiate joy.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 28,
+      "text": "Tend to vote for liberal political candidates.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 29,
+      "text": "Sympathize with the homeless.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 30,
+      "text": "Jump into things without thinking.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 31,
+      "text": "Fear for the worst.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 32,
+      "text": "Feel comfortable around people.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 33,
+      "text": "Enjoy wild flights of fantasy.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 34,
+      "text": "Believe that others have good intentions.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 35,
+      "text": "Excel in what I do.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 36,
+      "text": "Get irritated easily.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 37,
+      "text": "Talk to a lot of different people at parties.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 38,
+      "text": "See beauty in things that others might not notice.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 39,
+      "text": "Cheat to get ahead.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 40,
+      "text": "Often forget to put things back in their proper place.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 41,
+      "text": "Dislike myself.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 42,
+      "text": "Try to lead others.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 43,
+      "text": "Feel others' emotions.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 44,
+      "text": "Am concerned about others.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 45,
+      "text": "Tell the truth.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 46,
+      "text": "Am afraid to draw attention to myself.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 47,
+      "text": "Am always on the go.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 48,
+      "text": "Prefer to stick with things that I know.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 49,
+      "text": "Yell at people.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 50,
+      "text": "Do more than what's expected of me.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 51,
+      "text": "Rarely overindulge.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 52,
+      "text": "Seek adventure.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 53,
+      "text": "Avoid philosophical discussions.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 54,
+      "text": "Think highly of myself.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 55,
+      "text": "Carry out my plans.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 56,
+      "text": "Become overwhelmed by events.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 57,
+      "text": "Have a lot of fun.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 58,
+      "text": "Believe that there is no absolute right or wrong.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 59,
+      "text": "Feel sympathy for those who are worse off than myself.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 60,
+      "text": "Make rash decisions.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 61,
+      "text": "Am afraid of many things.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 62,
+      "text": "Avoid contacts with others.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 63,
+      "text": "Love to daydream.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 64,
+      "text": "Trust what people say.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 65,
+      "text": "Handle tasks smoothly.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 66,
+      "text": "Lose my temper.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 67,
+      "text": "Prefer to be alone.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 68,
+      "text": "Do not like poetry.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 69,
+      "text": "Take advantage of others.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 70,
+      "text": "Leave a mess in my room.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 71,
+      "text": "Am often down in the dumps.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 72,
+      "text": "Take control of things.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 73,
+      "text": "Rarely notice my emotional reactions.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 74,
+      "text": "Am indifferent to the feelings of others.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 75,
+      "text": "Break rules.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 76,
+      "text": "Only feel comfortable with friends.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 77,
+      "text": "Do a lot in my spare time.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 78,
+      "text": "Dislike changes.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 79,
+      "text": "Insult people.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 80,
+      "text": "Do just enough work to get by.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 81,
+      "text": "Easily resist temptations.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 82,
+      "text": "Enjoy being reckless.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 83,
+      "text": "Have difficulty understanding abstract ideas.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 84,
+      "text": "Have a high opinion of myself.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 85,
+      "text": "Waste my time.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 86,
+      "text": "Feel that I'm unable to deal with things.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 87,
+      "text": "Love life.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 88,
+      "text": "Tend to vote for conservative political candidates.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 89,
+      "text": "Am not interested in other people's problems.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 90,
+      "text": "Rush into things.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 91,
+      "text": "Get stressed out easily.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 92,
+      "text": "Keep others at a distance.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 93,
+      "text": "Like to get lost in thought.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 94,
+      "text": "Distrust people.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 95,
+      "text": "Know how to get things done.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 96,
+      "text": "Am not easily annoyed.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 97,
+      "text": "Avoid crowds.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 98,
+      "text": "Do not enjoy going to art museums.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 99,
+      "text": "Obstruct others' plans.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 100,
+      "text": "Leave my belongings around.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 101,
+      "text": "Feel comfortable with myself.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 102,
+      "text": "Wait for others to lead the way.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 103,
+      "text": "Don't understand people who get emotional.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 104,
+      "text": "Take no time for others.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 105,
+      "text": "Break my promises.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 106,
+      "text": "Am not bothered by difficult social situations.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 107,
+      "text": "Like to take it easy.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 108,
+      "text": "Am attached to conventional ways.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 109,
+      "text": "Get back at others.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 110,
+      "text": "Put little time and effort into my work.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 111,
+      "text": "Am able to control my cravings.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 112,
+      "text": "Act wild and crazy.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 113,
+      "text": "Am not interested in theoretical discussions.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 114,
+      "text": "Boast about my virtues.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 115,
+      "text": "Have difficulty starting tasks.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 116,
+      "text": "Remain calm under pressure.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 117,
+      "text": "Look at the bright side of life.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 118,
+      "text": "Believe that we should be tough on crime.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 119,
+      "text": "Try not to think about the needy.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 120,
+      "text": "Act without thinking.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 121,
+      "text": "Would never cheat on my taxes.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 122,
+      "text": "Like order.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 123,
+      "text": "Make people feel welcome.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 124,
+      "text": "Try to follow the rules.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 125,
+      "text": "Am easily intimidated.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 126,
+      "text": "Am easy to satisfy.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 127,
+      "text": "Go straight for the goal.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 128,
+      "text": "Often eat too much.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 129,
+      "text": "Like to solve complex problems.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 130,
+      "text": "Dislike being the center of attention.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 131,
+      "text": "Get chores done right away.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 132,
+      "text": "Avoid mistakes.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 133,
+      "text": "Warm up quickly to others.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 134,
+      "text": "Like music.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 135,
+      "text": "Stick to the rules.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 136,
+      "text": "Anticipate the needs of others.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 137,
+      "text": "Am afraid that I will do the wrong thing.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 138,
+      "text": "Like to visit new places.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 139,
+      "text": "Can't stand confrontations.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 140,
+      "text": "Don't know why I do some of the things I do.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 141,
+      "text": "Dislike talking about myself.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 142,
+      "text": "Choose my words with care.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 143,
+      "text": "Get upset easily.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 144,
+      "text": "Enjoy being part of a group.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 145,
+      "text": "Use flattery to get ahead.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 146,
+      "text": "Want everything to be \"just right.\"",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 147,
+      "text": "Can talk others into doing things.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 148,
+      "text": "Am passionate about causes.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 149,
+      "text": "Pay my bills on time.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 150,
+      "text": "Interested in many things.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 151,
+      "text": "Hate to seem pushy.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 152,
+      "text": "Turn plans into actions.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 153,
+      "text": "Do things I later regret.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 154,
+      "text": "Love action.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 155,
+      "text": "Have a rich vocabulary.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 156,
+      "text": "Consider myself an average person.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 157,
+      "text": "Start tasks right away.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 158,
+      "text": "Express childlike joy.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 159,
+      "text": "Believe that criminals should receive help rather than punishment.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 160,
+      "text": "Value cooperation over competition.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 161,
+      "text": "Stick to my chosen path.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 162,
+      "text": "Act comfortably with others.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 163,
+      "text": "Believe that people are basically moral.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 164,
+      "text": "Am sure of my ground.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 165,
+      "text": "Am often in a bad mood.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 166,
+      "text": "Involve others in what I am doing.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 167,
+      "text": "Love flowers.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 168,
+      "text": "Love order and regularity.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 169,
+      "text": "Have a low opinion of myself.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 170,
+      "text": "Seek to influence others.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 171,
+      "text": "Enjoy examining myself and my life.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 172,
+      "text": "Can manage many things at the same time.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 173,
+      "text": "Like to begin new things.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 174,
+      "text": "Have a sharp tongue.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 175,
+      "text": "Plunge into tasks with all my heart.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 176,
+      "text": "Enjoy being part of a loud crowd.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 177,
+      "text": "Can handle a lot of information.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 178,
+      "text": "Seldom toot my own horn.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 179,
+      "text": "Get to work at once.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 180,
+      "text": "Can't make up my mind.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 181,
+      "text": "Laugh my way through life.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 182,
+      "text": "Believe in one true religion.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 183,
+      "text": "Suffer from others' sorrows.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 184,
+      "text": "Get caught up in my problems.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 185,
+      "text": "Cheer people up.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 186,
+      "text": "Indulge in my fantasies.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 187,
+      "text": "Believe in human goodness.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 188,
+      "text": "Come up with good solutions.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 189,
+      "text": "Love surprise parties.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 190,
+      "text": "Enjoy the beauty of nature.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 191,
+      "text": "Know how to get around the rules.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 192,
+      "text": "Do things according to a plan.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 193,
+      "text": "Have frequent mood swings.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 194,
+      "text": "Try to understand myself.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 195,
+      "text": "Have a good word for everyone.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 196,
+      "text": "Listen to my conscience.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 197,
+      "text": "React quickly.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 198,
+      "text": "Contradict others.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 199,
+      "text": "Love to eat.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 200,
+      "text": "Enjoy thinking about things.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 201,
+      "text": "Get overwhelmed by emotions.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 202,
+      "text": "Am not easily bothered by things.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 203,
+      "text": "Am hard to get to know.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 204,
+      "text": "Spend time reflecting on things.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 205,
+      "text": "Think that all will be well.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 206,
+      "text": "Rarely get irritated.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 207,
+      "text": "Do not like art.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 208,
+      "text": "Feel desperate.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 209,
+      "text": "Seldom get emotional.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 210,
+      "text": "Look down on others.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 211,
+      "text": "Stumble over my words.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 212,
+      "text": "Set high standards for myself and others.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 213,
+      "text": "Am not interested in abstract ideas.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 214,
+      "text": "Find it difficult to get down to work.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 215,
+      "text": "Believe that too much tax money goes to support artists.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 216,
+      "text": "Tend to dislike soft-hearted people.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 217,
+      "text": "Like to act on a whim.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 218,
+      "text": "Am relaxed most of the time.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 219,
+      "text": "Often feel uncomfortable around others.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 220,
+      "text": "Seldom daydream.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 221,
+      "text": "Misjudge situations.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 222,
+      "text": "Seldom get mad.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 223,
+      "text": "Want to be left alone.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 224,
+      "text": "Put people under pressure.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 225,
+      "text": "Feel that my life lacks direction.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 226,
+      "text": "Keep in the background.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 227,
+      "text": "Am not easily affected by my emotions.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 228,
+      "text": "Am not embarrassed easily.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 229,
+      "text": "Like to take my time.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 230,
+      "text": "Don't like the idea of change.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 231,
+      "text": "Demand quality.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 232,
+      "text": "Willing to try anything once.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 233,
+      "text": "Can handle complex problems.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 234,
+      "text": "Laugh aloud.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 235,
+      "text": "Believe laws should be strictly enforced.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 236,
+      "text": "Believe in an eye for an eye.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 237,
+      "text": "Am not easily disturbed by events.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 238,
+      "text": "Do not have a good imagination.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 239,
+      "text": "Suspect hidden motives in others.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 240,
+      "text": "Don't understand things.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 241,
+      "text": "Don't like crowded events.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 242,
+      "text": "Pretend to be concerned for others.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 243,
+      "text": "Seldom feel blue.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 244,
+      "text": "Have little to say.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 245,
+      "text": "Make people feel uncomfortable.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 246,
+      "text": "Get others to do my duties.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 247,
+      "text": "Am comfortable in unfamiliar situations.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 248,
+      "text": "Like a leisurely lifestyle.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 249,
+      "text": "Am a creature of habit.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 250,
+      "text": "Am not highly motivated to succeed.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 251,
+      "text": "Seek danger.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 252,
+      "text": "Know the answers to many questions.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 253,
+      "text": "Need a push to get started.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 254,
+      "text": "Know how to cope.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 255,
+      "text": "Amuse my friends.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 256,
+      "text": "Believe that we coddle criminals too much.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 257,
+      "text": "Do crazy things.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 258,
+      "text": "Don't worry about things that have already happened.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 259,
+      "text": "Am not really interested in others.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 260,
+      "text": "Seldom get lost in thought.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 261,
+      "text": "Am wary of others.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 262,
+      "text": "Have little to contribute.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 263,
+      "text": "Keep my cool.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 264,
+      "text": "Do not like concerts.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 265,
+      "text": "Am not bothered by messy people.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 266,
+      "text": "Don't like to draw attention to myself.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 267,
+      "text": "Experience very few emotional highs and lows.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 268,
+      "text": "Turn my back on others.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 269,
+      "text": "Do the opposite of what is asked.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 270,
+      "text": "Let things proceed at their own pace.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 271,
+      "text": "Dislike new foods.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 272,
+      "text": "Never spend more than I can afford.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 273,
+      "text": "Would never go hang gliding or bungee jumping.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 274,
+      "text": "Readily overcome setbacks.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 275,
+      "text": "Am not easily amused.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 276,
+      "text": "Believe people should fend for themselves.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 277,
+      "text": "Adapt easily to new situations.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 278,
+      "text": "Have difficulty imagining things.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 279,
+      "text": "Believe that people are essentially evil.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 280,
+      "text": "Don't see the consequences of things.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 281,
+      "text": "Rarely complain.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 282,
+      "text": "Seek quiet.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 283,
+      "text": "Do not enjoy watching dance performances.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 284,
+      "text": "Am not bothered by disorder.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 285,
+      "text": "Am very pleased with myself.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 286,
+      "text": "Hold back my opinions.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 287,
+      "text": "Misrepresent the facts.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 288,
+      "text": "Am able to stand up for myself.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 289,
+      "text": "React slowly.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 290,
+      "text": "Hold a grudge.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 291,
+      "text": "Never splurge.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 292,
+      "text": "Dislike loud music.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 293,
+      "text": "Avoid difficult reading material.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 294,
+      "text": "Make myself the center of attention.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 295,
+      "text": "Postpone decisions.",
+      "trait": "C",
+      "reverse": false
+    },
+    {
+      "id": 296,
+      "text": "Am calm even in tense situations.",
+      "trait": "N",
+      "reverse": false
+    },
+    {
+      "id": 297,
+      "text": "Seldom joke around.",
+      "trait": "E",
+      "reverse": false
+    },
+    {
+      "id": 298,
+      "text": "Like to stand during the national anthem.",
+      "trait": "O",
+      "reverse": false
+    },
+    {
+      "id": 299,
+      "text": "Can't stand weak people.",
+      "trait": "A",
+      "reverse": false
+    },
+    {
+      "id": 300,
+      "text": "Often make last-minute plans.",
+      "trait": "C",
+      "reverse": false
+    }
+  ]
+}

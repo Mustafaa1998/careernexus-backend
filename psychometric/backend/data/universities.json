@@ -1,0 +1,20 @@
+[
+  {
+    "name": "University of Karachi – BS Computer Science",
+    "description": "Undergraduate program covering programming, algorithms, data structures and software engineering.",
+    "skills": ["programming", "algorithms", "data structures", "math"],
+    "location": "Karachi"
+  },
+  {
+    "name": "Lahore University of Management Sciences – BSc Economics",
+    "description": "Focus on economic theory, quantitative analysis, statistics and management.",
+    "skills": ["economics", "statistics", "management", "analysis"],
+    "location": "Lahore"
+  },
+  {
+    "name": "NED University – BE Electrical Engineering",
+    "description": "Electrical and electronics engineering with courses in circuit analysis, control systems and power systems.",
+    "skills": ["electronics", "circuits", "control systems", "math"],
+    "location": "Karachi"
+  }
+]

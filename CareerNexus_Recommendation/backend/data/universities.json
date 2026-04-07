@@ -1,0 +1,42 @@
+[
+  {
+    "university_name": "NED University of Engineering & Technology",
+    "field": "Computer Science, Software Engineering, Artificial Intelligence",
+    "city": "Karachi",
+    "province": "Sindh",
+    "ranking": 10,
+    "fee_range": "PKR 80,000 - 120,000 / year"
+  },
+  {
+    "university_name": "FAST-NUCES Karachi",
+    "field": "Computer Science, Data Science, Cyber Security",
+    "city": "Karachi",
+    "province": "Sindh",
+    "ranking": 5,
+    "fee_range": "PKR 200,000 - 250,000 / year"
+  },
+  {
+    "university_name": "GIKI (Ghulam Ishaq Khan Institute)",
+    "field": "Electrical Engineering, Computer Engineering, AI",
+    "city": "Topi",
+    "province": "Khyber Pakhtunkhwa",
+    "ranking": 2,
+    "fee_range": "PKR 300,000 - 400,000 / year"
+  },
+  {
+    "university_name": "LUMS (Lahore University of Management Sciences)",
+    "field": "Business Administration, Economics, Computer Science",
+    "city": "Lahore",
+    "province": "Punjab",
+    "ranking": 1,
+    "fee_range": "PKR 450,000 - 550,000 / year"
+  },
+  {
+    "university_name": "University of Karachi (UoK)",
+    "field": "Chemistry, Computer Science, Psychology, Physics",
+    "city": "Karachi",
+    "province": "Sindh",
+    "ranking": 15,
+    "fee_range": "PKR 40,000 - 60,000 / year"
+  }
+]

@@ -1,0 +1,992 @@
+university_name,city,province,program_name,level,field,fee_per_year,apply_url,website_url,fest_bucket
+NED University of Engineering & Technology,Karachi,Sindh,BE Electrical Engineering,Bachelors,Engineering,120749,https://www.neduet.edu.pk/admissions,http://www.neduet.edu.pk/,Engineering
+NED University of Engineering & Technology,Karachi,Sindh,BE Mechanical Engineering,Bachelors,Engineering,120749,https://www.neduet.edu.pk/admissions,http://www.neduet.edu.pk/,Engineering
+NED University of Engineering & Technology,Karachi,Sindh,BE Civil Engineering,Bachelors,Engineering,120749,https://www.neduet.edu.pk/admissions,http://www.neduet.edu.pk/,Engineering
+NED University of Engineering & Technology,Karachi,Sindh,BSc Engineering (Computer/Software),Bachelors,Engineering,120749,https://www.neduet.edu.pk/admissions,http://www.neduet.edu.pk/,Engineering
+NED University of Engineering & Technology,Karachi,Sindh,MS Electrical Engineering,Masters,Engineering,120749,https://www.neduet.edu.pk/admissions,http://www.neduet.edu.pk/,Engineering
+NED University of Engineering & Technology,Karachi,Sindh,PhD Engineering,PhD,Engineering,120749,https://www.neduet.edu.pk/admissions,http://www.neduet.edu.pk/,Engineering
+NED University of Engineering & Technology,Karachi,Sindh,BS Computer Science,Bachelors,IT,120749,https://www.neduet.edu.pk/admissions,http://www.neduet.edu.pk/,IT/CS
+NED University of Engineering & Technology,Karachi,Sindh,BS Software Engineering,Bachelors,IT,120749,https://www.neduet.edu.pk/admissions,http://www.neduet.edu.pk/,Engineering
+NED University of Engineering & Technology,Karachi,Sindh,BS Data Science,Bachelors,IT,120749,https://www.neduet.edu.pk/admissions,http://www.neduet.edu.pk/,IT/CS
+NED University of Engineering & Technology,Karachi,Sindh,BS Artificial Intelligence,Bachelors,IT,120749,https://www.neduet.edu.pk/admissions,http://www.neduet.edu.pk/,IT/CS
+NED University of Engineering & Technology,Karachi,Sindh,MS Computer Science,Masters,IT,120749,https://www.neduet.edu.pk/admissions,http://www.neduet.edu.pk/,IT/CS
+NED University of Engineering & Technology,Karachi,Sindh,PhD Computer Science,PhD,IT,120749,https://www.neduet.edu.pk/admissions,http://www.neduet.edu.pk/,IT/CS
+Dawood University of Engineering & Technology (DUET),Karachi,Sindh,BE Electrical Engineering,Bachelors,Engineering,92000,https://www.duet.edu.pk/admissions,,Engineering
+Dawood University of Engineering & Technology (DUET),Karachi,Sindh,BE Mechanical Engineering,Bachelors,Engineering,92000,https://www.duet.edu.pk/admissions,,Engineering
+Dawood University of Engineering & Technology (DUET),Karachi,Sindh,BE Civil Engineering,Bachelors,Engineering,92000,https://www.duet.edu.pk/admissions,,Engineering
+Dawood University of Engineering & Technology (DUET),Karachi,Sindh,BSc Engineering (Computer/Software),Bachelors,Engineering,92000,https://www.duet.edu.pk/admissions,,Engineering
+Dawood University of Engineering & Technology (DUET),Karachi,Sindh,MS Electrical Engineering,Masters,Engineering,92000,https://www.duet.edu.pk/admissions,,Engineering
+Dawood University of Engineering & Technology (DUET),Karachi,Sindh,PhD Engineering,PhD,Engineering,92000,https://www.duet.edu.pk/admissions,,Engineering
+Dawood University of Engineering & Technology (DUET),Karachi,Sindh,BS Computer Science,Bachelors,IT,92000,https://www.duet.edu.pk/admissions,,IT/CS
+Dawood University of Engineering & Technology (DUET),Karachi,Sindh,BS Software Engineering,Bachelors,IT,92000,https://www.duet.edu.pk/admissions,,Engineering
+Dawood University of Engineering & Technology (DUET),Karachi,Sindh,BS Data Science,Bachelors,IT,92000,https://www.duet.edu.pk/admissions,,IT/CS
+Dawood University of Engineering & Technology (DUET),Karachi,Sindh,BS Artificial Intelligence,Bachelors,IT,92000,https://www.duet.edu.pk/admissions,,IT/CS
+Dawood University of Engineering & Technology (DUET),Karachi,Sindh,MS Computer Science,Masters,IT,92000,https://www.duet.edu.pk/admissions,,IT/CS
+Dawood University of Engineering & Technology (DUET),Karachi,Sindh,PhD Computer Science,PhD,IT,92000,https://www.duet.edu.pk/admissions,,IT/CS
+FAST-NUCES Karachi,Karachi,Sindh,BE Electrical Engineering,Bachelors,Engineering,459999,https://nu.edu.pk/admissions,,Engineering
+FAST-NUCES Karachi,Karachi,Sindh,BE Mechanical Engineering,Bachelors,Engineering,459999,https://nu.edu.pk/admissions,,Engineering
+FAST-NUCES Karachi,Karachi,Sindh,BE Civil Engineering,Bachelors,Engineering,459999,https://nu.edu.pk/admissions,,Engineering
+FAST-NUCES Karachi,Karachi,Sindh,BSc Engineering (Computer/Software),Bachelors,Engineering,459999,https://nu.edu.pk/admissions,,Engineering
+FAST-NUCES Karachi,Karachi,Sindh,MS Electrical Engineering,Masters,Engineering,459999,https://nu.edu.pk/admissions,,Engineering
+FAST-NUCES Karachi,Karachi,Sindh,PhD Engineering,PhD,Engineering,459999,https://nu.edu.pk/admissions,,Engineering
+FAST-NUCES Karachi,Karachi,Sindh,BS Computer Science,Bachelors,IT,459999,https://nu.edu.pk/admissions,,IT/CS
+FAST-NUCES Karachi,Karachi,Sindh,BS Software Engineering,Bachelors,IT,459999,https://nu.edu.pk/admissions,,Engineering
+FAST-NUCES Karachi,Karachi,Sindh,BS Data Science,Bachelors,IT,459999,https://nu.edu.pk/admissions,,IT/CS
+FAST-NUCES Karachi,Karachi,Sindh,BS Artificial Intelligence,Bachelors,IT,459999,https://nu.edu.pk/admissions,,IT/CS
+FAST-NUCES Karachi,Karachi,Sindh,MS Computer Science,Masters,IT,459999,https://nu.edu.pk/admissions,,IT/CS
+FAST-NUCES Karachi,Karachi,Sindh,PhD Computer Science,PhD,IT,459999,https://nu.edu.pk/admissions,,IT/CS
+Institute of Business Management (IoBM/CBM),Karachi,Sindh,BS Computer Science,Bachelors,IT,546250,https://admissions.iobm.edu.pk/,,IT/CS
+Institute of Business Management (IoBM/CBM),Karachi,Sindh,BS Software Engineering,Bachelors,IT,546250,https://admissions.iobm.edu.pk/,,Engineering
+Institute of Business Management (IoBM/CBM),Karachi,Sindh,BS Data Science,Bachelors,IT,546250,https://admissions.iobm.edu.pk/,,IT/CS
+Institute of Business Management (IoBM/CBM),Karachi,Sindh,BS Artificial Intelligence,Bachelors,IT,546250,https://admissions.iobm.edu.pk/,,IT/CS
+Institute of Business Management (IoBM/CBM),Karachi,Sindh,MS Computer Science,Masters,IT,546250,https://admissions.iobm.edu.pk/,,IT/CS
+Institute of Business Management (IoBM/CBM),Karachi,Sindh,PhD Computer Science,PhD,IT,546250,https://admissions.iobm.edu.pk/,,IT/CS
+SZABIST Karachi,Karachi,Sindh,BE Electrical Engineering,Bachelors,Engineering,431249,https://szabist.edu.pk/admissions,,Engineering
+SZABIST Karachi,Karachi,Sindh,BE Mechanical Engineering,Bachelors,Engineering,431249,https://szabist.edu.pk/admissions,,Engineering
+SZABIST Karachi,Karachi,Sindh,BE Civil Engineering,Bachelors,Engineering,431249,https://szabist.edu.pk/admissions,,Engineering
+SZABIST Karachi,Karachi,Sindh,BSc Engineering (Computer/Software),Bachelors,Engineering,431249,https://szabist.edu.pk/admissions,,Engineering
+SZABIST Karachi,Karachi,Sindh,MS Electrical Engineering,Masters,Engineering,431249,https://szabist.edu.pk/admissions,,Engineering
+SZABIST Karachi,Karachi,Sindh,PhD Engineering,PhD,Engineering,431249,https://szabist.edu.pk/admissions,,Engineering
+SZABIST Karachi,Karachi,Sindh,BS Computer Science,Bachelors,IT,431249,https://szabist.edu.pk/admissions,,IT/CS
+SZABIST Karachi,Karachi,Sindh,BS Software Engineering,Bachelors,IT,431249,https://szabist.edu.pk/admissions,,Engineering
+SZABIST Karachi,Karachi,Sindh,BS Data Science,Bachelors,IT,431249,https://szabist.edu.pk/admissions,,IT/CS
+SZABIST Karachi,Karachi,Sindh,BS Artificial Intelligence,Bachelors,IT,431249,https://szabist.edu.pk/admissions,,IT/CS
+SZABIST Karachi,Karachi,Sindh,MS Computer Science,Masters,IT,431249,https://szabist.edu.pk/admissions,,IT/CS
+SZABIST Karachi,Karachi,Sindh,PhD Computer Science,PhD,IT,431249,https://szabist.edu.pk/admissions,,IT/CS
+PAF-KIET,Karachi,Sindh,BS Computer Science,Bachelors,IT,276000,https://admissions.pafkiet.edu.pk/,,IT/CS
+PAF-KIET,Karachi,Sindh,BS Software Engineering,Bachelors,IT,276000,https://admissions.pafkiet.edu.pk/,,Engineering
+PAF-KIET,Karachi,Sindh,BS Data Science,Bachelors,IT,276000,https://admissions.pafkiet.edu.pk/,,IT/CS
+PAF-KIET,Karachi,Sindh,BS Artificial Intelligence,Bachelors,IT,276000,https://admissions.pafkiet.edu.pk/,,IT/CS
+PAF-KIET,Karachi,Sindh,MS Computer Science,Masters,IT,276000,https://admissions.pafkiet.edu.pk/,,IT/CS
+PAF-KIET,Karachi,Sindh,PhD Computer Science,PhD,IT,276000,https://admissions.pafkiet.edu.pk/,,IT/CS
+DHA Suffa University (DSU),Karachi,Sindh,BE Electrical Engineering,Bachelors,Engineering,356500,https://www.dsu.edu.pk/admissions,,Engineering
+DHA Suffa University (DSU),Karachi,Sindh,BE Mechanical Engineering,Bachelors,Engineering,356500,https://www.dsu.edu.pk/admissions,,Engineering
+DHA Suffa University (DSU),Karachi,Sindh,BE Civil Engineering,Bachelors,Engineering,356500,https://www.dsu.edu.pk/admissions,,Engineering
+DHA Suffa University (DSU),Karachi,Sindh,BSc Engineering (Computer/Software),Bachelors,Engineering,356500,https://www.dsu.edu.pk/admissions,,Engineering
+DHA Suffa University (DSU),Karachi,Sindh,MS Electrical Engineering,Masters,Engineering,356500,https://www.dsu.edu.pk/admissions,,Engineering
+DHA Suffa University (DSU),Karachi,Sindh,PhD Engineering,PhD,Engineering,356500,https://www.dsu.edu.pk/admissions,,Engineering
+DHA Suffa University (DSU),Karachi,Sindh,BS Computer Science,Bachelors,IT,356500,https://www.dsu.edu.pk/admissions,,IT/CS
+DHA Suffa University (DSU),Karachi,Sindh,BS Software Engineering,Bachelors,IT,356500,https://www.dsu.edu.pk/admissions,,Engineering
+DHA Suffa University (DSU),Karachi,Sindh,BS Data Science,Bachelors,IT,356500,https://www.dsu.edu.pk/admissions,,IT/CS
+DHA Suffa University (DSU),Karachi,Sindh,BS Artificial Intelligence,Bachelors,IT,356500,https://www.dsu.edu.pk/admissions,,IT/CS
+DHA Suffa University (DSU),Karachi,Sindh,MS Computer Science,Masters,IT,356500,https://www.dsu.edu.pk/admissions,,IT/CS
+DHA Suffa University (DSU),Karachi,Sindh,PhD Computer Science,PhD,IT,356500,https://www.dsu.edu.pk/admissions,,IT/CS
+Mohammad Ali Jinnah University (MAJU),Karachi,Sindh,BE Electrical Engineering,Bachelors,Engineering,322000,https://www.jinnah.edu.pk/admissions,,Engineering
+Mohammad Ali Jinnah University (MAJU),Karachi,Sindh,BE Mechanical Engineering,Bachelors,Engineering,322000,https://www.jinnah.edu.pk/admissions,,Engineering
+Mohammad Ali Jinnah University (MAJU),Karachi,Sindh,BE Civil Engineering,Bachelors,Engineering,322000,https://www.jinnah.edu.pk/admissions,,Engineering
+Mohammad Ali Jinnah University (MAJU),Karachi,Sindh,BSc Engineering (Computer/Software),Bachelors,Engineering,322000,https://www.jinnah.edu.pk/admissions,,Engineering
+Mohammad Ali Jinnah University (MAJU),Karachi,Sindh,MS Electrical Engineering,Masters,Engineering,322000,https://www.jinnah.edu.pk/admissions,,Engineering
+Mohammad Ali Jinnah University (MAJU),Karachi,Sindh,PhD Engineering,PhD,Engineering,322000,https://www.jinnah.edu.pk/admissions,,Engineering
+Mohammad Ali Jinnah University (MAJU),Karachi,Sindh,BS Computer Science,Bachelors,IT,322000,https://www.jinnah.edu.pk/admissions,,IT/CS
+Mohammad Ali Jinnah University (MAJU),Karachi,Sindh,BS Software Engineering,Bachelors,IT,322000,https://www.jinnah.edu.pk/admissions,,Engineering
+Mohammad Ali Jinnah University (MAJU),Karachi,Sindh,BS Data Science,Bachelors,IT,322000,https://www.jinnah.edu.pk/admissions,,IT/CS
+Mohammad Ali Jinnah University (MAJU),Karachi,Sindh,BS Artificial Intelligence,Bachelors,IT,322000,https://www.jinnah.edu.pk/admissions,,IT/CS
+Mohammad Ali Jinnah University (MAJU),Karachi,Sindh,MS Computer Science,Masters,IT,322000,https://www.jinnah.edu.pk/admissions,,IT/CS
+Mohammad Ali Jinnah University (MAJU),Karachi,Sindh,PhD Computer Science,PhD,IT,322000,https://www.jinnah.edu.pk/admissions,,IT/CS
+Iqra University,Karachi,Sindh,BS Computer Science,Bachelors,IT,258749,https://iqra.edu.pk/admissions,http://www.iqra.edu.pk/,IT/CS
+Iqra University,Karachi,Sindh,BS Software Engineering,Bachelors,IT,258749,https://iqra.edu.pk/admissions,http://www.iqra.edu.pk/,Engineering
+Iqra University,Karachi,Sindh,BS Data Science,Bachelors,IT,258749,https://iqra.edu.pk/admissions,http://www.iqra.edu.pk/,IT/CS
+Iqra University,Karachi,Sindh,BS Artificial Intelligence,Bachelors,IT,258749,https://iqra.edu.pk/admissions,http://www.iqra.edu.pk/,IT/CS
+Iqra University,Karachi,Sindh,MS Computer Science,Masters,IT,258749,https://iqra.edu.pk/admissions,http://www.iqra.edu.pk/,IT/CS
+Iqra University,Karachi,Sindh,PhD Computer Science,PhD,IT,258749,https://iqra.edu.pk/admissions,http://www.iqra.edu.pk/,IT/CS
+Bahria University Karachi Campus,Karachi,Sindh,BS Computer Science,Bachelors,IT,345000,https://bahria.edu.pk/admissions,,IT/CS
+Bahria University Karachi Campus,Karachi,Sindh,BS Software Engineering,Bachelors,IT,345000,https://bahria.edu.pk/admissions,,Engineering
+Bahria University Karachi Campus,Karachi,Sindh,BS Data Science,Bachelors,IT,345000,https://bahria.edu.pk/admissions,,IT/CS
+Bahria University Karachi Campus,Karachi,Sindh,BS Artificial Intelligence,Bachelors,IT,345000,https://bahria.edu.pk/admissions,,IT/CS
+Bahria University Karachi Campus,Karachi,Sindh,MS Computer Science,Masters,IT,345000,https://bahria.edu.pk/admissions,,IT/CS
+Bahria University Karachi Campus,Karachi,Sindh,PhD Computer Science,PhD,IT,345000,https://bahria.edu.pk/admissions,,IT/CS
+Mehran University of Engineering & Technology (MUET),Jamshoro,Sindh,BE Electrical Engineering,Bachelors,Engineering,97749,https://www.muet.edu.pk/admissions,,Engineering
+Mehran University of Engineering & Technology (MUET),Jamshoro,Sindh,BE Mechanical Engineering,Bachelors,Engineering,97749,https://www.muet.edu.pk/admissions,,Engineering
+Mehran University of Engineering & Technology (MUET),Jamshoro,Sindh,BE Civil Engineering,Bachelors,Engineering,97749,https://www.muet.edu.pk/admissions,,Engineering
+Mehran University of Engineering & Technology (MUET),Jamshoro,Sindh,BSc Engineering (Computer/Software),Bachelors,Engineering,97749,https://www.muet.edu.pk/admissions,,Engineering
+Mehran University of Engineering & Technology (MUET),Jamshoro,Sindh,MS Electrical Engineering,Masters,Engineering,97749,https://www.muet.edu.pk/admissions,,Engineering
+Mehran University of Engineering & Technology (MUET),Jamshoro,Sindh,PhD Engineering,PhD,Engineering,97749,https://www.muet.edu.pk/admissions,,Engineering
+Mehran University of Engineering & Technology (MUET),Jamshoro,Sindh,BS Computer Science,Bachelors,IT,97749,https://www.muet.edu.pk/admissions,,IT/CS
+Mehran University of Engineering & Technology (MUET),Jamshoro,Sindh,BS Software Engineering,Bachelors,IT,97749,https://www.muet.edu.pk/admissions,,Engineering
+Mehran University of Engineering & Technology (MUET),Jamshoro,Sindh,BS Data Science,Bachelors,IT,97749,https://www.muet.edu.pk/admissions,,IT/CS
+Mehran University of Engineering & Technology (MUET),Jamshoro,Sindh,BS Artificial Intelligence,Bachelors,IT,97749,https://www.muet.edu.pk/admissions,,IT/CS
+Mehran University of Engineering & Technology (MUET),Jamshoro,Sindh,MS Computer Science,Masters,IT,97749,https://www.muet.edu.pk/admissions,,IT/CS
+Mehran University of Engineering & Technology (MUET),Jamshoro,Sindh,PhD Computer Science,PhD,IT,97749,https://www.muet.edu.pk/admissions,,IT/CS
+QUEST Nawabshah,Nawabshah,Sindh,BE Electrical Engineering,Bachelors,Engineering,97749,https://www.quest.edu.pk/admissions,,Engineering
+QUEST Nawabshah,Nawabshah,Sindh,BE Mechanical Engineering,Bachelors,Engineering,97749,https://www.quest.edu.pk/admissions,,Engineering
+QUEST Nawabshah,Nawabshah,Sindh,BE Civil Engineering,Bachelors,Engineering,97749,https://www.quest.edu.pk/admissions,,Engineering
+QUEST Nawabshah,Nawabshah,Sindh,BSc Engineering (Computer/Software),Bachelors,Engineering,97749,https://www.quest.edu.pk/admissions,,Engineering
+QUEST Nawabshah,Nawabshah,Sindh,MS Electrical Engineering,Masters,Engineering,97749,https://www.quest.edu.pk/admissions,,Engineering
+QUEST Nawabshah,Nawabshah,Sindh,PhD Engineering,PhD,Engineering,97749,https://www.quest.edu.pk/admissions,,Engineering
+QUEST Nawabshah,Nawabshah,Sindh,BS Computer Science,Bachelors,IT,97749,https://www.quest.edu.pk/admissions,,IT/CS
+QUEST Nawabshah,Nawabshah,Sindh,BS Software Engineering,Bachelors,IT,97749,https://www.quest.edu.pk/admissions,,Engineering
+QUEST Nawabshah,Nawabshah,Sindh,BS Data Science,Bachelors,IT,97749,https://www.quest.edu.pk/admissions,,IT/CS
+QUEST Nawabshah,Nawabshah,Sindh,BS Artificial Intelligence,Bachelors,IT,97749,https://www.quest.edu.pk/admissions,,IT/CS
+QUEST Nawabshah,Nawabshah,Sindh,MS Computer Science,Masters,IT,97749,https://www.quest.edu.pk/admissions,,IT/CS
+QUEST Nawabshah,Nawabshah,Sindh,PhD Computer Science,PhD,IT,97749,https://www.quest.edu.pk/admissions,,IT/CS
+Sukkur IBA University,Sukkur,Sindh,BS Computer Science,Bachelors,IT,161000,https://www.iba-suk.edu.pk/admissions,http://iba-suk.edu.pk,IT/CS
+Sukkur IBA University,Sukkur,Sindh,BS Software Engineering,Bachelors,IT,161000,https://www.iba-suk.edu.pk/admissions,http://iba-suk.edu.pk,Engineering
+Sukkur IBA University,Sukkur,Sindh,BS Data Science,Bachelors,IT,161000,https://www.iba-suk.edu.pk/admissions,http://iba-suk.edu.pk,IT/CS
+Sukkur IBA University,Sukkur,Sindh,BS Artificial Intelligence,Bachelors,IT,161000,https://www.iba-suk.edu.pk/admissions,http://iba-suk.edu.pk,IT/CS
+Sukkur IBA University,Sukkur,Sindh,MS Computer Science,Masters,IT,161000,https://www.iba-suk.edu.pk/admissions,http://iba-suk.edu.pk,IT/CS
+Sukkur IBA University,Sukkur,Sindh,PhD Computer Science,PhD,IT,161000,https://www.iba-suk.edu.pk/admissions,http://iba-suk.edu.pk,IT/CS
+UET Lahore,Lahore,Punjab,BE Electrical Engineering,Bachelors,Engineering,114999,https://admission.uet.edu.pk/,,Engineering
+UET Lahore,Lahore,Punjab,BE Mechanical Engineering,Bachelors,Engineering,114999,https://admission.uet.edu.pk/,,Engineering
+UET Lahore,Lahore,Punjab,BE Civil Engineering,Bachelors,Engineering,114999,https://admission.uet.edu.pk/,,Engineering
+UET Lahore,Lahore,Punjab,BSc Engineering (Computer/Software),Bachelors,Engineering,114999,https://admission.uet.edu.pk/,,Engineering
+UET Lahore,Lahore,Punjab,MS Electrical Engineering,Masters,Engineering,114999,https://admission.uet.edu.pk/,,Engineering
+UET Lahore,Lahore,Punjab,PhD Engineering,PhD,Engineering,114999,https://admission.uet.edu.pk/,,Engineering
+UET Lahore,Lahore,Punjab,BS Computer Science,Bachelors,IT,114999,https://admission.uet.edu.pk/,,IT/CS
+UET Lahore,Lahore,Punjab,BS Software Engineering,Bachelors,IT,114999,https://admission.uet.edu.pk/,,Engineering
+UET Lahore,Lahore,Punjab,BS Data Science,Bachelors,IT,114999,https://admission.uet.edu.pk/,,IT/CS
+UET Lahore,Lahore,Punjab,BS Artificial Intelligence,Bachelors,IT,114999,https://admission.uet.edu.pk/,,IT/CS
+UET Lahore,Lahore,Punjab,MS Computer Science,Masters,IT,114999,https://admission.uet.edu.pk/,,IT/CS
+UET Lahore,Lahore,Punjab,PhD Computer Science,PhD,IT,114999,https://admission.uet.edu.pk/,,IT/CS
+UET Taxila,Taxila,Punjab,BE Electrical Engineering,Bachelors,Engineering,114999,https://admissions.uettaxila.edu.pk/,,Engineering
+UET Taxila,Taxila,Punjab,BE Mechanical Engineering,Bachelors,Engineering,114999,https://admissions.uettaxila.edu.pk/,,Engineering
+UET Taxila,Taxila,Punjab,BE Civil Engineering,Bachelors,Engineering,114999,https://admissions.uettaxila.edu.pk/,,Engineering
+UET Taxila,Taxila,Punjab,BSc Engineering (Computer/Software),Bachelors,Engineering,114999,https://admissions.uettaxila.edu.pk/,,Engineering
+UET Taxila,Taxila,Punjab,MS Electrical Engineering,Masters,Engineering,114999,https://admissions.uettaxila.edu.pk/,,Engineering
+UET Taxila,Taxila,Punjab,PhD Engineering,PhD,Engineering,114999,https://admissions.uettaxila.edu.pk/,,Engineering
+UET Taxila,Taxila,Punjab,BS Computer Science,Bachelors,IT,114999,https://admissions.uettaxila.edu.pk/,,IT/CS
+UET Taxila,Taxila,Punjab,BS Software Engineering,Bachelors,IT,114999,https://admissions.uettaxila.edu.pk/,,Engineering
+UET Taxila,Taxila,Punjab,BS Data Science,Bachelors,IT,114999,https://admissions.uettaxila.edu.pk/,,IT/CS
+UET Taxila,Taxila,Punjab,BS Artificial Intelligence,Bachelors,IT,114999,https://admissions.uettaxila.edu.pk/,,IT/CS
+UET Taxila,Taxila,Punjab,MS Computer Science,Masters,IT,114999,https://admissions.uettaxila.edu.pk/,,IT/CS
+UET Taxila,Taxila,Punjab,PhD Computer Science,PhD,IT,114999,https://admissions.uettaxila.edu.pk/,,IT/CS
+FAST-NUCES Lahore,Lahore,Punjab,BE Electrical Engineering,Bachelors,Engineering,459999,https://nu.edu.pk/admissions,,Engineering
+FAST-NUCES Lahore,Lahore,Punjab,BE Mechanical Engineering,Bachelors,Engineering,459999,https://nu.edu.pk/admissions,,Engineering
+FAST-NUCES Lahore,Lahore,Punjab,BE Civil Engineering,Bachelors,Engineering,459999,https://nu.edu.pk/admissions,,Engineering
+FAST-NUCES Lahore,Lahore,Punjab,BSc Engineering (Computer/Software),Bachelors,Engineering,459999,https://nu.edu.pk/admissions,,Engineering
+FAST-NUCES Lahore,Lahore,Punjab,MS Electrical Engineering,Masters,Engineering,459999,https://nu.edu.pk/admissions,,Engineering
+FAST-NUCES Lahore,Lahore,Punjab,PhD Engineering,PhD,Engineering,459999,https://nu.edu.pk/admissions,,Engineering
+FAST-NUCES Lahore,Lahore,Punjab,BS Computer Science,Bachelors,IT,459999,https://nu.edu.pk/admissions,,IT/CS
+FAST-NUCES Lahore,Lahore,Punjab,BS Software Engineering,Bachelors,IT,459999,https://nu.edu.pk/admissions,,Engineering
+FAST-NUCES Lahore,Lahore,Punjab,BS Data Science,Bachelors,IT,459999,https://nu.edu.pk/admissions,,IT/CS
+FAST-NUCES Lahore,Lahore,Punjab,BS Artificial Intelligence,Bachelors,IT,459999,https://nu.edu.pk/admissions,,IT/CS
+FAST-NUCES Lahore,Lahore,Punjab,MS Computer Science,Masters,IT,459999,https://nu.edu.pk/admissions,,IT/CS
+FAST-NUCES Lahore,Lahore,Punjab,PhD Computer Science,PhD,IT,459999,https://nu.edu.pk/admissions,,IT/CS
+LUMS,Lahore,Punjab,BE Electrical Engineering,Bachelors,Engineering,1265000,https://admissions.lums.edu.pk/,,Engineering
+LUMS,Lahore,Punjab,BE Mechanical Engineering,Bachelors,Engineering,1265000,https://admissions.lums.edu.pk/,,Engineering
+LUMS,Lahore,Punjab,BE Civil Engineering,Bachelors,Engineering,1265000,https://admissions.lums.edu.pk/,,Engineering
+LUMS,Lahore,Punjab,BSc Engineering (Computer/Software),Bachelors,Engineering,1265000,https://admissions.lums.edu.pk/,,Engineering
+LUMS,Lahore,Punjab,MS Electrical Engineering,Masters,Engineering,1265000,https://admissions.lums.edu.pk/,,Engineering
+LUMS,Lahore,Punjab,PhD Engineering,PhD,Engineering,1265000,https://admissions.lums.edu.pk/,,Engineering
+LUMS,Lahore,Punjab,BS Computer Science,Bachelors,IT,1265000,https://admissions.lums.edu.pk/,,IT/CS
+LUMS,Lahore,Punjab,BS Software Engineering,Bachelors,IT,1265000,https://admissions.lums.edu.pk/,,Engineering
+LUMS,Lahore,Punjab,BS Data Science,Bachelors,IT,1265000,https://admissions.lums.edu.pk/,,IT/CS
+LUMS,Lahore,Punjab,BS Artificial Intelligence,Bachelors,IT,1265000,https://admissions.lums.edu.pk/,,IT/CS
+LUMS,Lahore,Punjab,MS Computer Science,Masters,IT,1265000,https://admissions.lums.edu.pk/,,IT/CS
+LUMS,Lahore,Punjab,PhD Computer Science,PhD,IT,1265000,https://admissions.lums.edu.pk/,,IT/CS
+PUCIT (Punjab University),Lahore,Punjab,BS Computer Science,Bachelors,IT,132250,https://pucit.edu.pk/admissions,,IT/CS
+PUCIT (Punjab University),Lahore,Punjab,BS Software Engineering,Bachelors,IT,132250,https://pucit.edu.pk/admissions,,Engineering
+PUCIT (Punjab University),Lahore,Punjab,BS Data Science,Bachelors,IT,132250,https://pucit.edu.pk/admissions,,IT/CS
+PUCIT (Punjab University),Lahore,Punjab,BS Artificial Intelligence,Bachelors,IT,132250,https://pucit.edu.pk/admissions,,IT/CS
+PUCIT (Punjab University),Lahore,Punjab,MS Computer Science,Masters,IT,132250,https://pucit.edu.pk/admissions,,IT/CS
+PUCIT (Punjab University),Lahore,Punjab,PhD Computer Science,PhD,IT,132250,https://pucit.edu.pk/admissions,,IT/CS
+Information Technology University (ITU),Lahore,Punjab,BS Computer Science,Bachelors,IT,287500,https://itu.edu.pk/admissions,,IT/CS
+Information Technology University (ITU),Lahore,Punjab,BS Software Engineering,Bachelors,IT,287500,https://itu.edu.pk/admissions,,Engineering
+Information Technology University (ITU),Lahore,Punjab,BS Data Science,Bachelors,IT,287500,https://itu.edu.pk/admissions,,IT/CS
+Information Technology University (ITU),Lahore,Punjab,BS Artificial Intelligence,Bachelors,IT,287500,https://itu.edu.pk/admissions,,IT/CS
+Information Technology University (ITU),Lahore,Punjab,MS Computer Science,Masters,IT,287500,https://itu.edu.pk/admissions,,IT/CS
+Information Technology University (ITU),Lahore,Punjab,PhD Computer Science,PhD,IT,287500,https://itu.edu.pk/admissions,,IT/CS
+COMSATS Lahore,Lahore,Punjab,BE Electrical Engineering,Bachelors,Engineering,201249,https://lahore.comsats.edu.pk/admissions,,Engineering
+COMSATS Lahore,Lahore,Punjab,BE Mechanical Engineering,Bachelors,Engineering,201249,https://lahore.comsats.edu.pk/admissions,,Engineering
+COMSATS Lahore,Lahore,Punjab,BE Civil Engineering,Bachelors,Engineering,201249,https://lahore.comsats.edu.pk/admissions,,Engineering
+COMSATS Lahore,Lahore,Punjab,BSc Engineering (Computer/Software),Bachelors,Engineering,201249,https://lahore.comsats.edu.pk/admissions,,Engineering
+COMSATS Lahore,Lahore,Punjab,MS Electrical Engineering,Masters,Engineering,201249,https://lahore.comsats.edu.pk/admissions,,Engineering
+COMSATS Lahore,Lahore,Punjab,PhD Engineering,PhD,Engineering,201249,https://lahore.comsats.edu.pk/admissions,,Engineering
+COMSATS Lahore,Lahore,Punjab,BS Computer Science,Bachelors,IT,201249,https://lahore.comsats.edu.pk/admissions,,IT/CS
+COMSATS Lahore,Lahore,Punjab,BS Software Engineering,Bachelors,IT,201249,https://lahore.comsats.edu.pk/admissions,,Engineering
+COMSATS Lahore,Lahore,Punjab,BS Data Science,Bachelors,IT,201249,https://lahore.comsats.edu.pk/admissions,,IT/CS
+COMSATS Lahore,Lahore,Punjab,BS Artificial Intelligence,Bachelors,IT,201249,https://lahore.comsats.edu.pk/admissions,,IT/CS
+COMSATS Lahore,Lahore,Punjab,MS Computer Science,Masters,IT,201249,https://lahore.comsats.edu.pk/admissions,,IT/CS
+COMSATS Lahore,Lahore,Punjab,PhD Computer Science,PhD,IT,201249,https://lahore.comsats.edu.pk/admissions,,IT/CS
+University of Lahore (UOL),Lahore,Punjab,BE Electrical Engineering,Bachelors,Engineering,333500,https://uol.edu.pk/admissions,,Engineering
+University of Lahore (UOL),Lahore,Punjab,BE Mechanical Engineering,Bachelors,Engineering,333500,https://uol.edu.pk/admissions,,Engineering
+University of Lahore (UOL),Lahore,Punjab,BE Civil Engineering,Bachelors,Engineering,333500,https://uol.edu.pk/admissions,,Engineering
+University of Lahore (UOL),Lahore,Punjab,BSc Engineering (Computer/Software),Bachelors,Engineering,333500,https://uol.edu.pk/admissions,,Engineering
+University of Lahore (UOL),Lahore,Punjab,MS Electrical Engineering,Masters,Engineering,333500,https://uol.edu.pk/admissions,,Engineering
+University of Lahore (UOL),Lahore,Punjab,PhD Engineering,PhD,Engineering,333500,https://uol.edu.pk/admissions,,Engineering
+University of Lahore (UOL),Lahore,Punjab,BS Computer Science,Bachelors,IT,333500,https://uol.edu.pk/admissions,,IT/CS
+University of Lahore (UOL),Lahore,Punjab,BS Software Engineering,Bachelors,IT,333500,https://uol.edu.pk/admissions,,Engineering
+University of Lahore (UOL),Lahore,Punjab,BS Data Science,Bachelors,IT,333500,https://uol.edu.pk/admissions,,IT/CS
+University of Lahore (UOL),Lahore,Punjab,BS Artificial Intelligence,Bachelors,IT,333500,https://uol.edu.pk/admissions,,IT/CS
+University of Lahore (UOL),Lahore,Punjab,MS Computer Science,Masters,IT,333500,https://uol.edu.pk/admissions,,IT/CS
+University of Lahore (UOL),Lahore,Punjab,PhD Computer Science,PhD,IT,333500,https://uol.edu.pk/admissions,,IT/CS
+University of Central Punjab (UCP),Lahore,Punjab,BE Electrical Engineering,Bachelors,Engineering,356500,https://ucp.edu.pk/admissions,,Engineering
+University of Central Punjab (UCP),Lahore,Punjab,BE Mechanical Engineering,Bachelors,Engineering,356500,https://ucp.edu.pk/admissions,,Engineering
+University of Central Punjab (UCP),Lahore,Punjab,BE Civil Engineering,Bachelors,Engineering,356500,https://ucp.edu.pk/admissions,,Engineering
+University of Central Punjab (UCP),Lahore,Punjab,BSc Engineering (Computer/Software),Bachelors,Engineering,356500,https://ucp.edu.pk/admissions,,Engineering
+University of Central Punjab (UCP),Lahore,Punjab,MS Electrical Engineering,Masters,Engineering,356500,https://ucp.edu.pk/admissions,,Engineering
+University of Central Punjab (UCP),Lahore,Punjab,PhD Engineering,PhD,Engineering,356500,https://ucp.edu.pk/admissions,,Engineering
+University of Central Punjab (UCP),Lahore,Punjab,BS Computer Science,Bachelors,IT,356500,https://ucp.edu.pk/admissions,,IT/CS
+University of Central Punjab (UCP),Lahore,Punjab,BS Software Engineering,Bachelors,IT,356500,https://ucp.edu.pk/admissions,,Engineering
+University of Central Punjab (UCP),Lahore,Punjab,BS Data Science,Bachelors,IT,356500,https://ucp.edu.pk/admissions,,IT/CS
+University of Central Punjab (UCP),Lahore,Punjab,BS Artificial Intelligence,Bachelors,IT,356500,https://ucp.edu.pk/admissions,,IT/CS
+University of Central Punjab (UCP),Lahore,Punjab,MS Computer Science,Masters,IT,356500,https://ucp.edu.pk/admissions,,IT/CS
+University of Central Punjab (UCP),Lahore,Punjab,PhD Computer Science,PhD,IT,356500,https://ucp.edu.pk/admissions,,IT/CS
+University of Management & Technology (UMT),Lahore,Punjab,BE Electrical Engineering,Bachelors,Engineering,345000,https://admissions.umt.edu.pk/,,Engineering
+University of Management & Technology (UMT),Lahore,Punjab,BE Mechanical Engineering,Bachelors,Engineering,345000,https://admissions.umt.edu.pk/,,Engineering
+University of Management & Technology (UMT),Lahore,Punjab,BE Civil Engineering,Bachelors,Engineering,345000,https://admissions.umt.edu.pk/,,Engineering
+University of Management & Technology (UMT),Lahore,Punjab,BSc Engineering (Computer/Software),Bachelors,Engineering,345000,https://admissions.umt.edu.pk/,,Engineering
+University of Management & Technology (UMT),Lahore,Punjab,MS Electrical Engineering,Masters,Engineering,345000,https://admissions.umt.edu.pk/,,Engineering
+University of Management & Technology (UMT),Lahore,Punjab,PhD Engineering,PhD,Engineering,345000,https://admissions.umt.edu.pk/,,Engineering
+University of Management & Technology (UMT),Lahore,Punjab,BS Computer Science,Bachelors,IT,345000,https://admissions.umt.edu.pk/,,IT/CS
+University of Management & Technology (UMT),Lahore,Punjab,BS Software Engineering,Bachelors,IT,345000,https://admissions.umt.edu.pk/,,Engineering
+University of Management & Technology (UMT),Lahore,Punjab,BS Data Science,Bachelors,IT,345000,https://admissions.umt.edu.pk/,,IT/CS
+University of Management & Technology (UMT),Lahore,Punjab,BS Artificial Intelligence,Bachelors,IT,345000,https://admissions.umt.edu.pk/,,IT/CS
+University of Management & Technology (UMT),Lahore,Punjab,MS Computer Science,Masters,IT,345000,https://admissions.umt.edu.pk/,,IT/CS
+University of Management & Technology (UMT),Lahore,Punjab,PhD Computer Science,PhD,IT,345000,https://admissions.umt.edu.pk/,,IT/CS
+NFC IET Multan,Multan,Punjab,BE Electrical Engineering,Bachelors,Engineering,120749,https://www.nfciet.edu.pk/admissions,,Engineering
+NFC IET Multan,Multan,Punjab,BE Mechanical Engineering,Bachelors,Engineering,120749,https://www.nfciet.edu.pk/admissions,,Engineering
+NFC IET Multan,Multan,Punjab,BE Civil Engineering,Bachelors,Engineering,120749,https://www.nfciet.edu.pk/admissions,,Engineering
+NFC IET Multan,Multan,Punjab,BSc Engineering (Computer/Software),Bachelors,Engineering,120749,https://www.nfciet.edu.pk/admissions,,Engineering
+NFC IET Multan,Multan,Punjab,MS Electrical Engineering,Masters,Engineering,120749,https://www.nfciet.edu.pk/admissions,,Engineering
+NFC IET Multan,Multan,Punjab,PhD Engineering,PhD,Engineering,120749,https://www.nfciet.edu.pk/admissions,,Engineering
+NFC IET Multan,Multan,Punjab,BS Computer Science,Bachelors,IT,120749,https://www.nfciet.edu.pk/admissions,,IT/CS
+NFC IET Multan,Multan,Punjab,BS Software Engineering,Bachelors,IT,120749,https://www.nfciet.edu.pk/admissions,,Engineering
+NFC IET Multan,Multan,Punjab,BS Data Science,Bachelors,IT,120749,https://www.nfciet.edu.pk/admissions,,IT/CS
+NFC IET Multan,Multan,Punjab,BS Artificial Intelligence,Bachelors,IT,120749,https://www.nfciet.edu.pk/admissions,,IT/CS
+NFC IET Multan,Multan,Punjab,MS Computer Science,Masters,IT,120749,https://www.nfciet.edu.pk/admissions,,IT/CS
+NFC IET Multan,Multan,Punjab,PhD Computer Science,PhD,IT,120749,https://www.nfciet.edu.pk/admissions,,IT/CS
+HITEC University Taxila,Taxila,Punjab,BE Electrical Engineering,Bachelors,Engineering,287500,https://hitecuni.edu.pk/admissions,,Engineering
+HITEC University Taxila,Taxila,Punjab,BE Mechanical Engineering,Bachelors,Engineering,287500,https://hitecuni.edu.pk/admissions,,Engineering
+HITEC University Taxila,Taxila,Punjab,BE Civil Engineering,Bachelors,Engineering,287500,https://hitecuni.edu.pk/admissions,,Engineering
+HITEC University Taxila,Taxila,Punjab,BSc Engineering (Computer/Software),Bachelors,Engineering,287500,https://hitecuni.edu.pk/admissions,,Engineering
+HITEC University Taxila,Taxila,Punjab,MS Electrical Engineering,Masters,Engineering,287500,https://hitecuni.edu.pk/admissions,,Engineering
+HITEC University Taxila,Taxila,Punjab,PhD Engineering,PhD,Engineering,287500,https://hitecuni.edu.pk/admissions,,Engineering
+HITEC University Taxila,Taxila,Punjab,BS Computer Science,Bachelors,IT,287500,https://hitecuni.edu.pk/admissions,,IT/CS
+HITEC University Taxila,Taxila,Punjab,BS Software Engineering,Bachelors,IT,287500,https://hitecuni.edu.pk/admissions,,Engineering
+HITEC University Taxila,Taxila,Punjab,BS Data Science,Bachelors,IT,287500,https://hitecuni.edu.pk/admissions,,IT/CS
+HITEC University Taxila,Taxila,Punjab,BS Artificial Intelligence,Bachelors,IT,287500,https://hitecuni.edu.pk/admissions,,IT/CS
+HITEC University Taxila,Taxila,Punjab,MS Computer Science,Masters,IT,287500,https://hitecuni.edu.pk/admissions,,IT/CS
+HITEC University Taxila,Taxila,Punjab,PhD Computer Science,PhD,IT,287500,https://hitecuni.edu.pk/admissions,,IT/CS
+University of Wah,Wah Cantt,Punjab,BE Electrical Engineering,Bachelors,Engineering,258749,https://uow.edu.pk/admissions,http://uow.edu.pk,Engineering
+University of Wah,Wah Cantt,Punjab,BE Mechanical Engineering,Bachelors,Engineering,258749,https://uow.edu.pk/admissions,http://uow.edu.pk,Engineering
+University of Wah,Wah Cantt,Punjab,BE Civil Engineering,Bachelors,Engineering,258749,https://uow.edu.pk/admissions,http://uow.edu.pk,Engineering
+University of Wah,Wah Cantt,Punjab,BSc Engineering (Computer/Software),Bachelors,Engineering,258749,https://uow.edu.pk/admissions,http://uow.edu.pk,Engineering
+University of Wah,Wah Cantt,Punjab,MS Electrical Engineering,Masters,Engineering,258749,https://uow.edu.pk/admissions,http://uow.edu.pk,Engineering
+University of Wah,Wah Cantt,Punjab,PhD Engineering,PhD,Engineering,258749,https://uow.edu.pk/admissions,http://uow.edu.pk,Engineering
+University of Wah,Wah Cantt,Punjab,BS Computer Science,Bachelors,IT,258749,https://uow.edu.pk/admissions,http://uow.edu.pk,IT/CS
+University of Wah,Wah Cantt,Punjab,BS Software Engineering,Bachelors,IT,258749,https://uow.edu.pk/admissions,http://uow.edu.pk,Engineering
+University of Wah,Wah Cantt,Punjab,BS Data Science,Bachelors,IT,258749,https://uow.edu.pk/admissions,http://uow.edu.pk,IT/CS
+University of Wah,Wah Cantt,Punjab,BS Artificial Intelligence,Bachelors,IT,258749,https://uow.edu.pk/admissions,http://uow.edu.pk,IT/CS
+University of Wah,Wah Cantt,Punjab,MS Computer Science,Masters,IT,258749,https://uow.edu.pk/admissions,http://uow.edu.pk,IT/CS
+University of Wah,Wah Cantt,Punjab,PhD Computer Science,PhD,IT,258749,https://uow.edu.pk/admissions,http://uow.edu.pk,IT/CS
+UET Peshawar,Peshawar,Khyber Pakhtunkhwa,BE Electrical Engineering,Bachelors,Engineering,114999,https://www.uetpeshawar.edu.pk/admissions,,Engineering
+UET Peshawar,Peshawar,Khyber Pakhtunkhwa,BE Mechanical Engineering,Bachelors,Engineering,114999,https://www.uetpeshawar.edu.pk/admissions,,Engineering
+UET Peshawar,Peshawar,Khyber Pakhtunkhwa,BE Civil Engineering,Bachelors,Engineering,114999,https://www.uetpeshawar.edu.pk/admissions,,Engineering
+UET Peshawar,Peshawar,Khyber Pakhtunkhwa,BSc Engineering (Computer/Software),Bachelors,Engineering,114999,https://www.uetpeshawar.edu.pk/admissions,,Engineering
+UET Peshawar,Peshawar,Khyber Pakhtunkhwa,MS Electrical Engineering,Masters,Engineering,114999,https://www.uetpeshawar.edu.pk/admissions,,Engineering
+UET Peshawar,Peshawar,Khyber Pakhtunkhwa,PhD Engineering,PhD,Engineering,114999,https://www.uetpeshawar.edu.pk/admissions,,Engineering
+UET Peshawar,Peshawar,Khyber Pakhtunkhwa,BS Computer Science,Bachelors,IT,114999,https://www.uetpeshawar.edu.pk/admissions,,IT/CS
+UET Peshawar,Peshawar,Khyber Pakhtunkhwa,BS Software Engineering,Bachelors,IT,114999,https://www.uetpeshawar.edu.pk/admissions,,Engineering
+UET Peshawar,Peshawar,Khyber Pakhtunkhwa,BS Data Science,Bachelors,IT,114999,https://www.uetpeshawar.edu.pk/admissions,,IT/CS
+UET Peshawar,Peshawar,Khyber Pakhtunkhwa,BS Artificial Intelligence,Bachelors,IT,114999,https://www.uetpeshawar.edu.pk/admissions,,IT/CS
+UET Peshawar,Peshawar,Khyber Pakhtunkhwa,MS Computer Science,Masters,IT,114999,https://www.uetpeshawar.edu.pk/admissions,,IT/CS
+UET Peshawar,Peshawar,Khyber Pakhtunkhwa,PhD Computer Science,PhD,IT,114999,https://www.uetpeshawar.edu.pk/admissions,,IT/CS
+GIKI,Topi,Khyber Pakhtunkhwa,BE Electrical Engineering,Bachelors,Engineering,1092500,https://admissions.giki.edu.pk/,,Engineering
+GIKI,Topi,Khyber Pakhtunkhwa,BE Mechanical Engineering,Bachelors,Engineering,1092500,https://admissions.giki.edu.pk/,,Engineering
+GIKI,Topi,Khyber Pakhtunkhwa,BE Civil Engineering,Bachelors,Engineering,1092500,https://admissions.giki.edu.pk/,,Engineering
+GIKI,Topi,Khyber Pakhtunkhwa,BSc Engineering (Computer/Software),Bachelors,Engineering,1092500,https://admissions.giki.edu.pk/,,Engineering
+GIKI,Topi,Khyber Pakhtunkhwa,MS Electrical Engineering,Masters,Engineering,1092500,https://admissions.giki.edu.pk/,,Engineering
+GIKI,Topi,Khyber Pakhtunkhwa,PhD Engineering,PhD,Engineering,1092500,https://admissions.giki.edu.pk/,,Engineering
+GIKI,Topi,Khyber Pakhtunkhwa,BS Computer Science,Bachelors,IT,1092500,https://admissions.giki.edu.pk/,,IT/CS
+GIKI,Topi,Khyber Pakhtunkhwa,BS Software Engineering,Bachelors,IT,1092500,https://admissions.giki.edu.pk/,,Engineering
+GIKI,Topi,Khyber Pakhtunkhwa,BS Data Science,Bachelors,IT,1092500,https://admissions.giki.edu.pk/,,IT/CS
+GIKI,Topi,Khyber Pakhtunkhwa,BS Artificial Intelligence,Bachelors,IT,1092500,https://admissions.giki.edu.pk/,,IT/CS
+GIKI,Topi,Khyber Pakhtunkhwa,MS Computer Science,Masters,IT,1092500,https://admissions.giki.edu.pk/,,IT/CS
+GIKI,Topi,Khyber Pakhtunkhwa,PhD Computer Science,PhD,IT,1092500,https://admissions.giki.edu.pk/,,IT/CS
+IMSciences Peshawar,Peshawar,Khyber Pakhtunkhwa,BS Computer Science,Bachelors,IT,287500,https://imsciences.edu.pk/admissions,,IT/CS
+IMSciences Peshawar,Peshawar,Khyber Pakhtunkhwa,BS Software Engineering,Bachelors,IT,287500,https://imsciences.edu.pk/admissions,,Engineering
+IMSciences Peshawar,Peshawar,Khyber Pakhtunkhwa,BS Data Science,Bachelors,IT,287500,https://imsciences.edu.pk/admissions,,IT/CS
+IMSciences Peshawar,Peshawar,Khyber Pakhtunkhwa,BS Artificial Intelligence,Bachelors,IT,287500,https://imsciences.edu.pk/admissions,,IT/CS
+IMSciences Peshawar,Peshawar,Khyber Pakhtunkhwa,MS Computer Science,Masters,IT,287500,https://imsciences.edu.pk/admissions,,IT/CS
+IMSciences Peshawar,Peshawar,Khyber Pakhtunkhwa,PhD Computer Science,PhD,IT,287500,https://imsciences.edu.pk/admissions,,IT/CS
+City University of Science & IT (CUSIT),Peshawar,Khyber Pakhtunkhwa,BE Electrical Engineering,Bachelors,Engineering,264500,https://www.cityuniversity.edu.pk/admissions,,Engineering
+City University of Science & IT (CUSIT),Peshawar,Khyber Pakhtunkhwa,BE Mechanical Engineering,Bachelors,Engineering,264500,https://www.cityuniversity.edu.pk/admissions,,Engineering
+City University of Science & IT (CUSIT),Peshawar,Khyber Pakhtunkhwa,BE Civil Engineering,Bachelors,Engineering,264500,https://www.cityuniversity.edu.pk/admissions,,Engineering
+City University of Science & IT (CUSIT),Peshawar,Khyber Pakhtunkhwa,BSc Engineering (Computer/Software),Bachelors,Engineering,264500,https://www.cityuniversity.edu.pk/admissions,,Engineering
+City University of Science & IT (CUSIT),Peshawar,Khyber Pakhtunkhwa,MS Electrical Engineering,Masters,Engineering,264500,https://www.cityuniversity.edu.pk/admissions,,Engineering
+City University of Science & IT (CUSIT),Peshawar,Khyber Pakhtunkhwa,PhD Engineering,PhD,Engineering,264500,https://www.cityuniversity.edu.pk/admissions,,Engineering
+City University of Science & IT (CUSIT),Peshawar,Khyber Pakhtunkhwa,BS Computer Science,Bachelors,IT,264500,https://www.cityuniversity.edu.pk/admissions,,IT/CS
+City University of Science & IT (CUSIT),Peshawar,Khyber Pakhtunkhwa,BS Software Engineering,Bachelors,IT,264500,https://www.cityuniversity.edu.pk/admissions,,Engineering
+City University of Science & IT (CUSIT),Peshawar,Khyber Pakhtunkhwa,BS Data Science,Bachelors,IT,264500,https://www.cityuniversity.edu.pk/admissions,,IT/CS
+City University of Science & IT (CUSIT),Peshawar,Khyber Pakhtunkhwa,BS Artificial Intelligence,Bachelors,IT,264500,https://www.cityuniversity.edu.pk/admissions,,IT/CS
+City University of Science & IT (CUSIT),Peshawar,Khyber Pakhtunkhwa,MS Computer Science,Masters,IT,264500,https://www.cityuniversity.edu.pk/admissions,,IT/CS
+City University of Science & IT (CUSIT),Peshawar,Khyber Pakhtunkhwa,PhD Computer Science,PhD,IT,264500,https://www.cityuniversity.edu.pk/admissions,,IT/CS
+CECOS University,Peshawar,Khyber Pakhtunkhwa,BE Electrical Engineering,Bachelors,Engineering,287500,https://www.cecos.edu.pk/admissions,,Engineering
+CECOS University,Peshawar,Khyber Pakhtunkhwa,BE Mechanical Engineering,Bachelors,Engineering,287500,https://www.cecos.edu.pk/admissions,,Engineering
+CECOS University,Peshawar,Khyber Pakhtunkhwa,BE Civil Engineering,Bachelors,Engineering,287500,https://www.cecos.edu.pk/admissions,,Engineering
+CECOS University,Peshawar,Khyber Pakhtunkhwa,BSc Engineering (Computer/Software),Bachelors,Engineering,287500,https://www.cecos.edu.pk/admissions,,Engineering
+CECOS University,Peshawar,Khyber Pakhtunkhwa,MS Electrical Engineering,Masters,Engineering,287500,https://www.cecos.edu.pk/admissions,,Engineering
+CECOS University,Peshawar,Khyber Pakhtunkhwa,PhD Engineering,PhD,Engineering,287500,https://www.cecos.edu.pk/admissions,,Engineering
+CECOS University,Peshawar,Khyber Pakhtunkhwa,BS Computer Science,Bachelors,IT,287500,https://www.cecos.edu.pk/admissions,,IT/CS
+CECOS University,Peshawar,Khyber Pakhtunkhwa,BS Software Engineering,Bachelors,IT,287500,https://www.cecos.edu.pk/admissions,,Engineering
+CECOS University,Peshawar,Khyber Pakhtunkhwa,BS Data Science,Bachelors,IT,287500,https://www.cecos.edu.pk/admissions,,IT/CS
+CECOS University,Peshawar,Khyber Pakhtunkhwa,BS Artificial Intelligence,Bachelors,IT,287500,https://www.cecos.edu.pk/admissions,,IT/CS
+CECOS University,Peshawar,Khyber Pakhtunkhwa,MS Computer Science,Masters,IT,287500,https://www.cecos.edu.pk/admissions,,IT/CS
+CECOS University,Peshawar,Khyber Pakhtunkhwa,PhD Computer Science,PhD,IT,287500,https://www.cecos.edu.pk/admissions,,IT/CS
+BUITEMS Quetta,Quetta,Balochistan,BE Electrical Engineering,Bachelors,Engineering,120749,https://admissions.buitms.edu.pk/,,Engineering
+BUITEMS Quetta,Quetta,Balochistan,BE Mechanical Engineering,Bachelors,Engineering,120749,https://admissions.buitms.edu.pk/,,Engineering
+BUITEMS Quetta,Quetta,Balochistan,BE Civil Engineering,Bachelors,Engineering,120749,https://admissions.buitms.edu.pk/,,Engineering
+BUITEMS Quetta,Quetta,Balochistan,BSc Engineering (Computer/Software),Bachelors,Engineering,120749,https://admissions.buitms.edu.pk/,,Engineering
+BUITEMS Quetta,Quetta,Balochistan,MS Electrical Engineering,Masters,Engineering,120749,https://admissions.buitms.edu.pk/,,Engineering
+BUITEMS Quetta,Quetta,Balochistan,PhD Engineering,PhD,Engineering,120749,https://admissions.buitms.edu.pk/,,Engineering
+BUITEMS Quetta,Quetta,Balochistan,BS Computer Science,Bachelors,IT,120749,https://admissions.buitms.edu.pk/,,IT/CS
+BUITEMS Quetta,Quetta,Balochistan,BS Software Engineering,Bachelors,IT,120749,https://admissions.buitms.edu.pk/,,Engineering
+BUITEMS Quetta,Quetta,Balochistan,BS Data Science,Bachelors,IT,120749,https://admissions.buitms.edu.pk/,,IT/CS
+BUITEMS Quetta,Quetta,Balochistan,BS Artificial Intelligence,Bachelors,IT,120749,https://admissions.buitms.edu.pk/,,IT/CS
+BUITEMS Quetta,Quetta,Balochistan,MS Computer Science,Masters,IT,120749,https://admissions.buitms.edu.pk/,,IT/CS
+BUITEMS Quetta,Quetta,Balochistan,PhD Computer Science,PhD,IT,120749,https://admissions.buitms.edu.pk/,,IT/CS
+BUET Khuzdar,Khuzdar,Balochistan,BE Electrical Engineering,Bachelors,Engineering,120749,https://www.buetk.edu.pk/admissions,,Engineering
+BUET Khuzdar,Khuzdar,Balochistan,BE Mechanical Engineering,Bachelors,Engineering,120749,https://www.buetk.edu.pk/admissions,,Engineering
+BUET Khuzdar,Khuzdar,Balochistan,BE Civil Engineering,Bachelors,Engineering,120749,https://www.buetk.edu.pk/admissions,,Engineering
+BUET Khuzdar,Khuzdar,Balochistan,BSc Engineering (Computer/Software),Bachelors,Engineering,120749,https://www.buetk.edu.pk/admissions,,Engineering
+BUET Khuzdar,Khuzdar,Balochistan,MS Electrical Engineering,Masters,Engineering,120749,https://www.buetk.edu.pk/admissions,,Engineering
+BUET Khuzdar,Khuzdar,Balochistan,PhD Engineering,PhD,Engineering,120749,https://www.buetk.edu.pk/admissions,,Engineering
+BUET Khuzdar,Khuzdar,Balochistan,BS Computer Science,Bachelors,IT,120749,https://www.buetk.edu.pk/admissions,,IT/CS
+BUET Khuzdar,Khuzdar,Balochistan,BS Software Engineering,Bachelors,IT,120749,https://www.buetk.edu.pk/admissions,,Engineering
+BUET Khuzdar,Khuzdar,Balochistan,BS Data Science,Bachelors,IT,120749,https://www.buetk.edu.pk/admissions,,IT/CS
+BUET Khuzdar,Khuzdar,Balochistan,BS Artificial Intelligence,Bachelors,IT,120749,https://www.buetk.edu.pk/admissions,,IT/CS
+BUET Khuzdar,Khuzdar,Balochistan,MS Computer Science,Masters,IT,120749,https://www.buetk.edu.pk/admissions,,IT/CS
+BUET Khuzdar,Khuzdar,Balochistan,PhD Computer Science,PhD,IT,120749,https://www.buetk.edu.pk/admissions,,IT/CS
+NUST,Islamabad,Islamabad Capital Territory,BE Electrical Engineering,Bachelors,Engineering,632500,https://ugadmissions.nust.edu.pk/,,Engineering
+NUST,Islamabad,Islamabad Capital Territory,BE Mechanical Engineering,Bachelors,Engineering,632500,https://ugadmissions.nust.edu.pk/,,Engineering
+NUST,Islamabad,Islamabad Capital Territory,BE Civil Engineering,Bachelors,Engineering,632500,https://ugadmissions.nust.edu.pk/,,Engineering
+NUST,Islamabad,Islamabad Capital Territory,BSc Engineering (Computer/Software),Bachelors,Engineering,632500,https://ugadmissions.nust.edu.pk/,,Engineering
+NUST,Islamabad,Islamabad Capital Territory,MS Electrical Engineering,Masters,Engineering,632500,https://ugadmissions.nust.edu.pk/,,Engineering
+NUST,Islamabad,Islamabad Capital Territory,PhD Engineering,PhD,Engineering,632500,https://ugadmissions.nust.edu.pk/,,Engineering
+NUST,Islamabad,Islamabad Capital Territory,BS Computer Science,Bachelors,IT,632500,https://ugadmissions.nust.edu.pk/,,IT/CS
+NUST,Islamabad,Islamabad Capital Territory,BS Software Engineering,Bachelors,IT,632500,https://ugadmissions.nust.edu.pk/,,Engineering
+NUST,Islamabad,Islamabad Capital Territory,BS Data Science,Bachelors,IT,632500,https://ugadmissions.nust.edu.pk/,,IT/CS
+NUST,Islamabad,Islamabad Capital Territory,BS Artificial Intelligence,Bachelors,IT,632500,https://ugadmissions.nust.edu.pk/,,IT/CS
+NUST,Islamabad,Islamabad Capital Territory,MS Computer Science,Masters,IT,632500,https://ugadmissions.nust.edu.pk/,,IT/CS
+NUST,Islamabad,Islamabad Capital Territory,PhD Computer Science,PhD,IT,632500,https://ugadmissions.nust.edu.pk/,,IT/CS
+PIEAS,Islamabad,Islamabad Capital Territory,BE Electrical Engineering,Bachelors,Engineering,517499,https://pieas.edu.pk/admissions,,Engineering
+PIEAS,Islamabad,Islamabad Capital Territory,BE Mechanical Engineering,Bachelors,Engineering,517499,https://pieas.edu.pk/admissions,,Engineering
+PIEAS,Islamabad,Islamabad Capital Territory,BE Civil Engineering,Bachelors,Engineering,517499,https://pieas.edu.pk/admissions,,Engineering
+PIEAS,Islamabad,Islamabad Capital Territory,BSc Engineering (Computer/Software),Bachelors,Engineering,517499,https://pieas.edu.pk/admissions,,Engineering
+PIEAS,Islamabad,Islamabad Capital Territory,MS Electrical Engineering,Masters,Engineering,517499,https://pieas.edu.pk/admissions,,Engineering
+PIEAS,Islamabad,Islamabad Capital Territory,PhD Engineering,PhD,Engineering,517499,https://pieas.edu.pk/admissions,,Engineering
+PIEAS,Islamabad,Islamabad Capital Territory,BS Computer Science,Bachelors,IT,517499,https://pieas.edu.pk/admissions,,IT/CS
+PIEAS,Islamabad,Islamabad Capital Territory,BS Software Engineering,Bachelors,IT,517499,https://pieas.edu.pk/admissions,,Engineering
+PIEAS,Islamabad,Islamabad Capital Territory,BS Data Science,Bachelors,IT,517499,https://pieas.edu.pk/admissions,,IT/CS
+PIEAS,Islamabad,Islamabad Capital Territory,BS Artificial Intelligence,Bachelors,IT,517499,https://pieas.edu.pk/admissions,,IT/CS
+PIEAS,Islamabad,Islamabad Capital Territory,MS Computer Science,Masters,IT,517499,https://pieas.edu.pk/admissions,,IT/CS
+PIEAS,Islamabad,Islamabad Capital Territory,PhD Computer Science,PhD,IT,517499,https://pieas.edu.pk/admissions,,IT/CS
+Institute of Space Technology (IST),Islamabad,Islamabad Capital Territory,BS Computer Science,Bachelors,IT,431249,https://www.ist.edu.pk/admissions,,IT/CS
+Institute of Space Technology (IST),Islamabad,Islamabad Capital Territory,BS Software Engineering,Bachelors,IT,431249,https://www.ist.edu.pk/admissions,,Engineering
+Institute of Space Technology (IST),Islamabad,Islamabad Capital Territory,BS Data Science,Bachelors,IT,431249,https://www.ist.edu.pk/admissions,,IT/CS
+Institute of Space Technology (IST),Islamabad,Islamabad Capital Territory,BS Artificial Intelligence,Bachelors,IT,431249,https://www.ist.edu.pk/admissions,,IT/CS
+Institute of Space Technology (IST),Islamabad,Islamabad Capital Territory,MS Computer Science,Masters,IT,431249,https://www.ist.edu.pk/admissions,,IT/CS
+Institute of Space Technology (IST),Islamabad,Islamabad Capital Territory,PhD Computer Science,PhD,IT,431249,https://www.ist.edu.pk/admissions,,IT/CS
+Air University,Islamabad,Islamabad Capital Territory,BS Computer Science,Bachelors,IT,322000,https://au.edu.pk/admissions,,IT/CS
+Air University,Islamabad,Islamabad Capital Territory,BS Software Engineering,Bachelors,IT,322000,https://au.edu.pk/admissions,,Engineering
+Air University,Islamabad,Islamabad Capital Territory,BS Data Science,Bachelors,IT,322000,https://au.edu.pk/admissions,,IT/CS
+Air University,Islamabad,Islamabad Capital Territory,BS Artificial Intelligence,Bachelors,IT,322000,https://au.edu.pk/admissions,,IT/CS
+Air University,Islamabad,Islamabad Capital Territory,MS Computer Science,Masters,IT,322000,https://au.edu.pk/admissions,,IT/CS
+Air University,Islamabad,Islamabad Capital Territory,PhD Computer Science,PhD,IT,322000,https://au.edu.pk/admissions,,IT/CS
+Bahria University Islamabad,Islamabad,Islamabad Capital Territory,BS Computer Science,Bachelors,IT,345000,https://bahria.edu.pk/admissions,,IT/CS
+Bahria University Islamabad,Islamabad,Islamabad Capital Territory,BS Software Engineering,Bachelors,IT,345000,https://bahria.edu.pk/admissions,,Engineering
+Bahria University Islamabad,Islamabad,Islamabad Capital Territory,BS Data Science,Bachelors,IT,345000,https://bahria.edu.pk/admissions,,IT/CS
+Bahria University Islamabad,Islamabad,Islamabad Capital Territory,BS Artificial Intelligence,Bachelors,IT,345000,https://bahria.edu.pk/admissions,,IT/CS
+Bahria University Islamabad,Islamabad,Islamabad Capital Territory,MS Computer Science,Masters,IT,345000,https://bahria.edu.pk/admissions,,IT/CS
+Bahria University Islamabad,Islamabad,Islamabad Capital Territory,PhD Computer Science,PhD,IT,345000,https://bahria.edu.pk/admissions,,IT/CS
+COMSATS University Islamabad,Islamabad,Islamabad Capital Territory,BE Electrical Engineering,Bachelors,Engineering,201249,https://islamabad.comsats.edu.pk/admissions,http://comsats.edu.pk,Engineering
+COMSATS University Islamabad,Islamabad,Islamabad Capital Territory,BE Mechanical Engineering,Bachelors,Engineering,201249,https://islamabad.comsats.edu.pk/admissions,http://comsats.edu.pk,Engineering
+COMSATS University Islamabad,Islamabad,Islamabad Capital Territory,BE Civil Engineering,Bachelors,Engineering,201249,https://islamabad.comsats.edu.pk/admissions,http://comsats.edu.pk,Engineering
+COMSATS University Islamabad,Islamabad,Islamabad Capital Territory,BSc Engineering (Computer/Software),Bachelors,Engineering,201249,https://islamabad.comsats.edu.pk/admissions,http://comsats.edu.pk,Engineering
+COMSATS University Islamabad,Islamabad,Islamabad Capital Territory,MS Electrical Engineering,Masters,Engineering,201249,https://islamabad.comsats.edu.pk/admissions,http://comsats.edu.pk,Engineering
+COMSATS University Islamabad,Islamabad,Islamabad Capital Territory,PhD Engineering,PhD,Engineering,201249,https://islamabad.comsats.edu.pk/admissions,http://comsats.edu.pk,Engineering
+COMSATS University Islamabad,Islamabad,Islamabad Capital Territory,BS Computer Science,Bachelors,IT,201249,https://islamabad.comsats.edu.pk/admissions,http://comsats.edu.pk,IT/CS
+COMSATS University Islamabad,Islamabad,Islamabad Capital Territory,BS Software Engineering,Bachelors,IT,201249,https://islamabad.comsats.edu.pk/admissions,http://comsats.edu.pk,Engineering
+COMSATS University Islamabad,Islamabad,Islamabad Capital Territory,BS Data Science,Bachelors,IT,201249,https://islamabad.comsats.edu.pk/admissions,http://comsats.edu.pk,IT/CS
+COMSATS University Islamabad,Islamabad,Islamabad Capital Territory,BS Artificial Intelligence,Bachelors,IT,201249,https://islamabad.comsats.edu.pk/admissions,http://comsats.edu.pk,IT/CS
+COMSATS University Islamabad,Islamabad,Islamabad Capital Territory,MS Computer Science,Masters,IT,201249,https://islamabad.comsats.edu.pk/admissions,http://comsats.edu.pk,IT/CS
+COMSATS University Islamabad,Islamabad,Islamabad Capital Territory,PhD Computer Science,PhD,IT,201249,https://islamabad.comsats.edu.pk/admissions,http://comsats.edu.pk,IT/CS
+Capital University of Science & Technology (CUST),Islamabad,Islamabad Capital Territory,BE Electrical Engineering,Bachelors,Engineering,368000,https://cust.edu.pk/admissions,,Engineering
+Capital University of Science & Technology (CUST),Islamabad,Islamabad Capital Territory,BE Mechanical Engineering,Bachelors,Engineering,368000,https://cust.edu.pk/admissions,,Engineering
+Capital University of Science & Technology (CUST),Islamabad,Islamabad Capital Territory,BE Civil Engineering,Bachelors,Engineering,368000,https://cust.edu.pk/admissions,,Engineering
+Capital University of Science & Technology (CUST),Islamabad,Islamabad Capital Territory,BSc Engineering (Computer/Software),Bachelors,Engineering,368000,https://cust.edu.pk/admissions,,Engineering
+Capital University of Science & Technology (CUST),Islamabad,Islamabad Capital Territory,MS Electrical Engineering,Masters,Engineering,368000,https://cust.edu.pk/admissions,,Engineering
+Capital University of Science & Technology (CUST),Islamabad,Islamabad Capital Territory,PhD Engineering,PhD,Engineering,368000,https://cust.edu.pk/admissions,,Engineering
+Capital University of Science & Technology (CUST),Islamabad,Islamabad Capital Territory,BS Computer Science,Bachelors,IT,368000,https://cust.edu.pk/admissions,,IT/CS
+Capital University of Science & Technology (CUST),Islamabad,Islamabad Capital Territory,BS Software Engineering,Bachelors,IT,368000,https://cust.edu.pk/admissions,,Engineering
+Capital University of Science & Technology (CUST),Islamabad,Islamabad Capital Territory,BS Data Science,Bachelors,IT,368000,https://cust.edu.pk/admissions,,IT/CS
+Capital University of Science & Technology (CUST),Islamabad,Islamabad Capital Territory,BS Artificial Intelligence,Bachelors,IT,368000,https://cust.edu.pk/admissions,,IT/CS
+Capital University of Science & Technology (CUST),Islamabad,Islamabad Capital Territory,MS Computer Science,Masters,IT,368000,https://cust.edu.pk/admissions,,IT/CS
+Capital University of Science & Technology (CUST),Islamabad,Islamabad Capital Territory,PhD Computer Science,PhD,IT,368000,https://cust.edu.pk/admissions,,IT/CS
+NUTECH,Islamabad,Islamabad Capital Territory,BE Electrical Engineering,Bachelors,Engineering,287500,https://nutech.edu.pk/admissions,,Engineering
+NUTECH,Islamabad,Islamabad Capital Territory,BE Mechanical Engineering,Bachelors,Engineering,287500,https://nutech.edu.pk/admissions,,Engineering
+NUTECH,Islamabad,Islamabad Capital Territory,BE Civil Engineering,Bachelors,Engineering,287500,https://nutech.edu.pk/admissions,,Engineering
+NUTECH,Islamabad,Islamabad Capital Territory,BSc Engineering (Computer/Software),Bachelors,Engineering,287500,https://nutech.edu.pk/admissions,,Engineering
+NUTECH,Islamabad,Islamabad Capital Territory,MS Electrical Engineering,Masters,Engineering,287500,https://nutech.edu.pk/admissions,,Engineering
+NUTECH,Islamabad,Islamabad Capital Territory,PhD Engineering,PhD,Engineering,287500,https://nutech.edu.pk/admissions,,Engineering
+NUTECH,Islamabad,Islamabad Capital Territory,BS Computer Science,Bachelors,IT,287500,https://nutech.edu.pk/admissions,,IT/CS
+NUTECH,Islamabad,Islamabad Capital Territory,BS Software Engineering,Bachelors,IT,287500,https://nutech.edu.pk/admissions,,Engineering
+NUTECH,Islamabad,Islamabad Capital Territory,BS Data Science,Bachelors,IT,287500,https://nutech.edu.pk/admissions,,IT/CS
+NUTECH,Islamabad,Islamabad Capital Territory,BS Artificial Intelligence,Bachelors,IT,287500,https://nutech.edu.pk/admissions,,IT/CS
+NUTECH,Islamabad,Islamabad Capital Territory,MS Computer Science,Masters,IT,287500,https://nutech.edu.pk/admissions,,IT/CS
+NUTECH,Islamabad,Islamabad Capital Territory,PhD Computer Science,PhD,IT,287500,https://nutech.edu.pk/admissions,,IT/CS
+"Abasyn University, Peshawar",,,Computer Science,,computer_science,,,http://abasyn.edu.pk,IT/CS
+"Abasyn University, Peshawar",,,Software Engineering,,engineering,,,http://abasyn.edu.pk,Engineering
+"Abasyn University, Peshawar",,,Electrical Engineering,,engineering,,,http://abasyn.edu.pk,Engineering
+"Abasyn University, Peshawar",,,Mechanical Engineering,,engineering,,,http://abasyn.edu.pk,Engineering
+"Abasyn University, Peshawar",,,Physics,,sciences,,,http://abasyn.edu.pk,Sciences
+Bahria University,,,Phd Computer Engineering,,engineering,,,http://www.bahria.edu.pk/,Engineering
+Bahria University,,,Phd Computer Sciences,,computer_science,,,http://www.bahria.edu.pk/,IT/CS
+Bahria University,,,Phd Electrical Engineering,,engineering,,,http://www.bahria.edu.pk/,Engineering
+Bahria University,,,Phd Software Engineering,,engineering,,,http://www.bahria.edu.pk/,Engineering
+"Federal Urdu University of Arts, Science & Technology",,,Computer Science,,computer_science,,,http://fuuastisb.edu.pk,IT/CS
+"Federal Urdu University of Arts, Science & Technology",,,Software Engineering,,engineering,,,http://fuuastisb.edu.pk,Engineering
+"Federal Urdu University of Arts, Science & Technology",,,Electrical Engineering,,engineering,,,http://fuuastisb.edu.pk,Engineering
+"Federal Urdu University of Arts, Science & Technology",,,Mechanical Engineering,,engineering,,,http://fuuastisb.edu.pk,Engineering
+"Federal Urdu University of Arts, Science & Technology",,,Physics,,sciences,,,http://fuuastisb.edu.pk,Sciences
+Capital University of Science & Technology,,,Bs Artificial Intelligence,,computer_science,,,http://cust.edu.pk,IT/CS
+Capital University of Science & Technology,,,Bs Biochemistry,,sciences,,,http://cust.edu.pk,Sciences
+Capital University of Science & Technology,,,Bs Biotechnology,,sciences,,,http://cust.edu.pk,Sciences
+Capital University of Science & Technology,,,Bs Civil Engineering,,engineering,,,http://cust.edu.pk,Engineering
+Capital University of Science & Technology,,,Bs Computer Engineering,,engineering,,,http://cust.edu.pk,Engineering
+Capital University of Science & Technology,,,Bs Computer Science,,computer_science,,,http://cust.edu.pk,IT/CS
+Capital University of Science & Technology,,,Bs Electrical Engineering,,engineering,,,http://cust.edu.pk,Engineering
+Capital University of Science & Technology,,,Bs Mathematics With Data Science,,computer_science,,,http://cust.edu.pk,IT/CS
+Capital University of Science & Technology,,,Bs Mechanical Engineering,,engineering,,,http://cust.edu.pk,Engineering
+Capital University of Science & Technology,,,Bs Software Engineering,,engineering,,,http://cust.edu.pk,Engineering
+Capital University of Science & Technology,,,Mphil Mathematics,,sciences,,,http://cust.edu.pk,Sciences
+Capital University of Science & Technology,,,Ms Artificial Intelligence,,computer_science,,,http://cust.edu.pk,IT/CS
+Capital University of Science & Technology,,,Ms Civil Engineering,,engineering,,,http://cust.edu.pk,Engineering
+Capital University of Science & Technology,,,Ms Computer Engineering,,engineering,,,http://cust.edu.pk,Engineering
+Capital University of Science & Technology,,,Ms Computer Science,,computer_science,,,http://cust.edu.pk,IT/CS
+Capital University of Science & Technology,,,Ms Electrical Engineering,,engineering,,,http://cust.edu.pk,Engineering
+Capital University of Science & Technology,,,Ms Engineering Management,,engineering,,,http://cust.edu.pk,Engineering
+Capital University of Science & Technology,,,Ms Mechanical Engineering,,engineering,,,http://cust.edu.pk,Engineering
+Capital University of Science & Technology,,,Phd Civil Engineering,,engineering,,,http://cust.edu.pk,Engineering
+Capital University of Science & Technology,,,Phd Computer Engineering,,engineering,,,http://cust.edu.pk,Engineering
+Capital University of Science & Technology,,,Phd Computer Science,,computer_science,,,http://cust.edu.pk,IT/CS
+Capital University of Science & Technology,,,Phd Electrical Engineering,,engineering,,,http://cust.edu.pk,Engineering
+Capital University of Science & Technology,,,Phd Engineering Management,,engineering,,,http://cust.edu.pk,Engineering
+Capital University of Science & Technology,,,Phd Mathematics,,sciences,,,http://cust.edu.pk,Sciences
+Capital University of Science & Technology,,,Phd Mechanical Engineering,,engineering,,,http://cust.edu.pk,Engineering
+Pakistan Institute of Engineering and Applied Sciences,,,Be The Best Engineering University In Pakis,,engineering,,,http://www.pieas.edu.pk/,Engineering
+Pakistan Institute of Engineering and Applied Sciences,,,Phd Program In Nuclear Engineering,,engineering,,,http://www.pieas.edu.pk/,Engineering
+National University of Technology,,,Bs Artificial Intelligence,,computer_science,,,http://nutech.edu.pk,IT/CS
+National University of Technology,,,Bs Civil Engineering,,engineering,,,http://nutech.edu.pk,Engineering
+National University of Technology,,,Bs Civil Engineering Technology,,engineering,,,http://nutech.edu.pk,Engineering
+National University of Technology,,,Bs Computer Engineering,,engineering,,,http://nutech.edu.pk,Engineering
+National University of Technology,,,Bs Computer Science,,computer_science,,,http://nutech.edu.pk,IT/CS
+National University of Technology,,,Bs Electrical Engineering,,engineering,,,http://nutech.edu.pk,Engineering
+National University of Technology,,,Bs Information Technology Since,,computer_science,,,http://nutech.edu.pk,IT/CS
+National University of Technology,,,Bs Mechanical Engineering,,engineering,,,http://nutech.edu.pk,Engineering
+National University of Technology,,,Bs Software Engineering,,engineering,,,http://nutech.edu.pk,Engineering
+National University of Technology,,,Ms Civil Engineering,,engineering,,,http://nutech.edu.pk,Engineering
+National University of Technology,,,Ms Computer Engineering,,engineering,,,http://nutech.edu.pk,Engineering
+National University of Technology,,,Ms Computer Science,,computer_science,,,http://nutech.edu.pk,IT/CS
+Pakistan Institute of Engineering and Technology,,,Be Civil Engineering,,engineering,,,http://piet.edu.pk,Engineering
+Pakistan Institute of Engineering and Technology,,,Be Electrical Engineering,,engineering,,,http://piet.edu.pk,Engineering
+Pakistan Institute of Engineering and Technology,,,Be Mechanical Engineering,,engineering,,,http://piet.edu.pk,Engineering
+Pakistan Institute of Engineering and Technology,,,Bs Computer Science,,computer_science,,,http://piet.edu.pk,IT/CS
+HITEC University,,,Bs In Mechanical And Electrical Engineering,,engineering,,,http://www.hitecuni.edu.pk,Engineering
+HITEC University,,,Phd Electrical Engineering,,engineering,,,http://www.hitecuni.edu.pk,Engineering
+Information Technology University (Lahore),,,Bs Computer Engineering,,engineering,,,http://itu.edu.pk,Engineering
+Information Technology University (Lahore),,,Bs Computer Science,,computer_science,,,http://itu.edu.pk,IT/CS
+Information Technology University (Lahore),,,Bs Economics With Data Science,,computer_science,,,http://itu.edu.pk,IT/CS
+Information Technology University (Lahore),,,Bs Electrical Engineering,,engineering,,,http://itu.edu.pk,Engineering
+Information Technology University (Lahore),,,Ms Computer Science,,computer_science,,,http://itu.edu.pk,IT/CS
+Information Technology University (Lahore),,,Ms Data Science,,computer_science,,,http://itu.edu.pk,IT/CS
+Information Technology University (Lahore),,,Ms Electrical Engineering,,engineering,,,http://itu.edu.pk,Engineering
+Information Technology University (Lahore),,,Phd Computer Science,,computer_science,,,http://itu.edu.pk,IT/CS
+Information Technology University (Lahore),,,Phd Electrical Engineering,,engineering,,,http://itu.edu.pk,Engineering
+NFC Institute of Engineering and Technology,,,Computer Science,,computer_science,,,http://nfciet.edu.pk,IT/CS
+NFC Institute of Engineering and Technology,,,Software Engineering,,engineering,,,http://nfciet.edu.pk,Engineering
+NFC Institute of Engineering and Technology,,,Electrical Engineering,,engineering,,,http://nfciet.edu.pk,Engineering
+NFC Institute of Engineering and Technology,,,Mechanical Engineering,,engineering,,,http://nfciet.edu.pk,Engineering
+NFC Institute of Engineering and Technology,,,Physics,,sciences,,,http://nfciet.edu.pk,Sciences
+Wah Cantonment,,,Computer Science,,computer_science,,,https://repository.lahoreschool.edu.pk/xmlui/bitstream/handle/123456789/13673/Administrative%20Units.pdf?isAllowed=y&sequence=1,IT/CS
+Wah Cantonment,,,Software Engineering,,engineering,,,https://repository.lahoreschool.edu.pk/xmlui/bitstream/handle/123456789/13673/Administrative%20Units.pdf?isAllowed=y&sequence=1,Engineering
+Wah Cantonment,,,Electrical Engineering,,engineering,,,https://repository.lahoreschool.edu.pk/xmlui/bitstream/handle/123456789/13673/Administrative%20Units.pdf?isAllowed=y&sequence=1,Engineering
+Wah Cantonment,,,Mechanical Engineering,,engineering,,,https://repository.lahoreschool.edu.pk/xmlui/bitstream/handle/123456789/13673/Administrative%20Units.pdf?isAllowed=y&sequence=1,Engineering
+Wah Cantonment,,,Physics,,sciences,,,https://repository.lahoreschool.edu.pk/xmlui/bitstream/handle/123456789/13673/Administrative%20Units.pdf?isAllowed=y&sequence=1,Sciences
+University of Central Punjab,,,Computer Science,,computer_science,,,http://ucp.edu.pk,IT/CS
+University of Central Punjab,,,Software Engineering,,engineering,,,http://ucp.edu.pk,Engineering
+University of Central Punjab,,,Electrical Engineering,,engineering,,,http://ucp.edu.pk,Engineering
+University of Central Punjab,,,Mechanical Engineering,,engineering,,,http://ucp.edu.pk,Engineering
+University of Central Punjab,,,Physics,,sciences,,,http://ucp.edu.pk,Sciences
+"University of Agriculture, Faisalabad",,,Bs Agricultural Biotechnology,,sciences,,,http://web.uaf.edu.pk,Sciences
+"University of Agriculture, Faisalabad",,,Bs Computer Science,,computer_science,,,http://web.uaf.edu.pk,IT/CS
+"University of Agriculture, Faisalabad",,,Bs Information Technology,,computer_science,,,http://web.uaf.edu.pk,IT/CS
+"University of Agriculture, Faisalabad",,,Bs Software Engineering,,engineering,,,http://web.uaf.edu.pk,Engineering
+"University of Agriculture, Faisalabad",,,Phd Environmental & Resource Economics,,sciences,,,http://web.uaf.edu.pk,Sciences
+"University of Engineering and Technology, Taxila",,,Computer Science,,computer_science,,,http://uettaxila.edu.pk,IT/CS
+"University of Engineering and Technology, Taxila",,,Software Engineering,,engineering,,,http://uettaxila.edu.pk,Engineering
+"University of Engineering and Technology, Taxila",,,Electrical Engineering,,engineering,,,http://uettaxila.edu.pk,Engineering
+"University of Engineering and Technology, Taxila",,,Mechanical Engineering,,engineering,,,http://uettaxila.edu.pk,Engineering
+"University of Engineering and Technology, Taxila",,,Physics,,sciences,,,http://uettaxila.edu.pk,Sciences
+University of Engineering and Technology Faisalabad Campus,,,Computer Science,,computer_science,,,http://uet.edu.pk/campus?RID=info&campus_id=3,IT/CS
+University of Engineering and Technology Faisalabad Campus,,,Software Engineering,,engineering,,,http://uet.edu.pk/campus?RID=info&campus_id=3,Engineering
+University of Engineering and Technology Faisalabad Campus,,,Electrical Engineering,,engineering,,,http://uet.edu.pk/campus?RID=info&campus_id=3,Engineering
+University of Engineering and Technology Faisalabad Campus,,,Mechanical Engineering,,engineering,,,http://uet.edu.pk/campus?RID=info&campus_id=3,Engineering
+University of Engineering and Technology Faisalabad Campus,,,Physics,,sciences,,,http://uet.edu.pk/campus?RID=info&campus_id=3,Sciences
+Rachna College of Engineering and Technology,,,Bsc Electrical Engineering,,engineering,,,http://rcet.uet.edu.pk,Engineering
+Rachna College of Engineering and Technology,,,Bsc Industrial And Manufacturing Engineering,,engineering,,,http://rcet.uet.edu.pk,Engineering
+Rachna College of Engineering and Technology,,,Bsc Mechanical Engineering,,engineering,,,http://rcet.uet.edu.pk,Engineering
+"Muhammad Nawaz Sharif University of Engineering and Technology, Multan",,,Bs Chemistry,,sciences,,,http://mnsuet.edu.pk,Sciences
+"Muhammad Nawaz Sharif University of Engineering and Technology, Multan",,,Bs Computer Science,,computer_science,,,http://mnsuet.edu.pk,IT/CS
+"Muhammad Nawaz Sharif University of Engineering and Technology, Multan",,,Bs Mathematics,,sciences,,,http://mnsuet.edu.pk,Sciences
+"Muhammad Nawaz Sharif University of Engineering and Technology, Multan",,,Bs Physics,,sciences,,,http://mnsuet.edu.pk,Sciences
+"Muhammad Nawaz Sharif University of Engineering and Technology, Multan",,,Bsc Chemical Engineering,,engineering,,,http://mnsuet.edu.pk,Engineering
+"Muhammad Nawaz Sharif University of Engineering and Technology, Multan",,,Bsc Civil Engineering Technology,,engineering,,,http://mnsuet.edu.pk,Engineering
+"Muhammad Nawaz Sharif University of Engineering and Technology, Multan",,,Bsc Electrical Engineering,,engineering,,,http://mnsuet.edu.pk,Engineering
+"Muhammad Nawaz Sharif University of Engineering and Technology, Multan",,,Bsc Electrical Engineering Technology,,engineering,,,http://mnsuet.edu.pk,Engineering
+"Muhammad Nawaz Sharif University of Engineering and Technology, Multan",,,Bsc Mechanical Engineering Technology,,engineering,,,http://mnsuet.edu.pk,Engineering
+"Muhammad Nawaz Sharif University of Engineering and Technology, Multan",,,Msc Chemical Engineering,,engineering,,,http://mnsuet.edu.pk,Engineering
+"Muhammad Nawaz Sharif University of Engineering and Technology, Multan",,,Msc Electrical Engineering,,engineering,,,http://mnsuet.edu.pk,Engineering
+University of Sargodha,,,Computer Science,,computer_science,,,http://su.edu.pk,IT/CS
+University of Sargodha,,,Software Engineering,,engineering,,,http://su.edu.pk,Engineering
+University of Sargodha,,,Electrical Engineering,,engineering,,,http://su.edu.pk,Engineering
+University of Sargodha,,,Mechanical Engineering,,engineering,,,http://su.edu.pk,Engineering
+University of Sargodha,,,Physics,,sciences,,,http://su.edu.pk,Sciences
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Bs Agricultural Engineering,,engineering,,,http://kfueit.edu.pk,Engineering
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Bs Artificial Intelligence,,computer_science,,,http://kfueit.edu.pk,IT/CS
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Bs Biochemistry,,sciences,,,http://kfueit.edu.pk,Sciences
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Bs Biotechnology,,sciences,,,http://kfueit.edu.pk,Sciences
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Bs Botany,,,,,http://kfueit.edu.pk,Sciences
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Bs Chemical Engineering,,engineering,,,http://kfueit.edu.pk,Engineering
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Bs Chemistry,,sciences,,,http://kfueit.edu.pk,Sciences
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Bs Civil Engineering,,engineering,,,http://kfueit.edu.pk,Engineering
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Bs Computational Physics,,sciences,,,http://kfueit.edu.pk,Sciences
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Bs Computer Engineering,,engineering,,,http://kfueit.edu.pk,Engineering
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Bs Computer Science,,computer_science,,,http://kfueit.edu.pk,IT/CS
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Bs Data Science,,computer_science,,,http://kfueit.edu.pk,IT/CS
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Bs Electrical Engineering,,engineering,,,http://kfueit.edu.pk,Engineering
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Bs Environmental Science,,sciences,,,http://kfueit.edu.pk,Sciences
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Bs Information Technology,,computer_science,,,http://kfueit.edu.pk,IT/CS
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Bs Mathematics,,sciences,,,http://kfueit.edu.pk,Sciences
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Bs Mechanical Engineering,,engineering,,,http://kfueit.edu.pk,Engineering
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Bs Physics,,sciences,,,http://kfueit.edu.pk,Sciences
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Bs Software Engineering,,engineering,,,http://kfueit.edu.pk,Engineering
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Bs Zoology,,,,,http://kfueit.edu.pk,Sciences
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Ms Chemical Engineering,,engineering,,,http://kfueit.edu.pk,Engineering
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Ms Chemistry,,sciences,,,http://kfueit.edu.pk,Sciences
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Ms Computer Science,,computer_science,,,http://kfueit.edu.pk,IT/CS
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Ms Engineering Management,,engineering,,,http://kfueit.edu.pk,Engineering
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Ms Information Technology,,computer_science,,,http://kfueit.edu.pk,IT/CS
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Ms Mathematics,,sciences,,,http://kfueit.edu.pk,Sciences
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Ms Software Engineering,,engineering,,,http://kfueit.edu.pk,Engineering
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Msc Chemistry,,sciences,,,http://kfueit.edu.pk,Sciences
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Msc Computer Science,,computer_science,,,http://kfueit.edu.pk,IT/CS
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Msc Mathematics,,sciences,,,http://kfueit.edu.pk,Sciences
+"Khawaja Fareed University of Engineering and Information Technology, Rahim Yar Khan",,,Msc Physics,,sciences,,,http://kfueit.edu.pk,Sciences
+"Quaid-e-Azam College of Engineering and Technology, Sahiwal",,,Bsc Civil Engineering,,engineering,,,http://quaideazam.edu.pk,Engineering
+"Quaid-e-Azam College of Engineering and Technology, Sahiwal",,,Bsc Civil Engineering Technology,,engineering,,,http://quaideazam.edu.pk,Engineering
+"Quaid-e-Azam College of Engineering and Technology, Sahiwal",,,Bsc Electrical Engineering,,engineering,,,http://quaideazam.edu.pk,Engineering
+"Quaid-e-Azam College of Engineering and Technology, Sahiwal",,,Bsc Electrical Engineering Technology,,engineering,,,http://quaideazam.edu.pk,Engineering
+"Quaid-e-Azam College of Engineering and Technology, Sahiwal",,,Bsc Mechanical Engineering,,engineering,,,http://quaideazam.edu.pk,Engineering
+"Quaid-e-Azam College of Engineering and Technology, Sahiwal",,,Bsc Mechanical Engineering Technology,,engineering,,,http://quaideazam.edu.pk,Engineering
+Namal University,,,Computer Science,,computer_science,,,http://namal.edu.pk,IT/CS
+Namal University,,,Software Engineering,,engineering,,,http://namal.edu.pk,Engineering
+Namal University,,,Electrical Engineering,,engineering,,,http://namal.edu.pk,Engineering
+Namal University,,,Mechanical Engineering,,engineering,,,http://namal.edu.pk,Engineering
+Namal University,,,Physics,,sciences,,,http://namal.edu.pk,Sciences
+"Minhaj University, Lahore",,,Computer Science,,computer_science,,,http://mul.edu.pk,IT/CS
+"Minhaj University, Lahore",,,Software Engineering,,engineering,,,http://mul.edu.pk,Engineering
+"Minhaj University, Lahore",,,Electrical Engineering,,engineering,,,http://mul.edu.pk,Engineering
+"Minhaj University, Lahore",,,Mechanical Engineering,,engineering,,,http://mul.edu.pk,Engineering
+"Minhaj University, Lahore",,,Physics,,sciences,,,http://mul.edu.pk,Sciences
+GIFT University,,,Computer Science,,computer_science,,,http://gift.edu.pk,IT/CS
+GIFT University,,,Software Engineering,,engineering,,,http://gift.edu.pk,Engineering
+GIFT University,,,Electrical Engineering,,engineering,,,http://gift.edu.pk,Engineering
+GIFT University,,,Mechanical Engineering,,engineering,,,http://gift.edu.pk,Engineering
+GIFT University,,,Physics,,sciences,,,http://gift.edu.pk,Sciences
+Institute of Southern Punjab,,,Computer Science,,computer_science,,,http://usp.edu.pk,IT/CS
+Institute of Southern Punjab,,,Software Engineering,,engineering,,,http://usp.edu.pk,Engineering
+Institute of Southern Punjab,,,Electrical Engineering,,engineering,,,http://usp.edu.pk,Engineering
+Institute of Southern Punjab,,,Mechanical Engineering,,engineering,,,http://usp.edu.pk,Engineering
+Institute of Southern Punjab,,,Physics,,sciences,,,http://usp.edu.pk,Sciences
+Superior University,,,Bs Aviation Engineering Technology,,engineering,,,http://superior.edu.pk,Engineering
+Superior University,,,Bs Avionics Engineering,,engineering,,,http://superior.edu.pk,Engineering
+Superior University,,,Bs Civil Engineering Technology,,engineering,,,http://superior.edu.pk,Engineering
+Superior University,,,Bs Computer Science,,computer_science,,,http://superior.edu.pk,IT/CS
+Superior University,,,Bs Electrical Engineering Technology,,engineering,,,http://superior.edu.pk,Engineering
+Superior University,,,Bs Electronics Engineering Technology,,engineering,,,http://superior.edu.pk,Engineering
+Superior University,,,Bs Hvac Engineering Technology,,engineering,,,http://superior.edu.pk,Engineering
+Superior University,,,Bs Mechanical Engineering Technology,,engineering,,,http://superior.edu.pk,Engineering
+Superior University,,,Bs Software Engineering,,engineering,,,http://superior.edu.pk,Engineering
+Superior University,,,Ms Computer Sciences,,computer_science,,,http://superior.edu.pk,IT/CS
+CECOS University of Information Technology and Emerging Sciences,,,Computer Science,,computer_science,,,http://www.cecos.edu.pk/,IT/CS
+CECOS University of Information Technology and Emerging Sciences,,,Software Engineering,,engineering,,,http://www.cecos.edu.pk/,Engineering
+CECOS University of Information Technology and Emerging Sciences,,,Electrical Engineering,,engineering,,,http://www.cecos.edu.pk/,Engineering
+CECOS University of Information Technology and Emerging Sciences,,,Mechanical Engineering,,engineering,,,http://www.cecos.edu.pk/,Engineering
+CECOS University of Information Technology and Emerging Sciences,,,Physics,,sciences,,,http://www.cecos.edu.pk/,Sciences
+Qurtuba University,,,M.Phil Physics,,sciences,,,http://www.qurtuba.edu.pk,Sciences
+Qurtuba University,,,Ms Computer Science,,computer_science,,,http://www.qurtuba.edu.pk,IT/CS
+"City University of Science and Information Technology, Peshawar",,,Computer Science,,computer_science,,,http://cityuniversity.edu.pk,IT/CS
+"City University of Science and Information Technology, Peshawar",,,Software Engineering,,engineering,,,http://cityuniversity.edu.pk,Engineering
+"City University of Science and Information Technology, Peshawar",,,Electrical Engineering,,engineering,,,http://cityuniversity.edu.pk,Engineering
+"City University of Science and Information Technology, Peshawar",,,Mechanical Engineering,,engineering,,,http://cityuniversity.edu.pk,Engineering
+"City University of Science and Information Technology, Peshawar",,,Physics,,sciences,,,http://cityuniversity.edu.pk,Sciences
+"University of Engineering and Technology, Peshawar",,,Bs Program Focused On Software Development,,computer_science,,,http://uetpeshawar.edu.pk,IT/CS
+"University of Engineering and Technology, Peshawar",,,Phd Software Engineering,,engineering,,,http://uetpeshawar.edu.pk,Engineering
+"University of Engineering and Technology, Peshawar",,,Phd Telecom Engineering,,engineering,,,http://uetpeshawar.edu.pk,Engineering
+Ghulam Ishaq Khan Institute of Engineering Sciences and Technology,,,Bs Civil Engineering Program,,engineering,,,http://www.giki.edu.pk/,Engineering
+Ghulam Ishaq Khan Institute of Engineering Sciences and Technology,,,Bs Degree Program In Electrical Engineering,,engineering,,,http://www.giki.edu.pk/,Engineering
+Ghulam Ishaq Khan Institute of Engineering Sciences and Technology,,,Ms And Phd Degree Programs In Applied Mathe,,,,,http://www.giki.edu.pk/,Sciences
+IQRA National University,,,Ms Electrical Engineering,,engineering,,,https://www.inu.edu.pk/,Engineering
+IQRA National University,,,Ms Engineering Management,,engineering,,,https://www.inu.edu.pk/,Engineering
+Gomal University,,,Computer Science,,computer_science,,,http://www.gu.edu.pk,IT/CS
+Gomal University,,,Software Engineering,,engineering,,,http://www.gu.edu.pk,Engineering
+Gomal University,,,Electrical Engineering,,engineering,,,http://www.gu.edu.pk,Engineering
+Gomal University,,,Mechanical Engineering,,engineering,,,http://www.gu.edu.pk,Engineering
+Gomal University,,,Physics,,sciences,,,http://www.gu.edu.pk,Sciences
+Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology,,,Be Mechatronic Engineering Program Is Accre,,engineering,,,http://szabist.edu.pk,Engineering
+Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology,,,Be Mechatronics Engineering,,engineering,,,http://szabist.edu.pk,Engineering
+Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology,,,Bs Artificial Intelligence And Ms Data Scie,,computer_science,,,http://szabist.edu.pk,IT/CS
+Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology,,,Bs Biotechnology,,sciences,,,http://szabist.edu.pk,Sciences
+Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology,,,Bs Computer Science,,computer_science,,,http://szabist.edu.pk,IT/CS
+Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology,,,Bs Software Engineering Ms Computer Science,,engineering,,,http://szabist.edu.pk,Engineering
+Dawood University of Engineering and Technology,,,Be Chemical Engineering,,engineering,,,http://duet.edu.pk,Engineering
+Dawood University of Engineering and Technology,,,Be Computer System Engineering,,engineering,,,http://duet.edu.pk,Engineering
+Dawood University of Engineering and Technology,,,Be Electronic Engineering,,engineering,,,http://duet.edu.pk,Engineering
+Dawood University of Engineering and Technology,,,Be Energy And Environment Engineering,,engineering,,,http://duet.edu.pk,Engineering
+Dawood University of Engineering and Technology,,,Be Industrial Engineering And Management,,engineering,,,http://duet.edu.pk,Engineering
+Dawood University of Engineering and Technology,,,Be Metallurgy And Materials Engineering,,engineering,,,http://duet.edu.pk,Engineering
+Dawood University of Engineering and Technology,,,Be Petroleum And Gas Engineering,,engineering,,,http://duet.edu.pk,Engineering
+Dawood University of Engineering and Technology,,,Be Telecommunication Engineering,,engineering,,,http://duet.edu.pk,Engineering
+Dawood University of Engineering and Technology,,,Bs Artificial Intelligence,,computer_science,,,http://duet.edu.pk,IT/CS
+Dawood University of Engineering and Technology,,,Bs Chemistry,,sciences,,,http://duet.edu.pk,Sciences
+Dawood University of Engineering and Technology,,,Bs Computer Science,,computer_science,,,http://duet.edu.pk,IT/CS
+Dawood University of Engineering and Technology,,,Bs Environmental Sciences,,sciences,,,http://duet.edu.pk,Sciences
+Dawood University of Engineering and Technology,,,Bs Mathematics,,sciences,,,http://duet.edu.pk,Sciences
+Dawood University of Engineering and Technology,,,Ms Chemical Engineering,,engineering,,,http://duet.edu.pk,Engineering
+Dawood University of Engineering and Technology,,,Ms Chemistry,,sciences,,,http://duet.edu.pk,Sciences
+Dawood University of Engineering and Technology,,,Ms Electronic Engineering,,engineering,,,http://duet.edu.pk,Engineering
+Dawood University of Engineering and Technology,,,Ms Industrial Chemistry,,sciences,,,http://duet.edu.pk,Sciences
+Dawood University of Engineering and Technology,,,Ms Industrial Engineering And Management,,engineering,,,http://duet.edu.pk,Engineering
+Dawood University of Engineering and Technology,,,Ms Metallurgy And Materials Engineering,,engineering,,,http://duet.edu.pk,Engineering
+Dawood University of Engineering and Technology,,,Ms Telecommunication Engineering,,engineering,,,http://duet.edu.pk,Engineering
+Dawood University of Engineering and Technology,,,Phd Chemical Engineering,,engineering,,,http://duet.edu.pk,Engineering
+Dawood University of Engineering and Technology,,,Phd Computer System Engineering,,engineering,,,http://duet.edu.pk,Engineering
+Dawood University of Engineering and Technology,,,Phd Electronic Engineering,,engineering,,,http://duet.edu.pk,Engineering
+Dawood University of Engineering and Technology,,,Phd Industrial And Management Engineering,,engineering,,,http://duet.edu.pk,Engineering
+Dawood University of Engineering and Technology,,,Phd Metallurgy And Material Engineering,,engineering,,,http://duet.edu.pk,Engineering
+Dawood University of Engineering and Technology,,,Phd Telecommunication Engineering,,engineering,,,http://duet.edu.pk,Engineering
+Karachi,,,Be Fully Computerised,,computer_science,,,https://web.archive.org/web/20100602055513/http://www.cidcm.umd.edu/mar/chronology.asp?groupId=77103,IT/CS
+DHA Suffa University,,,Bs Computational & Industrial Mathematics,,sciences,,,https://www.dsu.edu.pk/,Sciences
+Institute of Business Management,,,Be Electrical Engineering,,engineering,,,https://www.iobm.edu.pk,Engineering
+Institute of Business Management,,,Be Electrical Engineering In Electronic And,,engineering,,,https://www.iobm.edu.pk,Engineering
+Institute of Business Management,,,Bs Computer Science,,computer_science,,,https://www.iobm.edu.pk,IT/CS
+Institute of Business Management,,,Bs Data Science,,computer_science,,,https://www.iobm.edu.pk,IT/CS
+Institute of Business Management,,,Bs Data Science And Bs Software Engineering,,engineering,,,https://www.iobm.edu.pk,Engineering
+Institute of Business Management,,,Bs Mathematics And Computational Finance,,sciences,,,https://www.iobm.edu.pk,Sciences
+Institute of Business Management,,,Bs Mathematics And Economics,,sciences,,,https://www.iobm.edu.pk,Sciences
+Institute of Business Management,,,Bs Software Engineering,,engineering,,,https://www.iobm.edu.pk,Engineering
+Institute of Business Management,,,Bs Statistics And Business Analytics,,sciences,,,https://www.iobm.edu.pk,Sciences
+Institute of Business Management,,,Ms Computer Science,,computer_science,,,https://www.iobm.edu.pk,IT/CS
+Institute of Business Management,,,Ms Engineering Management,,engineering,,,https://www.iobm.edu.pk,Engineering
+Institute of Business Management,,,Ms In Electrical Engineering,,engineering,,,https://www.iobm.edu.pk,Engineering
+Institute of Business Management,,,Ms Mathematics And Scientific Computing,,computer_science,,,https://www.iobm.edu.pk,IT/CS
+Institute of Business Management,,,Ms Statistics And Scientific Computing,,computer_science,,,https://www.iobm.edu.pk,IT/CS
+Institute of Business Management,,,Phd Computer Science,,computer_science,,,https://www.iobm.edu.pk,IT/CS
+Institute of Business Management,,,Phd In Environmental And Energy Management,,sciences,,,https://www.iobm.edu.pk,Sciences
+Institute of Business Management,,,Phd Statistics And Scientific Computing,,computer_science,,,https://www.iobm.edu.pk,IT/CS
+Mehran University of Engineering and Technology,,,Be Computerized And Untrained Coordinators,,computer_science,,,http://muet.edu.pk,IT/CS
+Karachi Institute of Economics and Technology,,,Ms In Telecommunication Engineering Was A,,engineering,,,https://kiet.edu.pk/,Engineering
+"Quaid-e-Awam University of Engineering, Science and Technology",,,Be The Most Advanced Software House Ever Bu,,computer_science,,,http://quest.edu.pk,IT/CS
+"Thar Institute of Engineering, Science, and Technology, Tharparkar",,,Bs In Computer Science Program,,computer_science,,,http://tiest.neduet.edu.pk,IT/CS
+Sir Syed University of Engineering and Technology,,,Bs In Biomedical Engineering,,engineering,,,http://www.ssuet.edu.pk/,Engineering
+Sir Syed University of Engineering and Technology,,,Bs In Biotechnology,,sciences,,,http://www.ssuet.edu.pk/,Sciences
+Sir Syed University of Engineering and Technology,,,Bs In Civil Engineering,,engineering,,,http://www.ssuet.edu.pk/,Engineering
+Sir Syed University of Engineering and Technology,,,Bs In Computer Engineering,,engineering,,,http://www.ssuet.edu.pk/,Engineering
+Sir Syed University of Engineering and Technology,,,Bs In Computer Science,,computer_science,,,http://www.ssuet.edu.pk/,IT/CS
+Sir Syed University of Engineering and Technology,,,Bs In Electrical Engineering,,engineering,,,http://www.ssuet.edu.pk/,Engineering
+Sir Syed University of Engineering and Technology,,,Bs In Electronic Engineering,,engineering,,,http://www.ssuet.edu.pk/,Engineering
+Sir Syed University of Engineering and Technology,,,Bs In Information Technology,,computer_science,,,http://www.ssuet.edu.pk/,IT/CS
+Sir Syed University of Engineering and Technology,,,Bs In Mathematics,,sciences,,,http://www.ssuet.edu.pk/,Sciences
+Sir Syed University of Engineering and Technology,,,Bs In Software Engineering,,engineering,,,http://www.ssuet.edu.pk/,Engineering
+Sir Syed University of Engineering and Technology,,,Bs In Telecommunication Engineering,,engineering,,,http://www.ssuet.edu.pk/,Engineering
+Sir Syed University of Engineering and Technology,,,Bsc In Civil Engineering Technology,,engineering,,,http://www.ssuet.edu.pk/,Engineering
+Sir Syed University of Engineering and Technology,,,Bsc In Electrical Engineering Technology,,engineering,,,http://www.ssuet.edu.pk/,Engineering
+Sir Syed University of Engineering and Technology,,,Bsc In Electronic Engineering Technology,,engineering,,,http://www.ssuet.edu.pk/,Engineering
+Sir Syed University of Engineering and Technology,,,Ms Biomedical Engineering,,engineering,,,http://www.ssuet.edu.pk/,Engineering
+Sir Syed University of Engineering and Technology,,,Ms Civil Engineering,,engineering,,,http://www.ssuet.edu.pk/,Engineering
+Sir Syed University of Engineering and Technology,,,Ms Computer Engineering,,engineering,,,http://www.ssuet.edu.pk/,Engineering
+Sir Syed University of Engineering and Technology,,,Ms Computer Science,,computer_science,,,http://www.ssuet.edu.pk/,IT/CS
+Sir Syed University of Engineering and Technology,,,Ms In Electrical Engineering,,engineering,,,http://www.ssuet.edu.pk/,Engineering
+Sir Syed University of Engineering and Technology,,,Ms In Electronic Engineering,,engineering,,,http://www.ssuet.edu.pk/,Engineering
+Sir Syed University of Engineering and Technology,,,Ms In Software Engineering,,engineering,,,http://www.ssuet.edu.pk/,Engineering
+Sir Syed University of Engineering and Technology,,,Ms Mathematics,,sciences,,,http://www.ssuet.edu.pk/,Sciences
+Sir Syed University of Engineering and Technology,,,Ms Telecommunication Engineering,,engineering,,,http://www.ssuet.edu.pk/,Engineering
+Sir Syed University of Engineering and Technology,,,Phd Biomedical Engineering,,engineering,,,http://www.ssuet.edu.pk/,Engineering
+Sir Syed University of Engineering and Technology,,,Phd Computer Engineering,,engineering,,,http://www.ssuet.edu.pk/,Engineering
+Sir Syed University of Engineering and Technology,,,Phd In Electronic Engineering,,engineering,,,http://www.ssuet.edu.pk/,Engineering
+Sindh Agriculture University,,,Computer Science,,computer_science,,,http://sau.edu.pk,IT/CS
+Sindh Agriculture University,,,Software Engineering,,engineering,,,http://sau.edu.pk,Engineering
+Sindh Agriculture University,,,Electrical Engineering,,engineering,,,http://sau.edu.pk,Engineering
+Sindh Agriculture University,,,Mechanical Engineering,,engineering,,,http://sau.edu.pk,Engineering
+Sindh Agriculture University,,,Physics,,sciences,,,http://sau.edu.pk,Sciences
+University of Karachi,,,Phd In Organic Chemistry,,sciences,,,http://uok.edu.pk,Sciences
+Salim Habib University,,,Computer Science,,computer_science,,,http://shu.edu.pk,IT/CS
+Salim Habib University,,,Software Engineering,,engineering,,,http://shu.edu.pk,Engineering
+Salim Habib University,,,Electrical Engineering,,engineering,,,http://shu.edu.pk,Engineering
+Salim Habib University,,,Mechanical Engineering,,engineering,,,http://shu.edu.pk,Engineering
+Salim Habib University,,,Physics,,sciences,,,http://shu.edu.pk,Sciences
+Ziauddin University,,,Computer Science,,computer_science,,,http://zu.edu.pk,IT/CS
+Ziauddin University,,,Software Engineering,,engineering,,,http://zu.edu.pk,Engineering
+Ziauddin University,,,Electrical Engineering,,engineering,,,http://zu.edu.pk,Engineering
+Ziauddin University,,,Mechanical Engineering,,engineering,,,http://zu.edu.pk,Engineering
+Ziauddin University,,,Physics,,sciences,,,http://zu.edu.pk,Sciences
+Balochistan University of Engineering and Technology,,,Be Civil Engineering,,engineering,,,https://www.buetk.edu.pk/,Engineering
+Balochistan University of Engineering and Technology,,,Be Computer Systems Engineering,,engineering,,,https://www.buetk.edu.pk/,Engineering
+Balochistan University of Engineering and Technology,,,Be Electrical Engineering,,engineering,,,https://www.buetk.edu.pk/,Engineering
+Balochistan University of Engineering and Technology,,,Be Electronic Engineering,,engineering,,,https://www.buetk.edu.pk/,Engineering
+Balochistan University of Engineering and Technology,,,Be Energy System Engineering,,engineering,,,https://www.buetk.edu.pk/,Engineering
+Balochistan University of Engineering and Technology,,,Be Mechanical Engineering,,engineering,,,https://www.buetk.edu.pk/,Engineering
+Balochistan University of Engineering and Technology,,,Bs Computer Science,,computer_science,,,https://www.buetk.edu.pk/,IT/CS
+Balochistan University of Engineering and Technology,,,Bs Information Technology,,computer_science,,,https://www.buetk.edu.pk/,IT/CS
+Balochistan University of Engineering and Technology,,,Bs Software Engineering,,engineering,,,https://www.buetk.edu.pk/,Engineering
+Balochistan University of Engineering and Technology,,,Ms Computer Science,,computer_science,,,https://www.buetk.edu.pk/,IT/CS
+Mirpur University of Science and Technology,,,Computer Science,,computer_science,,,http://www.must.edu.pk/,IT/CS
+Mirpur University of Science and Technology,,,Software Engineering,,engineering,,,http://www.must.edu.pk/,Engineering
+Mirpur University of Science and Technology,,,Electrical Engineering,,engineering,,,http://www.must.edu.pk/,Engineering
+Mirpur University of Science and Technology,,,Mechanical Engineering,,engineering,,,http://www.must.edu.pk/,Engineering
+Mirpur University of Science and Technology,,,Physics,,sciences,,,http://www.must.edu.pk/,Sciences
+University of Azad Jammu and Kashmir,,,Computer Science,,computer_science,,,http://www.ajku.edu.pk,IT/CS
+University of Azad Jammu and Kashmir,,,Software Engineering,,engineering,,,http://www.ajku.edu.pk,Engineering
+University of Azad Jammu and Kashmir,,,Electrical Engineering,,engineering,,,http://www.ajku.edu.pk,Engineering
+University of Azad Jammu and Kashmir,,,Mechanical Engineering,,engineering,,,http://www.ajku.edu.pk,Engineering
+University of Azad Jammu and Kashmir,,,Physics,,sciences,,,http://www.ajku.edu.pk,Sciences
+Washington Accord,,,Computer Science,,computer_science,,,https://web.archive.org/web/20100215150256/http://www.utar.edu.my/fes/file/OBE.pdf,IT/CS
+Washington Accord,,,Software Engineering,,engineering,,,https://web.archive.org/web/20100215150256/http://www.utar.edu.my/fes/file/OBE.pdf,Engineering
+Washington Accord,,,Electrical Engineering,,engineering,,,https://web.archive.org/web/20100215150256/http://www.utar.edu.my/fes/file/OBE.pdf,Engineering
+Washington Accord,,,Mechanical Engineering,,engineering,,,https://web.archive.org/web/20100215150256/http://www.utar.edu.my/fes/file/OBE.pdf,Engineering
+Washington Accord,,,Physics,,sciences,,,https://web.archive.org/web/20100215150256/http://www.utar.edu.my/fes/file/OBE.pdf,Sciences
+Regulation and licensure in engineering,,,Be A Member Of An Engineering Chamber,,engineering,,,http://sce.uhcl.edu/helm/SWEBOK_IEEE/papers/10%20reprint%205.pdf,Engineering
+Regulation and licensure in engineering,,,Be Accredited By The Engineering Accreditat,,engineering,,,http://sce.uhcl.edu/helm/SWEBOK_IEEE/papers/10%20reprint%205.pdf,Engineering
+Regulation and licensure in engineering,,,Be Confused With An Engineering Technician,,engineering,,,http://sce.uhcl.edu/helm/SWEBOK_IEEE/papers/10%20reprint%205.pdf,Engineering
+Regulation and licensure in engineering,,,Be Registered With The Engineering Council,,engineering,,,http://sce.uhcl.edu/helm/SWEBOK_IEEE/papers/10%20reprint%205.pdf,Engineering
+Regulation and licensure in engineering,,,Be Required For Other Engineering Work,,engineering,,,http://sce.uhcl.edu/helm/SWEBOK_IEEE/papers/10%20reprint%205.pdf,Engineering
+Regulation and licensure in engineering,,,Bsc Engineering,,engineering,,,http://sce.uhcl.edu/helm/SWEBOK_IEEE/papers/10%20reprint%205.pdf,Engineering
+Regulation and licensure in engineering,,,Bsc Or Higher With Relevant Engineering Expe,,engineering,,,http://sce.uhcl.edu/helm/SWEBOK_IEEE/papers/10%20reprint%205.pdf,Engineering
+Mirpur University of Science & Technology,,,Computer Science,,computer_science,,,http://www.must.edu.pk/,IT/CS
+Mirpur University of Science & Technology,,,Software Engineering,,engineering,,,http://www.must.edu.pk/,Engineering
+Mirpur University of Science & Technology,,,Electrical Engineering,,engineering,,,http://www.must.edu.pk/,Engineering
+Mirpur University of Science & Technology,,,Mechanical Engineering,,engineering,,,http://www.must.edu.pk/,Engineering
+Mirpur University of Science & Technology,,,Physics,,sciences,,,http://www.must.edu.pk/,Sciences
+COMSATS Institute of Information Technology,,,Ms In Artificial Intelligence,,computer_science,,,http://comsats.edu.pk,IT/CS
+COMSATS Institute of Information Technology,,,Ms In Biochemistry And Molecular Biology,,sciences,,,http://comsats.edu.pk,Sciences
+COMSATS Institute of Information Technology,,,Ms In Biotechnology,,sciences,,,http://comsats.edu.pk,Sciences
+COMSATS Institute of Information Technology,,,Ms In Chemical Engineering,,engineering,,,http://comsats.edu.pk,Engineering
+COMSATS Institute of Information Technology,,,Ms In Chemistry,,sciences,,,http://comsats.edu.pk,Sciences
+COMSATS Institute of Information Technology,,,Ms In Civil Engineering,,engineering,,,http://comsats.edu.pk,Engineering
+COMSATS Institute of Information Technology,,,Ms In Computer Engineering,,engineering,,,http://comsats.edu.pk,Engineering
+COMSATS Institute of Information Technology,,,Ms In Computer Science,,computer_science,,,http://comsats.edu.pk,IT/CS
+COMSATS Institute of Information Technology,,,Ms In Earth Sciences,,,,,http://comsats.edu.pk,Sciences
+COMSATS Institute of Information Technology,,,Ms In Electrical Engineering,,engineering,,,http://comsats.edu.pk,Engineering
+COMSATS Institute of Information Technology,,,Ms In Energy & Environmental Engineering,,engineering,,,http://comsats.edu.pk,Engineering
+COMSATS Institute of Information Technology,,,Ms In Environmental Engineering,,engineering,,,http://comsats.edu.pk,Engineering
+COMSATS Institute of Information Technology,,,Ms In Environmental Sciences,,sciences,,,http://comsats.edu.pk,Sciences
+COMSATS Institute of Information Technology,,,Ms In Mathematics,,sciences,,,http://comsats.edu.pk,Sciences
+COMSATS Institute of Information Technology,,,Ms In Mechanical Engineering,,engineering,,,http://comsats.edu.pk,Engineering
+COMSATS Institute of Information Technology,,,Ms In Physics,,sciences,,,http://comsats.edu.pk,Sciences
+COMSATS Institute of Information Technology,,,Ms In Software Engineering,,engineering,,,http://comsats.edu.pk,Engineering
+COMSATS Institute of Information Technology,,,Ms In Statistics,,sciences,,,http://comsats.edu.pk,Sciences
+COMSATS Institute of Information Technology,,,Phd In Biochemistry And Molecular Biology,,sciences,,,http://comsats.edu.pk,Sciences
+COMSATS Institute of Information Technology,,,Phd In Biotechnology,,sciences,,,http://comsats.edu.pk,Sciences
+COMSATS Institute of Information Technology,,,Phd In Chemical Engineering,,engineering,,,http://comsats.edu.pk,Engineering
+COMSATS Institute of Information Technology,,,Phd In Chemistry,,sciences,,,http://comsats.edu.pk,Sciences
+COMSATS Institute of Information Technology,,,Phd In Computer Engineering,,engineering,,,http://comsats.edu.pk,Engineering
+COMSATS Institute of Information Technology,,,Phd In Computer Science,,computer_science,,,http://comsats.edu.pk,IT/CS
+COMSATS Institute of Information Technology,,,Phd In Electrical Engineering,,engineering,,,http://comsats.edu.pk,Engineering
+COMSATS Institute of Information Technology,,,Phd In Environmental Sciences,,sciences,,,http://comsats.edu.pk,Sciences
+COMSATS Institute of Information Technology,,,Phd In Mathematics,,sciences,,,http://comsats.edu.pk,Sciences
+COMSATS Institute of Information Technology,,,Phd In Physics,,sciences,,,http://comsats.edu.pk,Sciences
+COMSATS Institute of Information Technology,,,Phd In Statistics,,sciences,,,http://comsats.edu.pk,Sciences
+Federal Urdu University,,,Computer Science,,computer_science,,,http://fuuastisb.edu.pk,IT/CS
+Federal Urdu University,,,Software Engineering,,engineering,,,http://fuuastisb.edu.pk,Engineering
+Federal Urdu University,,,Electrical Engineering,,engineering,,,http://fuuastisb.edu.pk,Engineering
+Federal Urdu University,,,Mechanical Engineering,,engineering,,,http://fuuastisb.edu.pk,Engineering
+Federal Urdu University,,,Physics,,sciences,,,http://fuuastisb.edu.pk,Sciences
+"University of Engineering & Technology, Peshawar",,,Bs Program Focused On Software Development,,computer_science,,,http://uetpeshawar.edu.pk,IT/CS
+"University of Engineering & Technology, Peshawar",,,Phd Software Engineering,,engineering,,,http://uetpeshawar.edu.pk,Engineering
+"University of Engineering & Technology, Peshawar",,,Phd Telecom Engineering,,engineering,,,http://uetpeshawar.edu.pk,Engineering
+Muhammad Nawaz Sharif University of Engineering & Technology,,,Bs Chemistry,,sciences,,,http://mnsuet.edu.pk,Sciences
+Muhammad Nawaz Sharif University of Engineering & Technology,,,Bs Computer Science,,computer_science,,,http://mnsuet.edu.pk,IT/CS
+Muhammad Nawaz Sharif University of Engineering & Technology,,,Bs Mathematics,,sciences,,,http://mnsuet.edu.pk,Sciences
+Muhammad Nawaz Sharif University of Engineering & Technology,,,Bs Physics,,sciences,,,http://mnsuet.edu.pk,Sciences
+Muhammad Nawaz Sharif University of Engineering & Technology,,,Bsc Chemical Engineering,,engineering,,,http://mnsuet.edu.pk,Engineering
+Muhammad Nawaz Sharif University of Engineering & Technology,,,Bsc Civil Engineering Technology,,engineering,,,http://mnsuet.edu.pk,Engineering
+Muhammad Nawaz Sharif University of Engineering & Technology,,,Bsc Electrical Engineering,,engineering,,,http://mnsuet.edu.pk,Engineering
+Muhammad Nawaz Sharif University of Engineering & Technology,,,Bsc Electrical Engineering Technology,,engineering,,,http://mnsuet.edu.pk,Engineering
+Muhammad Nawaz Sharif University of Engineering & Technology,,,Bsc Mechanical Engineering Technology,,engineering,,,http://mnsuet.edu.pk,Engineering
+Muhammad Nawaz Sharif University of Engineering & Technology,,,Msc Chemical Engineering,,engineering,,,http://mnsuet.edu.pk,Engineering
+Muhammad Nawaz Sharif University of Engineering & Technology,,,Msc Electrical Engineering,,engineering,,,http://mnsuet.edu.pk,Engineering
+Khawaja Fareed University of Engineering and Information Technology,,,Bs Agricultural Engineering,,engineering,,,http://kfueit.edu.pk,Engineering
+Khawaja Fareed University of Engineering and Information Technology,,,Bs Artificial Intelligence,,computer_science,,,http://kfueit.edu.pk,IT/CS
+Khawaja Fareed University of Engineering and Information Technology,,,Bs Biochemistry,,sciences,,,http://kfueit.edu.pk,Sciences
+Khawaja Fareed University of Engineering and Information Technology,,,Bs Biotechnology,,sciences,,,http://kfueit.edu.pk,Sciences
+Khawaja Fareed University of Engineering and Information Technology,,,Bs Botany,,,,,http://kfueit.edu.pk,Sciences
+Khawaja Fareed University of Engineering and Information Technology,,,Bs Chemical Engineering,,engineering,,,http://kfueit.edu.pk,Engineering
+Khawaja Fareed University of Engineering and Information Technology,,,Bs Chemistry,,sciences,,,http://kfueit.edu.pk,Sciences
+Khawaja Fareed University of Engineering and Information Technology,,,Bs Civil Engineering,,engineering,,,http://kfueit.edu.pk,Engineering
+Khawaja Fareed University of Engineering and Information Technology,,,Bs Computational Physics,,sciences,,,http://kfueit.edu.pk,Sciences
+Khawaja Fareed University of Engineering and Information Technology,,,Bs Computer Engineering,,engineering,,,http://kfueit.edu.pk,Engineering
+Khawaja Fareed University of Engineering and Information Technology,,,Bs Computer Science,,computer_science,,,http://kfueit.edu.pk,IT/CS
+Khawaja Fareed University of Engineering and Information Technology,,,Bs Data Science,,computer_science,,,http://kfueit.edu.pk,IT/CS
+Khawaja Fareed University of Engineering and Information Technology,,,Bs Electrical Engineering,,engineering,,,http://kfueit.edu.pk,Engineering
+Khawaja Fareed University of Engineering and Information Technology,,,Bs Environmental Science,,sciences,,,http://kfueit.edu.pk,Sciences
+Khawaja Fareed University of Engineering and Information Technology,,,Bs Information Technology,,computer_science,,,http://kfueit.edu.pk,IT/CS
+Khawaja Fareed University of Engineering and Information Technology,,,Bs Mathematics,,sciences,,,http://kfueit.edu.pk,Sciences
+Khawaja Fareed University of Engineering and Information Technology,,,Bs Mechanical Engineering,,engineering,,,http://kfueit.edu.pk,Engineering
+Khawaja Fareed University of Engineering and Information Technology,,,Bs Physics,,sciences,,,http://kfueit.edu.pk,Sciences
+Khawaja Fareed University of Engineering and Information Technology,,,Bs Software Engineering,,engineering,,,http://kfueit.edu.pk,Engineering
+Khawaja Fareed University of Engineering and Information Technology,,,Bs Zoology,,,,,http://kfueit.edu.pk,Sciences
+Khawaja Fareed University of Engineering and Information Technology,,,Ms Chemical Engineering,,engineering,,,http://kfueit.edu.pk,Engineering
+Khawaja Fareed University of Engineering and Information Technology,,,Ms Chemistry,,sciences,,,http://kfueit.edu.pk,Sciences
+Khawaja Fareed University of Engineering and Information Technology,,,Ms Computer Science,,computer_science,,,http://kfueit.edu.pk,IT/CS
+Khawaja Fareed University of Engineering and Information Technology,,,Ms Engineering Management,,engineering,,,http://kfueit.edu.pk,Engineering
+Khawaja Fareed University of Engineering and Information Technology,,,Ms Information Technology,,computer_science,,,http://kfueit.edu.pk,IT/CS
+Khawaja Fareed University of Engineering and Information Technology,,,Ms Mathematics,,sciences,,,http://kfueit.edu.pk,Sciences
+Khawaja Fareed University of Engineering and Information Technology,,,Ms Software Engineering,,engineering,,,http://kfueit.edu.pk,Engineering
+Khawaja Fareed University of Engineering and Information Technology,,,Msc Chemistry,,sciences,,,http://kfueit.edu.pk,Sciences
+Khawaja Fareed University of Engineering and Information Technology,,,Msc Computer Science,,computer_science,,,http://kfueit.edu.pk,IT/CS
+Khawaja Fareed University of Engineering and Information Technology,,,Msc Mathematics,,sciences,,,http://kfueit.edu.pk,Sciences
+Khawaja Fareed University of Engineering and Information Technology,,,Msc Physics,,sciences,,,http://kfueit.edu.pk,Sciences
+Pakistan Navy Engineering College,,,Be Mechanical Engineering Course List,,engineering,,,http://pnec.nust.edu.pk,Engineering
+Pakistan Navy Engineering College,,,Ms Communications Engineering,,engineering,,,http://pnec.nust.edu.pk,Engineering
+Pakistan Navy Engineering College,,,Ms Communications Engineering Course List,,engineering,,,http://pnec.nust.edu.pk,Engineering
+Pakistan Navy Engineering College,,,Ms Control Engineering,,engineering,,,http://pnec.nust.edu.pk,Engineering
+Pakistan Navy Engineering College,,,Ms Control Engineering Course List,,engineering,,,http://pnec.nust.edu.pk,Engineering
+Pakistan Navy Engineering College,,,Phd Electrical Engineering,,engineering,,,http://pnec.nust.edu.pk,Engineering
+Pakistan Navy Engineering College,,,Phd Mechanical Engineering And Robotics,,engineering,,,http://pnec.nust.edu.pk,Engineering
+Gilgit-Baltistan,,,Computer Science,,computer_science,,,https://web.archive.org/web/20151222132257/https://www.kiu.edu.pk/campuses.php,IT/CS
+Gilgit-Baltistan,,,Software Engineering,,engineering,,,https://web.archive.org/web/20151222132257/https://www.kiu.edu.pk/campuses.php,Engineering
+Gilgit-Baltistan,,,Electrical Engineering,,engineering,,,https://web.archive.org/web/20151222132257/https://www.kiu.edu.pk/campuses.php,Engineering
+Gilgit-Baltistan,,,Mechanical Engineering,,engineering,,,https://web.archive.org/web/20151222132257/https://www.kiu.edu.pk/campuses.php,Engineering
+Gilgit-Baltistan,,,Physics,,sciences,,,https://web.archive.org/web/20151222132257/https://www.kiu.edu.pk/campuses.php,Sciences
+Lahore,,,Be Subject To Availability Of A Computer L,,computer_science,,,https://web.archive.org/web/20070519064738/http://www.pu.edu.pk/about/,IT/CS
+Madrassas,,,Computer Science,,computer_science,,,https://www.brookings.edu/articles/pakistans-madrassahs-ensuring-a-system-of-education-not-jihad/,IT/CS
+Madrassas,,,Software Engineering,,engineering,,,https://www.brookings.edu/articles/pakistans-madrassahs-ensuring-a-system-of-education-not-jihad/,Engineering
+Madrassas,,,Electrical Engineering,,engineering,,,https://www.brookings.edu/articles/pakistans-madrassahs-ensuring-a-system-of-education-not-jihad/,Engineering
+Madrassas,,,Mechanical Engineering,,engineering,,,https://www.brookings.edu/articles/pakistans-madrassahs-ensuring-a-system-of-education-not-jihad/,Engineering
+Madrassas,,,Physics,,sciences,,,https://www.brookings.edu/articles/pakistans-madrassahs-ensuring-a-system-of-education-not-jihad/,Sciences
+NAVTTC,,,Computer Science,,computer_science,,,,IT/CS
+NAVTTC,,,Software Engineering,,engineering,,,,Engineering
+NAVTTC,,,Electrical Engineering,,engineering,,,,Engineering
+NAVTTC,,,Mechanical Engineering,,engineering,,,,Engineering
+NAVTTC,,,Physics,,sciences,,,,Sciences
+NCH,,,Computer Science,,computer_science,,,,IT/CS
+NCH,,,Software Engineering,,engineering,,,,Engineering
+NCH,,,Electrical Engineering,,engineering,,,,Engineering
+NCH,,,Mechanical Engineering,,engineering,,,,Engineering
+NCH,,,Physics,,sciences,,,,Sciences
+PBC,,,Computer Science,,computer_science,,,,IT/CS
+PBC,,,Software Engineering,,engineering,,,,Engineering
+PBC,,,Electrical Engineering,,engineering,,,,Engineering
+PBC,,,Mechanical Engineering,,engineering,,,,Engineering
+PBC,,,Physics,,sciences,,,,Sciences
+PCATP,,,Computer Science,,computer_science,,,,IT/CS
+PCATP,,,Software Engineering,,engineering,,,,Engineering
+PCATP,,,Electrical Engineering,,engineering,,,,Engineering
+PCATP,,,Mechanical Engineering,,engineering,,,,Engineering
+PCATP,,,Physics,,sciences,,,,Sciences
+PCP,,,Computer Science,,computer_science,,,,IT/CS
+PCP,,,Software Engineering,,engineering,,,,Engineering
+PCP,,,Electrical Engineering,,engineering,,,,Engineering
+PCP,,,Mechanical Engineering,,engineering,,,,Engineering
+PCP,,,Physics,,sciences,,,,Sciences
+PNC,,,Computer Science,,computer_science,,,,IT/CS
+PNC,,,Software Engineering,,engineering,,,,Engineering
+PNC,,,Electrical Engineering,,engineering,,,,Engineering
+PNC,,,Mechanical Engineering,,engineering,,,,Engineering
+PNC,,,Physics,,sciences,,,,Sciences
+Abbottabad,,,Computer Science,,computer_science,,,http://biseatd.edu.pk,IT/CS
+Abbottabad,,,Software Engineering,,engineering,,,http://biseatd.edu.pk,Engineering
+Abbottabad,,,Electrical Engineering,,engineering,,,http://biseatd.edu.pk,Engineering
+Abbottabad,,,Mechanical Engineering,,engineering,,,http://biseatd.edu.pk,Engineering
+Abbottabad,,,Physics,,sciences,,,http://biseatd.edu.pk,Sciences
+AJK,,,Computer Science,,computer_science,,,https://ajkbise.edu.pk/,IT/CS
+AJK,,,Software Engineering,,engineering,,,https://ajkbise.edu.pk/,Engineering
+AJK,,,Electrical Engineering,,engineering,,,https://ajkbise.edu.pk/,Engineering
+AJK,,,Mechanical Engineering,,engineering,,,https://ajkbise.edu.pk/,Engineering
+AJK,,,Physics,,sciences,,,https://ajkbise.edu.pk/,Sciences
+Bahawalpur,,,Computer Science,,computer_science,,,http://bisebwp.edu.pk,IT/CS
+Bahawalpur,,,Software Engineering,,engineering,,,http://bisebwp.edu.pk,Engineering
+Bahawalpur,,,Electrical Engineering,,engineering,,,http://bisebwp.edu.pk,Engineering
+Bahawalpur,,,Mechanical Engineering,,engineering,,,http://bisebwp.edu.pk,Engineering
+Bahawalpur,,,Physics,,sciences,,,http://bisebwp.edu.pk,Sciences
+Bannu,,,Computer Science,,computer_science,,,http://www.biseb.edu.pk/,IT/CS
+Bannu,,,Software Engineering,,engineering,,,http://www.biseb.edu.pk/,Engineering
+Bannu,,,Electrical Engineering,,engineering,,,http://www.biseb.edu.pk/,Engineering
+Bannu,,,Mechanical Engineering,,engineering,,,http://www.biseb.edu.pk/,Engineering
+Bannu,,,Physics,,sciences,,,http://www.biseb.edu.pk/,Sciences
+Catholic,,,Computer Science,,computer_science,,,https://web.archive.org/web/20091119093346/http://www.cbe.edu.pk/cbe.htm,IT/CS
+Catholic,,,Software Engineering,,engineering,,,https://web.archive.org/web/20091119093346/http://www.cbe.edu.pk/cbe.htm,Engineering
+Catholic,,,Electrical Engineering,,engineering,,,https://web.archive.org/web/20091119093346/http://www.cbe.edu.pk/cbe.htm,Engineering
+Catholic,,,Mechanical Engineering,,engineering,,,https://web.archive.org/web/20091119093346/http://www.cbe.edu.pk/cbe.htm,Engineering
+Catholic,,,Physics,,sciences,,,https://web.archive.org/web/20091119093346/http://www.cbe.edu.pk/cbe.htm,Sciences
+Dera Ghazi Khan,,,Computer Science,,computer_science,,,http://www.bisedgkhan.edu.pk/,IT/CS
+Dera Ghazi Khan,,,Software Engineering,,engineering,,,http://www.bisedgkhan.edu.pk/,Engineering
+Dera Ghazi Khan,,,Electrical Engineering,,engineering,,,http://www.bisedgkhan.edu.pk/,Engineering
+Dera Ghazi Khan,,,Mechanical Engineering,,engineering,,,http://www.bisedgkhan.edu.pk/,Engineering
+Dera Ghazi Khan,,,Physics,,sciences,,,http://www.bisedgkhan.edu.pk/,Sciences
+Hyderabad,,,Computer Science,,computer_science,,,http://www.biseh.edu.pk/,IT/CS
+Hyderabad,,,Software Engineering,,engineering,,,http://www.biseh.edu.pk/,Engineering
+Hyderabad,,,Electrical Engineering,,engineering,,,http://www.biseh.edu.pk/,Engineering
+Hyderabad,,,Mechanical Engineering,,engineering,,,http://www.biseh.edu.pk/,Engineering
+Hyderabad,,,Physics,,sciences,,,http://www.biseh.edu.pk/,Sciences
+Karachi (intermediate),,,Computer Science,,computer_science,,,http://biek.edu.pk,IT/CS
+Karachi (intermediate),,,Software Engineering,,engineering,,,http://biek.edu.pk,Engineering
+Karachi (intermediate),,,Electrical Engineering,,engineering,,,http://biek.edu.pk,Engineering
+Karachi (intermediate),,,Mechanical Engineering,,engineering,,,http://biek.edu.pk,Engineering
+Karachi (intermediate),,,Physics,,sciences,,,http://biek.edu.pk,Sciences
+Karachi (secondary),,,Computer Science,,computer_science,,,http://bsek.edu.pk,IT/CS
+Karachi (secondary),,,Software Engineering,,engineering,,,http://bsek.edu.pk,Engineering
+Karachi (secondary),,,Electrical Engineering,,engineering,,,http://bsek.edu.pk,Engineering
+Karachi (secondary),,,Mechanical Engineering,,engineering,,,http://bsek.edu.pk,Engineering
+Karachi (secondary),,,Physics,,sciences,,,http://bsek.edu.pk,Sciences
+Lahore,,,Computer Science,,computer_science,,,,IT/CS
+Lahore,,,Software Engineering,,engineering,,,,Engineering
+Lahore,,,Electrical Engineering,,engineering,,,,Engineering
+Lahore,,,Mechanical Engineering,,engineering,,,,Engineering
+Lahore,,,Physics,,sciences,,,,Sciences
+Peshawar,,,Computer Science,,computer_science,,,https://bisep.edu.pk,IT/CS
+Peshawar,,,Software Engineering,,engineering,,,https://bisep.edu.pk,Engineering
+Peshawar,,,Electrical Engineering,,engineering,,,https://bisep.edu.pk,Engineering
+Peshawar,,,Mechanical Engineering,,engineering,,,https://bisep.edu.pk,Engineering
+Peshawar,,,Physics,,sciences,,,https://bisep.edu.pk,Sciences
+Rawalpindi,,,Computer Science,,computer_science,,,http://www.biserawalpindi.edu.pk/,IT/CS
+Rawalpindi,,,Software Engineering,,engineering,,,http://www.biserawalpindi.edu.pk/,Engineering
+Rawalpindi,,,Electrical Engineering,,engineering,,,http://www.biserawalpindi.edu.pk/,Engineering
+Rawalpindi,,,Mechanical Engineering,,engineering,,,http://www.biserawalpindi.edu.pk/,Engineering
+Rawalpindi,,,Physics,,sciences,,,http://www.biserawalpindi.edu.pk/,Sciences
+Sargodha,,,Computer Science,,computer_science,,,http://bisesargodha.edu.pk,IT/CS
+Sargodha,,,Software Engineering,,engineering,,,http://bisesargodha.edu.pk,Engineering
+Sargodha,,,Electrical Engineering,,engineering,,,http://bisesargodha.edu.pk,Engineering
+Sargodha,,,Mechanical Engineering,,engineering,,,http://bisesargodha.edu.pk,Engineering
+Sargodha,,,Physics,,sciences,,,http://bisesargodha.edu.pk,Sciences
+PERN,,,Computer Science,,computer_science,,,https://must.edu.pk/hec-projects/,IT/CS
+PERN,,,Software Engineering,,engineering,,,https://must.edu.pk/hec-projects/,Engineering
+PERN,,,Electrical Engineering,,engineering,,,https://must.edu.pk/hec-projects/,Engineering
+PERN,,,Mechanical Engineering,,engineering,,,https://must.edu.pk/hec-projects/,Engineering
+PERN,,,Physics,,sciences,,,https://must.edu.pk/hec-projects/,Sciences
+PSF,,,Computer Science,,computer_science,,,,IT/CS
+PSF,,,Software Engineering,,engineering,,,,Engineering
+PSF,,,Electrical Engineering,,engineering,,,,Engineering
+PSF,,,Mechanical Engineering,,engineering,,,,Engineering
+PSF,,,Physics,,sciences,,,,Sciences
+Daanish Schools,,,Computer Science,,computer_science,,,http://daanishschools.edu.pk,IT/CS
+Daanish Schools,,,Software Engineering,,engineering,,,http://daanishschools.edu.pk,Engineering
+Daanish Schools,,,Electrical Engineering,,engineering,,,http://daanishschools.edu.pk,Engineering
+Daanish Schools,,,Mechanical Engineering,,engineering,,,http://daanishschools.edu.pk,Engineering
+Daanish Schools,,,Physics,,sciences,,,http://daanishschools.edu.pk,Sciences
+TDF,,,Computer Science,,computer_science,,,https://dps.edu.pk/index.php,IT/CS
+TDF,,,Software Engineering,,engineering,,,https://dps.edu.pk/index.php,Engineering
+TDF,,,Electrical Engineering,,engineering,,,https://dps.edu.pk/index.php,Engineering
+TDF,,,Mechanical Engineering,,engineering,,,https://dps.edu.pk/index.php,Engineering
+TDF,,,Physics,,sciences,,,https://dps.edu.pk/index.php,Sciences
+TCF,,,Computer Science,,computer_science,,,,IT/CS
+TCF,,,Software Engineering,,engineering,,,,Engineering
+TCF,,,Electrical Engineering,,engineering,,,,Engineering
+TCF,,,Mechanical Engineering,,engineering,,,,Engineering
+TCF,,,Physics,,sciences,,,,Sciences
+Pakistani students abroad,,,Computer Science,,computer_science,,,http://www.map.edu.pt/,IT/CS
+Pakistani students abroad,,,Software Engineering,,engineering,,,http://www.map.edu.pt/,Engineering
+Pakistani students abroad,,,Electrical Engineering,,engineering,,,http://www.map.edu.pt/,Engineering
+Pakistani students abroad,,,Mechanical Engineering,,engineering,,,http://www.map.edu.pt/,Engineering
+Pakistani students abroad,,,Physics,,sciences,,,http://www.map.edu.pt/,Sciences

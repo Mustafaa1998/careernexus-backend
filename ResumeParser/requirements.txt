@@ -1,0 +1,35 @@
+fastapi==0.103.2
+pydantic==1.10.15
+starlette==0.27.0
+uvicorn[standard]==0.23.2
+
+# Database
+pymongo==4.6.1
+SQLAlchemy>=2.0.0,<2.1.0
+motor==3.6.0
+psycopg2-binary==2.9.9
+
+# HTTP Client
+httpx==0.25.0
+
+# OCR + PDF processing
+pytesseract==0.3.10
+pdf2image==1.17.0
+pillow==10.2.0
+pypdf2==3.0.1
+pdfplumber==0.11.4
+pymupdf==1.24.10
+
+# NLP
+spacy==3.7.4
+# (recommended: install model in Dockerfile)
+# RUN python -m spacy download en_core_web_sm
+
+# Utilities
+python-dotenv==1.0.1
+python-multipart==0.0.9
+numpy==1.26.4
+pandas==2.1.4
+email-validator==2.1.0.post1
+PyJWT[crypto]==2.8.0
+python-dateutil==2.9.0.post0

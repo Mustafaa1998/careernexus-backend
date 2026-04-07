@@ -1,0 +1,67 @@
+{
+  "info": {
+    "name": "CareerNexus Uni Recommender",
+    "_postman_id": "9d38f3a6-aaaa-bbbb-cccc-uni-rec",
+    "description": "Suggest + Recommend endpoints",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Suggest: BS CS Karachi (page 1)",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://127.0.0.1:8001/v1/suggest/programs?field=computer%20science&city=karachi&level=bs&page=1&page_size=50&universities_limit=8",
+          "protocol": "http",
+          "host": ["127","0","0","1"],
+          "port": "8001",
+          "path": ["v1","suggest","programs"],
+          "query": [
+            {"key":"field","value":"computer science"},
+            {"key":"city","value":"karachi"},
+            {"key":"level","value":"bs"},
+            {"key":"page","value":"1"},
+            {"key":"page_size","value":"50"},
+            {"key":"universities_limit","value":"8"}
+          ]
+        }
+      }
+    },
+    {
+      "name": "Recommend: BS Computer Science (flat list)",
+      "request": {
+        "method": "POST",
+        "header":[{"key":"Content-Type","value":"application/json"}],
+        "url": "http://127.0.0.1:8001/v1/recommend",
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"level\": \"bs\",\n  \"field\": \"computer science\",\n  \"city\": \"karachi\",\n  \"limit\": 30,\n  \"program_name\": \"computer science\"\n}"
+        }
+      }
+    },
+    {
+      "name": "Recommend: BS Software Engineering",
+      "request": {
+        "method": "POST",
+        "header":[{"key":"Content-Type","value":"application/json"}],
+        "url": "http://127.0.0.1:8001/v1/recommend",
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"level\": \"bs\",\n  \"field\": \"computer science\",\n  \"city\": \"karachi\",\n  \"limit\": 30,\n  \"program_name\": \"software engineering\"\n}"
+        }
+      }
+    },
+    {
+      "name": "Recommend: BS Data Science",
+      "request": {
+        "method": "POST",
+        "header":[{"key":"Content-Type","value":"application/json"}],
+        "url": "http://127.0.0.1:8001/v1/recommend",
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"level\": \"bs\",\n  \"field\": \"computer science\",\n  \"city\": \"karachi\",\n  \"limit\": 30,\n  \"program_name\": \"data science\"\n}"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+fastapi==0.119.0
+uvicorn[standard]==0.37.0
+python-dotenv==1.1.1
+python-multipart==0.0.20
+httpx==0.28.1
+
+SQLAlchemy==2.0.44
+psycopg2-binary==2.9.11
+
+pydantic==2.12.5
+pydantic-settings==2.11.0
+
+PyJWT[crypto]==2.10.1
+
+# If you REALLY use these in psychometric, keep them; otherwise remove to speed up deploy:
+pandas==2.3.3
+numpy==2.3.3
+scikit-learn==1.7.2
+pdfplumber==0.11.7
+spacy==3.8.7
